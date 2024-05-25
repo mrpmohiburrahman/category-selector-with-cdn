@@ -85,31 +85,46 @@ export type Library = {
   matchScore?: number;
 };
 
+const green = "\x1b[32m";
+const underline = "\x1b[4m";
+const reset = "\x1b[0m";
+
 async function main() {
   const filePath = path.join(__dirname, "libraries.json");
   const rawItems: raw_items_types = JSON.parse(readFileSync(filePath, "utf8"));
 
   for (const library of rawItems.libraries) {
-    console.log(
-      `Processing library: ${
-        library.github?.fullName || library.npmPkg || "Unknown"
-      }`
-    );
-
     if (library.topicSearchString) {
       const topicCategories = library.topicSearchString.split(" ");
+      const existingCategories = new Set(library.category || []);
+      const availableCategories = topicCategories.filter(
+        (category) => !existingCategories.has(category)
+      );
+
+      // If no new categories are available, skip to the next library
+      if (availableCategories.length === 0) {
+        console.log("All categories from topicSearchString already added.");
+        continue;
+      }
+
+      const libraryName =
+        library.github?.fullName || library.npmPkg || "Unknown";
       const selectedCategory = await select({
-        message: `Select a category to add for ${
-          library.github?.fullName || library.npmPkg || "Unknown"
+        message: `Select a category to add for ${green}${underline}${libraryName}${reset}${
+          existingCategories.size > 0
+            ? `:\n\nExisting categories:\n${Array.from(existingCategories).join(
+                "\n"
+              )}`
+            : ""
         }:`,
-        options: topicCategories.map((category) => ({
+        options: availableCategories.map((category) => ({
           name: category,
           value: category,
         })),
       });
 
       library.category = library.category || [];
-      library.category.push(...selectedCategory);
+      library.category.push(selectedCategory);
 
       writeFileSync(filePath, JSON.stringify(rawItems, null, 2));
       console.log("Updated library:", library);
