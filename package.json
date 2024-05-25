@@ -1,20 +1,26 @@
 {
+  "type": "module",
   "name": "category-selector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts"
+    "start": "tsx index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12",
     "ts-node": "^10.9.2",
+    "tsx": "^4.11.0",
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "inquirer": "^9.2.22"
+    "flexsearch": "^0.7.43",
+    "inquirer": "^9.2.22",
+    "inquirer-select-pro": "1.0.0-alpha.4"
   }
 }
