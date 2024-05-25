@@ -3,6 +3,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { select } from "inquirer-select-pro";
 
 // Get the directory name in an ES module context
 const __filename = fileURLToPath(import.meta.url);
@@ -88,6 +89,7 @@ type Library = {
   nameOverride?: string;
   popularity?: number;
   matchScore?: number;
+  category?: string[];
 };
 
 const GITHUB_URL_PATTERN = /^https:\/\/github\.com\/([\w-]+)\/([\w-]+)(\/.*)?$/;
@@ -342,6 +344,19 @@ const processLibraries = async (libraries: Library[]): Promise<void> => {
 
     data = calculateDirectoryScore(data);
     data = calculatePopularityScore(data);
+
+    // Select categories based on topicSearchString
+    const topicCategories = data.topicSearchString.split(" ");
+    const selectedCategories = await select({
+      message: `Select categories for ${data.github?.fullName || data.npmPkg}:`,
+      multiple: true,
+      options: topicCategories.map((category) => ({
+        name: category,
+        value: category,
+      })),
+    });
+
+    data.category = selectedCategories;
 
     console.log(`🚀 ~ processLibraries ~ data after calculation:`, data);
     appendToJsonFile(path.join(__dirname, "processed-libraries.json"), data);
