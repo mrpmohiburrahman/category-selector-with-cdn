@@ -1,13 +1,13 @@
 import { readFileSync, writeFileSync } from "fs";
+import fs from "fs";
 import { select } from "inquirer-select-pro";
 import path from "path";
 import { Library } from "../types";
-
 import { fileURLToPath } from "url";
 import { loadProcessedLibraries } from "./loadProcessedLibraries";
 import { saveProcessedLibrary } from "./saveProcessedLibrary";
-import { selectLibrariesForCategory } from "./selectLibrariesForCategory";
 import fetchAndSelectLibraries from "./fetchAndSelectLibraries";
+
 // Get the directory name in an ES module context
 // @ts-ignore
 const __filename = fileURLToPath(import.meta.url);
@@ -20,90 +20,88 @@ export const green = "\x1b[32m";
 export const underline = "\x1b[4m";
 export const reset = "\x1b[0m";
 
-export const processedFilePath = path.join(
-  __dirname,
-  "processedLibraries.json"
-);
-
-export async function setCategory() {
+export async function setCategory(useChunks: boolean = false) {
   const filePath = path.join(__dirname, "libraries.json");
-  const rawItems: raw_items_types = JSON.parse(readFileSync(filePath, "utf8"));
-
   const processedLibraries = loadProcessedLibraries();
-  const totalLibraries = rawItems.libraries.length;
+  const chunksFolderPath = path.join(__dirname, "chunks");
 
-  for (let i = 0; i < totalLibraries; i++) {
-    const library = rawItems.libraries[i];
-    const libraryUrl = library.githubUrl;
+  const processLibraryFile = async (file: string) => {
+    const rawItems: raw_items_types = JSON.parse(readFileSync(file, "utf8"));
+    const totalLibraries = rawItems.libraries.length;
 
-    if (processedLibraries.has(libraryUrl)) {
-      console.log(
-        `Library ${
+    for (let i = 0; i < totalLibraries; i++) {
+      const library = rawItems.libraries[i];
+      const libraryUrl = library.githubUrl;
+
+      if (library.topicSearchString) {
+        const topicCategories = library.topicSearchString.split(" ");
+        const existingCategories = new Set(library.category || []);
+        const availableCategories = topicCategories.filter(
+          (category) => !existingCategories.has(category)
+        );
+
+        // If no new categories are available, skip to the next library
+        if (availableCategories.length === 0) {
+          console.log("All categories from topicSearchString already added.");
+          continue;
+        }
+
+        const selectedCategories = await select({
+          message: `Library ${
+            i + 1
+          }/${totalLibraries} -- Select categories to add for npm:${green}${underline}${
+            library.npmPkg
+          }${reset} GH ${green}${underline}${
+            library.github?.fullName
+          }${reset} ${green}${underline}${library.githubUrl}${reset} ${
+            existingCategories.size > 0
+              ? `:\n\nExisting categories:${reset}${green}\n${Array.from(
+                  existingCategories
+                ).join("\n")}${reset}\n`
+              : ""
+          }:`,
+          multiple: true,
+          options: availableCategories.map((category) => ({
+            name: category,
+            value: category,
+          })),
+        });
+
+        library.category = library.category || [];
+        library.category.push(...selectedCategories);
+        library.category = [...new Set(library.category)]; // Ensure uniqueness
+
+        writeFileSync(file, JSON.stringify(rawItems, null, 2));
+        console.log(
+          "Updated library:",
           library.github?.fullName || library.npmPkg || "Unknown"
-        } already processed. Skipping.`
-      );
-      continue;
-    }
+        );
 
-    // console.log(
-    //   `Processing library ${i + 1}/${totalLibraries}: ${
-    //     library.github?.fullName
-    //   }: ${library.npmPkg}: ${library.githubUrl}`
-    // );
+        // Fetch data for each newly selected category and select libraries
+        // await fetchAndSelectLibraries(selectedCategories, rawItems, file);
 
-    if (library.topicSearchString) {
-      const topicCategories = library.topicSearchString.split(" ");
-      const existingCategories = new Set(library.category || []);
-      const availableCategories = topicCategories.filter(
-        (category) => !existingCategories.has(category)
-      );
-
-      // If no new categories are available, skip to the next library
-      if (availableCategories.length === 0) {
-        console.log("All categories from topicSearchString already added.");
-        continue;
+        // Mark the current library as processed
+        saveProcessedLibrary(libraryUrl);
+      } else {
+        console.log("No topicSearchString available for this library.");
       }
 
-      const selectedCategories = await select({
-        message: `Library ${
-          i + 1
-        }/${totalLibraries} -- Select categories to add for npm:${green}${underline}${
-          library.npmPkg
-        }${reset} GH ${green}${underline}${
-          library.github?.fullName
-        }${reset} ${green}${underline}${library.githubUrl}${reset} ${
-          existingCategories.size > 0
-            ? `:\n\nExisting categories:${reset}${green}\n${Array.from(
-                existingCategories
-              ).join("\n")}${reset}\n`
-            : ""
-        }:`,
-        multiple: true,
-        options: availableCategories.map((category) => ({
-          name: category,
-          value: category,
-        })),
-      });
-
-      library.category = library.category || [];
-      library.category.push(...selectedCategories);
-      library.category = [...new Set(library.category)]; // Ensure uniqueness
-
-      writeFileSync(filePath, JSON.stringify(rawItems, null, 2));
-      console.log(
-        "Updated library:",
-        library.github?.fullName || library.npmPkg || "Unknown"
-      );
-
-      // Fetch data for each newly selected category and select libraries
-      await fetchAndSelectLibraries(selectedCategories, rawItems, filePath);
-
-      // Mark the current library as processed
-      saveProcessedLibrary(libraryUrl);
-    } else {
-      console.log("No topicSearchString available for this library.");
+      console.log(`Finished processing library ${i + 1}/${totalLibraries}`);
     }
+  };
 
-    console.log(`Finished processing library ${i + 1}/${totalLibraries}`);
+  if (useChunks) {
+    const chunkFiles = fs
+      .readdirSync(chunksFolderPath)
+      .filter((file) => file.endsWith(".json"));
+    for (const chunkFile of chunkFiles) {
+      const chunkFilePath = path.join(chunksFolderPath, chunkFile);
+      await processLibraryFile(chunkFilePath);
+    }
+  } else {
+    await processLibraryFile(filePath);
   }
 }
+
+// Example usage
+setCategory(true).catch(console.error); // Pass true to use chunk files, false to use single libraries.json file
