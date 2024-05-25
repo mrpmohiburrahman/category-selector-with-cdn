@@ -1,4 +1,3 @@
-
 {
   "libraries": [
     {
@@ -1356,7 +1355,7 @@
         },
         "name": "react-native-video",
         "fullName": "TheWidlarzGroup/react-native-video",
-        "description": "A \u003CVideo /\u003E component for react-native",
+        "description": "A <Video /> component for react-native",
         "topics": [],
         "license": {
           "key": "mit",
