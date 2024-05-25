@@ -7,6 +7,7 @@ import { fileURLToPath } from "url";
 import { loadProcessedLibraries } from "./loadProcessedLibraries";
 import { saveProcessedLibrary } from "./saveProcessedLibrary";
 import { selectLibrariesForCategory } from "./selectLibrariesForCategory";
+import fetchAndSelectLibraries from "./fetchAndSelectLibraries";
 // Get the directory name in an ES module context
 // @ts-ignore
 const __filename = fileURLToPath(import.meta.url);
@@ -95,25 +96,7 @@ export async function setCategory() {
       );
 
       // Fetch data for each newly selected category and select libraries
-      for (const category of selectedCategories) {
-        const selectedLibraries = await selectLibrariesForCategory(category);
-
-        // Find the selected libraries in the main JSON and update them
-        selectedLibraries.forEach((selectedLib) => {
-          const existingLibIndex = rawItems.libraries.findIndex(
-            (lib) => lib.githubUrl === selectedLib.githubUrl
-          );
-
-          if (existingLibIndex !== -1) {
-            rawItems.libraries[existingLibIndex] = selectedLib;
-          } else {
-            rawItems.libraries.push(selectedLib);
-          }
-        });
-
-        writeFileSync(filePath, JSON.stringify(rawItems, null, 2));
-        console.log(`Libraries updated for category ${category}`);
-      }
+      await fetchAndSelectLibraries(selectedCategories, rawItems, filePath);
 
       // Mark the current library as processed
       saveProcessedLibrary(libraryUrl);
