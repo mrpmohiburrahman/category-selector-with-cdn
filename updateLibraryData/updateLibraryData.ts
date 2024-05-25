@@ -5,7 +5,6 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 // Get the directory name in an ES module context
-// @ts-ignore
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -90,18 +89,6 @@ type Library = {
   popularity?: number;
   matchScore?: number;
 };
-
-const libraries: Library[] = [
-  {
-    githubUrl: "https://github.com/onubo/react-native-logs",
-    ios: true,
-    android: true,
-    web: true,
-    expoGo: true,
-    dev: true,
-    npmPkg: "react-native-logs",
-  },
-];
 
 const GITHUB_URL_PATTERN = /^https:\/\/github\.com\/([\w-]+)\/([\w-]+)(\/.*)?$/;
 
@@ -294,10 +281,41 @@ const calculatePopularityScore = (data: Library): Library => {
   };
 };
 
-const processLibraries = async (libraries: Library[]): Promise<Library[]> => {
-  const results: Library[] = [];
+const readJsonFile = (filePath: string) => {
+  if (fs.existsSync(filePath)) {
+    const data = fs.readFileSync(filePath, "utf8");
+    return JSON.parse(data);
+  }
+  return [];
+};
 
-  for (const lib of libraries) {
+const appendToJsonFile = (filePath: string, data: Library): void => {
+  const fileData = readJsonFile(filePath);
+  fileData.push(data);
+  fs.writeFileSync(filePath, JSON.stringify(fileData, null, 2));
+};
+
+const processLibraries = async (libraries: Library[]): Promise<void> => {
+  const processedLibraries = readJsonFile(
+    path.join(__dirname, "processed-libraries.json")
+  );
+  const setCategoryLibraries = readJsonFile(
+    path.join(__dirname, "../setCategory/libraries.json")
+  );
+
+  const processedUrls = new Set(
+    processedLibraries.map((lib: Library) => lib.githubUrl)
+  );
+  const setCategoryUrls = new Set(
+    setCategoryLibraries.libraries.map((lib: Library) => lib.githubUrl)
+  );
+
+  const librariesToProcess = libraries.filter(
+    (lib) =>
+      !processedUrls.has(lib.githubUrl) && !setCategoryUrls.has(lib.githubUrl)
+  );
+
+  for (const lib of librariesToProcess) {
     const match = lib.githubUrl.match(GITHUB_URL_PATTERN);
 
     if (!match) {
@@ -326,23 +344,16 @@ const processLibraries = async (libraries: Library[]): Promise<Library[]> => {
     data = calculatePopularityScore(data);
 
     console.log(`🚀 ~ processLibraries ~ data after calculation:`, data);
-    results.push(data);
+    appendToJsonFile(path.join(__dirname, "processed-libraries.json"), data);
     await sleep(500); // Rate limiting
   }
-
-  return results;
-};
-
-const saveResults = (data: Library[], filePath: string): void => {
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 };
 
 export const updateLibraryData = async (): Promise<void> => {
-  const processedLibraries = await processLibraries(libraries);
-  saveResults(
-    processedLibraries,
-    path.join(__dirname, "processed-libraries.json")
+  const reactNativeLibraries = readJsonFile(
+    path.join(__dirname, "../react-native-libraries.json")
   );
+  await processLibraries(reactNativeLibraries);
   console.log("Data processing complete.");
 };
 
