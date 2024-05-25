@@ -1,4 +1,5 @@
 import { argv } from "node:process";
+import { writeFile, readFileSync, existsSync } from "fs";
 import {
   filterLocalData,
   filterRemoteData,
@@ -6,16 +7,37 @@ import {
   top100Films,
 } from "./sampleData";
 import { SelectProps, select } from "inquirer-select-pro";
+import path from "path";
+import { fileURLToPath } from "url";
+
+// Get the directory name in an ES module context
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function createDemo<Value, Multiple extends boolean = true>(
   baseProps: SelectProps<Value, Multiple>
 ) {
-  return async (props: Partial<SelectProps<Value, Multiple>>) => {
+  return async (
+    props: Partial<SelectProps<Value, Multiple>>,
+    demoName: string
+  ) => {
     const answer = await select<Value, Multiple>({
       ...baseProps,
       ...props,
     });
     console.log(answer);
+
+    // Define the file path
+    const filePath = path.join(__dirname, `${demoName}.json`);
+
+    // Write the selected data directly to the file
+    writeFile(filePath, JSON.stringify(answer, null, 2), (err) => {
+      if (err) {
+        console.error("Error writing to file:", err);
+      } else {
+        console.log(`Data saved to ${demoName}.json`);
+      }
+    });
   };
 }
 
@@ -79,4 +101,4 @@ if (!whichDemo) {
   });
 }
 
-options?.[whichDemo as keyof typeof options]?.(flags);
+options?.[whichDemo as keyof typeof options]?.(flags, whichDemo);
