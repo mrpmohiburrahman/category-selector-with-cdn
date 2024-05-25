@@ -1,3 +1,32 @@
 {
-  "libraries": []
+  "libraries": [
+    "https://github.com/clerkinc/javascript",
+    "https://github.com/parse-community/Parse-SDK-JS",
+    "https://github.com/aws-amplify/amplify-js",
+    "https://github.com/henninghall/react-native-date-picker",
+    "https://github.com/stripe/stripe-react-native",
+    "https://github.com/CareLuLu/react-native-web-jsonschema-form",
+    "https://github.com/huextrat/react-native-maps-routes",
+    "https://github.com/expo/expo/tree/main/packages/expo-camera",
+    "https://github.com/callstack/react-native-testing-library",
+    "https://github.com/callstack/react-native-image-editor",
+    "https://github.com/lawnstarter/react-native-hotspot",
+    "https://github.com/react-native-google-signin/google-signin",
+    "https://github.com/wKovacs64/react-native-responsive-image-view",
+    "https://github.com/realm/realm-js/tree/main/packages/realm",
+    "https://github.com/dev-yakuza/react-native-image-modal",
+    "https://github.com/tschoffelen/react-native-map-link",
+    "https://github.com/react-native-maps/react-native-maps",
+    "https://github.com/FormidableLabs/react-native-app-auth",
+    "https://github.com/react-native-share/react-native-share",
+    "https://github.com/oktaysenkan/react-native-iconify",
+    "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view",
+    "https://github.com/DataDog/dd-sdk-reactnative",
+    "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native",
+    "https://github.com/invertase/react-native-google-mobile-ads",
+    "https://github.com/vivaxy/react-native-auto-height-image",
+    "https://github.com/codeherence/react-native-header",
+    "https://github.com/facebook/fbt",
+    "https://github.com/react-native-menu/menu"
+  ]
 }
