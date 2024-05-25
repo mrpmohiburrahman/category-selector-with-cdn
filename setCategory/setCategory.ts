@@ -1,8 +1,7 @@
-import { readFileSync, writeFileSync } from "fs";
-import fs from "fs";
+import { readFileSync, writeFileSync, readdirSync } from "fs";
 import { select } from "inquirer-select-pro";
 import path from "path";
-import { Library } from "../types";
+import { Library } from "../types"; // Adjust the path according to your project structure
 import { fileURLToPath } from "url";
 import { loadProcessedLibraries } from "./loadProcessedLibraries";
 import { saveProcessedLibrary } from "./saveProcessedLibrary";
@@ -20,18 +19,31 @@ export const green = "\x1b[32m";
 export const underline = "\x1b[4m";
 export const reset = "\x1b[0m";
 
-export async function setCategory(useChunks: boolean = false) {
+export async function setCategory(useChunks: boolean = true) {
   const filePath = path.join(__dirname, "libraries.json");
   const processedLibraries = loadProcessedLibraries();
   const chunksFolderPath = path.join(__dirname, "chunks");
 
   const processLibraryFile = async (file: string) => {
     const rawItems: raw_items_types = JSON.parse(readFileSync(file, "utf8"));
-    const totalLibraries = rawItems.libraries.length;
+    console.log(`🚀 ~ processLibraryFile ~ rawItems:`, rawItems.length);
+    const totalLibraries = useChunks
+      ? rawItems.length
+      : rawItems.libraries.length;
 
+    console.log(`🚀 ~ processLibraryFile ~ totalLibraries:`, totalLibraries);
     for (let i = 0; i < totalLibraries; i++) {
-      const library = rawItems.libraries[i];
+      const library = useChunks ? rawItems[i] : rawItems.libraries[i];
       const libraryUrl = library.githubUrl;
+
+      if (processedLibraries.has(libraryUrl)) {
+        console.log(
+          `Library ${
+            library.github?.fullName || library.npmPkg || "Unknown"
+          } already processed. Skipping.`
+        );
+        continue;
+      }
 
       if (library.topicSearchString) {
         const topicCategories = library.topicSearchString.split(" ");
@@ -91,11 +103,13 @@ export async function setCategory(useChunks: boolean = false) {
   };
 
   if (useChunks) {
-    const chunkFiles = fs
-      .readdirSync(chunksFolderPath)
-      .filter((file) => file.endsWith(".json"));
+    const chunkFiles = readdirSync(chunksFolderPath).filter((file) =>
+      file.endsWith(".json")
+    );
     for (const chunkFile of chunkFiles) {
       const chunkFilePath = path.join(chunksFolderPath, chunkFile);
+      console.log(`🚀 ~ setCategory ~ chunkFilePath:`, chunkFilePath);
+      console.log(`🚀 ~ setCategory ~ chunksFolderPath:`, chunksFolderPath);
       await processLibraryFile(chunkFilePath);
     }
   } else {
