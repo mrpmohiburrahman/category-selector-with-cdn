@@ -1,6 +1,10 @@
 import { existsSync, readFileSync } from "fs";
-import { processedFilePath } from "./setCategory";
 
+import path from "path";
+export const processedFilePath = path.join(
+  __dirname,
+  "processedLibraries.json"
+);
 export function loadProcessedLibraries(): Set<string> {
   if (existsSync(processedFilePath)) {
     const processedData: { libraries: string[] } = JSON.parse(

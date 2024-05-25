@@ -1,3 +1,8 @@
+import { writeFileSync } from "fs";
+import {
+  loadProcessedLibraries,
+  processedFilePath,
+} from "./loadProcessedLibraries";
 
 export function saveProcessedLibrary(githubUrl: string) {
   const processedLibraries = loadProcessedLibraries();
