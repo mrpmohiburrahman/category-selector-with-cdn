@@ -79,12 +79,7 @@
       "topicSearchString": "react react-native react-component map mapview google-maps mapkit maps",
       "category": [
         "map",
-        "mapview",
-        "google-maps",
-        "mapkit",
-        "maps",
-        [],
-        []
+        "mapview"
       ]
     },
     {

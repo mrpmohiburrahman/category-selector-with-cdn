@@ -1,7 +1,8 @@
-import { writeFileSync, readFileSync } from "fs";
+import { writeFileSync, readFileSync, existsSync } from "fs";
 import { select } from "inquirer-select-pro";
 import path from "path";
 import { fileURLToPath } from "url";
+import axios from "axios"; // Ensure you have axios installed
 
 // Get the directory name in an ES module context
 const __filename = fileURLToPath(import.meta.url);
@@ -89,11 +90,86 @@ const green = "\x1b[32m";
 const underline = "\x1b[4m";
 const reset = "\x1b[0m";
 
+const processedFilePath = path.join(__dirname, "processedLibraries.json");
+
+function loadProcessedLibraries(): Set<string> {
+  if (existsSync(processedFilePath)) {
+    const processedData: { libraries: string[] } = JSON.parse(
+      readFileSync(processedFilePath, "utf8")
+    );
+    return new Set(processedData.libraries);
+  }
+  return new Set();
+}
+
+function saveProcessedLibrary(githubUrl: string) {
+  const processedLibraries = loadProcessedLibraries();
+  processedLibraries.add(githubUrl);
+  writeFileSync(
+    processedFilePath,
+    JSON.stringify({ libraries: Array.from(processedLibraries) }, null, 2)
+  );
+}
+
+async function fetchCategoryData(category: string): Promise<raw_items_types> {
+  try {
+    const response = await axios.get(
+      `https://reactnative.directory/api/libraries?search=${category}`
+    );
+    return response.data;
+  } catch (error) {
+    console.error(`Error fetching data for category ${category}:`, error);
+    return { libraries: [], total: 0 };
+  }
+}
+
+async function selectLibrariesForCategory(
+  category: string
+): Promise<Library[]> {
+  const categoryData = await fetchCategoryData(category);
+  if (categoryData.libraries.length > 0) {
+    const selectedLibraries = await select({
+      message: `Select libraries for the category ${green}${underline}${category}${reset}:`,
+      multiple: true,
+      options: categoryData.libraries.map((lib) => ({
+        name: lib.github?.fullName || lib.npmPkg || "Unknown",
+        value: lib,
+      })),
+    });
+
+    selectedLibraries.forEach((lib: Library) => {
+      lib.category = lib.category || [];
+      if (!lib.category.includes(category)) {
+        lib.category.push(category);
+      }
+      lib.category = [...new Set(lib.category)]; // Ensure uniqueness
+    });
+
+    return selectedLibraries;
+  } else {
+    console.log(`No libraries found for category ${category}`);
+    return [];
+  }
+}
+
 async function main() {
   const filePath = path.join(__dirname, "libraries.json");
   const rawItems: raw_items_types = JSON.parse(readFileSync(filePath, "utf8"));
 
+  const processedLibraries = loadProcessedLibraries();
+
   for (const library of rawItems.libraries) {
+    const libraryUrl = library.githubUrl;
+
+    if (processedLibraries.has(libraryUrl)) {
+      console.log(
+        `Library ${
+          library.github?.fullName || library.npmPkg || "Unknown"
+        } already processed. Skipping.`
+      );
+      continue;
+    }
+
     if (library.topicSearchString) {
       const topicCategories = library.topicSearchString.split(" ");
       const existingCategories = new Set(library.category || []);
@@ -109,14 +185,15 @@ async function main() {
 
       const libraryName =
         library.github?.fullName || library.npmPkg || "Unknown";
-      const selectedCategory = await select({
-        message: `Select a category to add for ${green}${underline}${libraryName}${reset}${
+      const selectedCategories = await select({
+        message: `Select categories to add for ${green}${underline}${libraryName}${reset}${
           existingCategories.size > 0
             ? `:\n\nExisting categories:\n${Array.from(existingCategories).join(
                 "\n"
               )}`
             : ""
         }:`,
+        multiple: true,
         options: availableCategories.map((category) => ({
           name: category,
           value: category,
@@ -124,10 +201,38 @@ async function main() {
       });
 
       library.category = library.category || [];
-      library.category.push(selectedCategory);
+      library.category.push(...selectedCategories);
+      library.category = [...new Set(library.category)]; // Ensure uniqueness
 
       writeFileSync(filePath, JSON.stringify(rawItems, null, 2));
-      console.log("Updated library:", library);
+      console.log(
+        "Updated library:",
+        library.github?.fullName || library.npmPkg || "Unknown"
+      );
+
+      // Fetch data for each newly selected category and select libraries
+      for (const category of selectedCategories) {
+        const selectedLibraries = await selectLibrariesForCategory(category);
+
+        // Find the selected libraries in the main JSON and update them
+        selectedLibraries.forEach((selectedLib) => {
+          const existingLibIndex = rawItems.libraries.findIndex(
+            (lib) => lib.githubUrl === selectedLib.githubUrl
+          );
+
+          if (existingLibIndex !== -1) {
+            rawItems.libraries[existingLibIndex] = selectedLib;
+          } else {
+            rawItems.libraries.push(selectedLib);
+          }
+        });
+
+        writeFileSync(filePath, JSON.stringify(rawItems, null, 2));
+        console.log(`Libraries updated for category ${category}`);
+      }
+
+      // Mark the current library as processed
+      saveProcessedLibrary(libraryUrl);
     } else {
       console.log("No topicSearchString available for this library.");
     }
