@@ -102,7 +102,7 @@ const processLibraries = async (libraries: Library[]): Promise<void> => {
     (lib) =>
       !processedUrls.has(lib.githubUrl) && !setCategoryUrls.has(lib.githubUrl)
   );
-
+  let index = 0;
   for (const lib of librariesToProcess) {
     const match = lib.githubUrl.match(GITHUB_URL_PATTERN);
 
@@ -136,21 +136,23 @@ const processLibraries = async (libraries: Library[]): Promise<void> => {
     data = calculatePopularityScore(data);
 
     // Select categories based on topicSearchString
-    const topicCategories = data?.topicSearchString?.split(" ") ?? [];
-    const selectedCategories = await select({
-      message: `Select categories for npm:${green}${underline} ${data.npmPkg}${reset} GH:${green}${underline}${data.github?.fullName}${reset} ${green}${underline}${data.githubUrl}${reset}:`,
-      multiple: true,
-      options: topicCategories.map((category) => ({
-        name: category,
-        value: category,
-      })),
-    });
+    // const topicCategories = data?.topicSearchString?.split(" ") ?? [];
+    // const selectedCategories = await select({
+    //   message: `Select categories for npm:${green}${underline} ${data.npmPkg}${reset} GH:${green}${underline}${data.github?.fullName}${reset} ${green}${underline}${data.githubUrl}${reset}:`,
+    //   multiple: true,
+    //   options: topicCategories.map((category) => ({
+    //     name: category,
+    //     value: category,
+    //   })),
+    // });
 
-    data.category = selectedCategories;
+    // data.category = selectedCategories;
 
-    // console.log(`🚀 ~ processLibraries ~ data after calculation:`, data);
+    console.log(`🚀 ~ processLibrary no ${index}: `, data.githubUrl);
+
     appendToJsonFile(path.join(__dirname, "processed-libraries.json"), data);
-    await sleep(500); // Rate limiting
+    index++;
+    await sleep(300); // Rate limiting
   }
 };
 
