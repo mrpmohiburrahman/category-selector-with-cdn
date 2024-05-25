@@ -132,7 +132,9 @@ async function selectLibrariesForCategory(
       message: `Select libraries for the category ${green}${underline}${category}${reset}:`,
       multiple: true,
       options: categoryData.libraries.map((lib) => ({
-        name: lib.github?.fullName || lib.npmPkg || "Unknown",
+        name: `${reset}${green}${underline}${
+          lib.npmPkg || "Unknown"
+        }${reset} -- ${lib.githubUrl}`,
         value: lib,
       })),
     });
@@ -157,8 +159,10 @@ async function main() {
   const rawItems: raw_items_types = JSON.parse(readFileSync(filePath, "utf8"));
 
   const processedLibraries = loadProcessedLibraries();
+  const totalLibraries = rawItems.libraries.length;
 
-  for (const library of rawItems.libraries) {
+  for (let i = 0; i < totalLibraries; i++) {
+    const library = rawItems.libraries[i];
     const libraryUrl = library.githubUrl;
 
     if (processedLibraries.has(libraryUrl)) {
@@ -169,6 +173,12 @@ async function main() {
       );
       continue;
     }
+
+    // console.log(
+    //   `Processing library ${i + 1}/${totalLibraries}: ${
+    //     library.github?.fullName
+    //   }: ${library.npmPkg}: ${library.githubUrl}`
+    // );
 
     if (library.topicSearchString) {
       const topicCategories = library.topicSearchString.split(" ");
@@ -183,14 +193,18 @@ async function main() {
         continue;
       }
 
-      const libraryName =
-        library.github?.fullName || library.npmPkg || "Unknown";
       const selectedCategories = await select({
-        message: `Select categories to add for ${green}${underline}${libraryName}${reset}${
+        message: `Library ${
+          i + 1
+        }/${totalLibraries} -- Select categories to add for npm:${green}${underline}${
+          library.npmPkg
+        }${reset} GH ${green}${underline}${
+          library.github?.fullName
+        }${reset} ${green}${underline}${library.githubUrl}${reset} ${
           existingCategories.size > 0
-            ? `:\n\nExisting categories:\n${Array.from(existingCategories).join(
-                "\n"
-              )}`
+            ? `:\n\nExisting categories:${reset}${green}\n${Array.from(
+                existingCategories
+              ).join("\n")}${reset}\n`
             : ""
         }:`,
         multiple: true,
@@ -236,6 +250,8 @@ async function main() {
     } else {
       console.log("No topicSearchString available for this library.");
     }
+
+    console.log(`Finished processing library ${i + 1}/${totalLibraries}`);
   }
 }
 
