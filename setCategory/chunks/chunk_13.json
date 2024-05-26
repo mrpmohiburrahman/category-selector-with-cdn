@@ -67,7 +67,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "cardview",
+      "card",
+      "card-view"
+    ]
   },
   {
     "githubUrl": "https://github.com/wonsikin/react-native-barcode-builder",
@@ -136,7 +141,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.083
+    "popularity": -0.083,
+    "category": [
+      "barcode"
+    ]
   },
   {
     "githubUrl": "https://github.com/jacse/react-native-app-intro-slider",
@@ -275,7 +283,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "keystore-services",
+      "keychain-services"
+    ]
   },
   {
     "githubUrl": "https://github.com/revtel/react-native-nfc-manager",
@@ -344,7 +356,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "nfc"
+    ]
   },
   {
     "githubUrl": "https://github.com/mtford90/react-native-watch-connectivity",
@@ -405,7 +420,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "watch",
+      "iwatch"
+    ]
   },
   {
     "githubUrl": "https://github.com/EkoLabs/react-native-background-downloader",
@@ -542,7 +561,15 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.668
+    "popularity": -0.668,
+    "category": [
+      "broadcast",
+      "ble",
+      "google-nearby",
+      "nearby-messages",
+      "wifi",
+      "bluetooth"
+    ]
   },
   {
     "githubUrl": "https://github.com/bberak/react-native-game-engine",
@@ -604,7 +631,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.081
+    "popularity": -0.081,
+    "category": [
+      "game-development",
+      "game-engine",
+      "game-2d"
+    ]
   },
   {
     "githubUrl": "https://github.com/Kjens93/react-native-font-faces",
@@ -678,7 +710,14 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.125
+    "popularity": -0.125,
+    "category": [
+      "fonts",
+      "font-weight",
+      "font-face",
+      "font-style",
+      "custom-fonts"
+    ]
   },
   {
     "githubUrl": "https://github.com/ammarahm-ed/react-native-actions-sheet",
@@ -767,7 +806,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "actionsheet",
+      "action-sheet",
+      "bottom-sheet",
+      "bottom-drawer",
+      "raw-bottom-sheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-photo-editor",
@@ -839,7 +885,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/mrousavy/react-native-blurhash",
@@ -930,7 +977,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "blurhash"
+    ]
   },
   {
     "githubUrl": "https://github.com/LonelyCpp/react-native-youtube-iframe",
@@ -1006,7 +1056,13 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "iframe",
+      "youtube-player",
+      "youtube-video",
+      "youtube-api"
+    ]
   },
   {
     "githubUrl": "https://github.com/mrousavy/react-native-notification-badge",
@@ -1069,7 +1125,12 @@
     "topicSearchString": "react-native native-module notification badge notifications manager library react",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": [
+      "badge",
+      "notifications",
+      "notification"
+    ]
   },
   {
     "githubUrl": "https://github.com/mcodex/react-native-rooster",
@@ -1145,7 +1206,10 @@
     "topicSearchString": "react-native toast styled-components typescript android ios macos windows",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.639
+    "popularity": -0.639,
+    "category": [
+      "toast"
+    ]
   },
   {
     "githubUrl": "https://github.com/vydimitrov/use-count-up",
@@ -1225,7 +1289,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "animate-counting",
+      "countup",
+      "react-countup"
+    ]
   },
   {
     "githubUrl": "https://github.com/vydimitrov/react-countdown-circle-timer/tree/master/packages/mobile",
@@ -1303,7 +1372,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "countdown-time",
+      "countdown-animation",
+      "countdown",
+      "timer"
+    ]
   },
   {
     "githubUrl": "https://github.com/jordanbyron/react-native-event-source",
@@ -1426,7 +1501,16 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.742
+    "popularity": -0.742,
+    "category": [
+      "sdk",
+      "zoom-us",
+      "bridge",
+      "video-calls",
+      "confrence",
+      "calls",
+      "meetings"
+    ]
   },
   {
     "githubUrl": "https://github.com/chaimPaneth/react-native-jw-media-player",
@@ -1508,7 +1592,17 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.042
+    "popularity": 0.042,
+    "category": [
+      "jwplayer",
+      "media",
+      "player",
+      "mediaplayer",
+      "media-player",
+      "jw",
+      "video",
+      "sdk"
+    ]
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-ios-kit",
@@ -1575,7 +1669,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.081
+    "popularity": -0.081,
+    "category": [
+      "ui-kit",
+      "ios-ui"
+    ]
   },
   {
     "githubUrl": "https://github.com/arronhunt/react-native-emoji-selector",
@@ -1643,7 +1741,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "category": [
+      "emoji",
+      "emoji-keyboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
@@ -1717,7 +1819,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.05
+    "popularity": -0.05,
+    "category": [
+      "bottomsheet",
+      "bottom-sheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/WrathChaos/react-native-header-view",
@@ -1794,7 +1900,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.526
+    "popularity": -0.526,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/thegamenicorus/react-native-phone-input",
@@ -1858,7 +1965,8 @@
       "Popular",
       "Lots of open issues"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Gustash/react-native-siri-shortcut",
@@ -1926,7 +2034,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.069
+    "popularity": -0.069,
+    "category": [
+      "siri",
+      "siri-shortcuts"
+    ]
   },
   {
     "githubUrl": "https://github.com/Gustash/react-native-image-keyboard",
@@ -2124,7 +2236,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.561
+    "popularity": -0.561,
+    "category": [
+      "app-review",
+      "playstore",
+      "appstore"
+    ]
   },
   {
     "githubUrl": "https://github.com/xanderdeseyn/react-native-responsive-linechart",
@@ -2196,7 +2313,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.088
+    "popularity": -0.088,
+    "category": [
+      "linechart",
+      "area-chart"
+    ]
   },
   {
     "githubUrl": "https://github.com/pmadruga/react-native-clean-project",
@@ -2262,7 +2383,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/kristerkari/react-native-sass-transformer",
@@ -2329,7 +2451,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "sass",
+      "transform",
+      "scss"
+    ]
   },
   {
     "githubUrl": "https://github.com/khalisafkari/react-native-bigimageviewer",
@@ -2391,7 +2518,13 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "category": [
+      "bigimageviewer",
+      "react-native-image",
+      "imageview",
+      "image"
+    ]
   },
   {
     "githubUrl": "https://github.com/AndreiCalazans/rn-tooltip",
@@ -2530,7 +2663,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": [
+      "qr-code"
+    ]
   },
   {
     "githubUrl": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
@@ -2603,7 +2739,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.578
+    "popularity": -0.578,
+    "category": [
+      "sdk",
+      "bridge",
+      "mercadopago-api"
+    ]
   },
   {
     "githubUrl": "https://github.com/iRoachie/react-native-material-tabs",
@@ -2674,7 +2815,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "category": [
+      "tabs"
+    ]
   },
   {
     "githubUrl": "https://github.com/storybookjs/react-native",
@@ -2746,7 +2890,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "storybook"
+    ]
   },
   {
     "githubUrl": "https://github.com/WrathChaos/react-native-apple-card-views",
@@ -2888,7 +3035,8 @@
     "topicSearchString": "ios android simulator emulator recording recorder screenshot screen-capture screenrecord screen-recorder screencast mobile-development",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.589
+    "popularity": -0.589,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/ajaykumar97/react-native-simple-logger",
@@ -3145,7 +3293,12 @@
     "topicSearchString": "react-native paypal paypal-checkout braintree ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.021
+    "popularity": 0.021,
+    "category": [
+      "paypal",
+      "paypal-checkout",
+      "braintree"
+    ]
   },
   {
     "githubUrl": "https://github.com/rainbow-me/react-native-animated-charts",
@@ -3220,7 +3373,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.076
+    "popularity": 0.076,
+    "category": [
+      "charts"
+    ]
   },
   {
     "githubUrl": "https://github.com/gevgasparyan/rn-qr-generator",
@@ -3291,7 +3447,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "qrcode",
+      "qrcode-generator",
+      "qrcode-detector"
+    ]
   },
   {
     "githubUrl": "https://github.com/alpha0010/react-native-pdf-viewer",
@@ -3356,7 +3517,11 @@
     "topicSearchString": "pdf-viewer react-native pdf",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "pdf-viewer",
+      "pdf"
+    ]
   },
   {
     "githubUrl": "https://github.com/hoangnm/react-native-week-view",
@@ -3422,7 +3587,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.077
+    "popularity": 0.077,
+    "category": [
+      "weekview",
+      "calendar",
+      "calendar-view"
+    ]
   },
   {
     "githubUrl": "https://github.com/WrathChaos/react-native-bouncy-checkbox",
@@ -3500,6 +3670,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.009
+    "popularity": -0.009,
+    "category": [
+      "bouncy-checkbox",
+      "bounce",
+      "checkbox"
+    ]
   }
 ]
