@@ -72,9 +72,13 @@ export async function setCategory(useChunks: boolean = true) {
             console.log("All categories from topicSearchString already added.");
             continue;
           }
-          const message = `Library ${
+          const fileName = path.basename(file);
+
+          const message = `\n\nLibrary ${
             i + 1
-          }/${totalLibraries} -- Select categories to add for npm:${beautifyName(
+          }/${totalLibraries} -- ${beautifyName(
+            fileName
+          )} -- Select categories to add for npm:${beautifyName(
             library.npmPkg
           )}  GH ${beautifyName(library.github?.fullName)} ${beautifyName(
             library.githubUrl

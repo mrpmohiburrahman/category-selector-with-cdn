@@ -113,7 +113,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "haptic",
+      "haptic-feedback"
+    ]
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-material-dropdown",
@@ -178,7 +182,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.288
+    "popularity": -0.288,
+    "category": [
+      "material",
+      "material-design"
+    ]
   },
   {
     "githubUrl": "https://github.com/Flipkart/recyclerlistview",
@@ -262,7 +270,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": [
+      "recyclerview",
+      "listview"
+    ]
   },
   {
     "githubUrl": "https://github.com/yamill/react-native-orientation",
@@ -454,7 +466,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0.108
+    "popularity": 0.108,
+    "category": [
+      "largelist",
+      "high-performance-list"
+    ]
   },
   {
     "githubUrl": "https://github.com/magicismight/react-native-root-toast",
@@ -584,7 +600,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.323
+    "popularity": -0.323,
+    "category": [
+      "masonry-layout",
+      "masonry-grid",
+      "pinterest-like",
+      "masonry",
+      "pinterest"
+    ]
   },
   {
     "githubUrl": "https://github.com/sghiassy/react-native-sglistview",
@@ -654,7 +677,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.714
+    "popularity": -0.714,
+    "category": [
+      "listview",
+      "react-native-component",
+      "sglistview",
+      "sglistview-performance",
+      "sg"
+    ]
   },
   {
     "githubUrl": "https://github.com/thegamenicorus/react-native-timeline-listview",
@@ -717,7 +747,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.228
+    "popularity": -0.228,
+    "category": [
+      "timeline"
+    ]
   },
   {
     "githubUrl": "https://github.com/mohebifar/react-native-copilot",
@@ -786,7 +819,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/jgrancher/react-native-sketch",
@@ -846,7 +880,12 @@
     "topicSearchString": "react-native drawing touch ios sketch signature",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.771
+    "popularity": -0.771,
+    "category": [
+      "sketch",
+      "touch",
+      "drawing"
+    ]
   },
   {
     "githubUrl": "https://github.com/saleel/react-native-super-grid",
@@ -910,7 +949,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "gridview",
+      "grid",
+      "listview",
+      "responsive",
+      "responsive-grid"
+    ]
   },
   {
     "githubUrl": "https://github.com/syrusakbary/react-native-refresher",
@@ -1084,7 +1130,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.429
+    "popularity": -0.429,
+    "category": [
+      "draftjs",
+      "draft-js"
+    ]
   },
   {
     "githubUrl": "https://github.com/christopherdro/react-native-html-to-pdf",
@@ -1255,7 +1305,8 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.47
+    "popularity": -0.47,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/airamrguez/react-native-measure-text",
@@ -1313,7 +1364,8 @@
     "topicSearchString": "react-native measue text height",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.183
+    "popularity": -0.183,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/vinzscam/react-native-file-viewer",
@@ -1442,7 +1494,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "reponsive"
+    ]
   },
   {
     "githubUrl": "https://github.com/aMarCruz/react-native-text-size",
@@ -1514,7 +1569,8 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.293
+    "popularity": -0.293,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/agentcooper/react-native-hypertext",
@@ -1683,7 +1739,10 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.336
+    "popularity": -0.336,
+    "category": [
+      "fabric"
+    ]
   },
   {
     "githubUrl": "https://github.com/uxcam/react-native-ux-cam/tree/master/uxcam-react-wrapper",
@@ -1804,7 +1863,10 @@
       "Popular",
       "Not updated recently"
     ],
-    "popularity": -0.791
+    "popularity": -0.791,
+    "category": [
+      "treasuredata"
+    ]
   },
   {
     "githubUrl": "https://github.com/flurry/react-native-flurry-sdk",
@@ -1987,7 +2049,11 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.208
+    "popularity": -0.208,
+    "category": [
+      "location",
+      "gps"
+    ]
   },
   {
     "githubUrl": "https://github.com/lxsameer/react-native-geolocation-android",
@@ -2159,7 +2225,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "category": [
+      "sentry",
+      "sdk",
+      "crash-reporting"
+    ]
   },
   {
     "githubUrl": "https://github.com/solinor/react-native-bluetooth-status",
@@ -2222,7 +2293,10 @@
     "topicSearchString": "react-native bluetooth ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.044
+    "popularity": -0.044,
+    "category": [
+      "bluetooth"
+    ]
   },
   {
     "githubUrl": "https://github.com/ttdung11t2/react-native-confirmation-code-input",
@@ -2532,7 +2606,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "inappbrowser"
+    ]
   },
   {
     "githubUrl": "https://github.com/rafaelmotta/react-native-progress-bar-animated",
@@ -2644,7 +2721,11 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.515
+    "popularity": -0.515,
+    "category": [
+      "react-native-reanimated",
+      "slider-component"
+    ]
   },
   {
     "githubUrl": "https://github.com/jsoendermann/rn-section-list-get-item-layout",
@@ -2772,7 +2853,13 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "react-native-sensitive-info",
+      "android-shared-preferences",
+      "shared-preferences",
+      "keystore"
+    ]
   },
   {
     "githubUrl": "https://github.com/APSL/react-native-version-number",
@@ -2837,7 +2924,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/davidohayon669/react-native-youtube",
@@ -3034,7 +3122,8 @@
     "topicSearchString": "msal microsoft azure-active-directory azure-active-directory-b2c react-native android ios expo",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.235
+    "popularity": -0.235,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/netguru/sticky-parallax-header",
@@ -3112,6 +3201,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "parallax",
+      "stickyheader"
+    ]
   }
 ]

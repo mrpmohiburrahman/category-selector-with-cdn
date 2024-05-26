@@ -117,7 +117,10 @@
     "topicSearchString": "react-native component button",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.302
+    "popularity": -0.302,
+    "category": [
+      "component"
+    ]
   },
   {
     "githubUrl": "https://github.com/mpiannucci/react-native-context-menu-view",
@@ -186,7 +189,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.014
+    "popularity": 0.014,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/githuboftigran/rn-range-slider",
@@ -309,7 +313,8 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.7
+    "popularity": -0.7,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/FortAwesome/react-native-fontawesome",
@@ -441,7 +446,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "webview"
+    ]
   },
   {
     "githubUrl": "https://github.com/ak1394/react-native-tts",
@@ -627,7 +635,10 @@
     "topicSearchString": "react-native deep-linking ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.282
+    "popularity": -0.282,
+    "category": [
+      "deep-linking"
+    ]
   },
   {
     "githubUrl": "https://github.com/eddieowens/react-native-boundary",
@@ -685,7 +696,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.239
+    "popularity": -0.239,
+    "category": [
+      "geofencing",
+      "region-monitoring"
+    ]
   },
   {
     "githubUrl": "https://github.com/rhdeck/react-native-swift",
@@ -810,7 +825,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "redux",
+      "offline"
+    ]
   },
   {
     "githubUrl": "https://github.com/ovr/react-native-status-bar-height",
@@ -938,7 +957,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.266
+    "popularity": -0.266,
+    "category": [
+      "parsing"
+    ]
   },
   {
     "githubUrl": "https://github.com/tableflip/react-native-select-multiple",
@@ -1000,7 +1022,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "list",
+      "select",
+      "checkbox"
+    ]
   },
   {
     "githubUrl": "https://github.com/Richard-Cao/react-native-exceptions-manager",
@@ -1126,7 +1153,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "wechat",
+      "wechat-sdk"
+    ]
   },
   {
     "githubUrl": "https://github.com/Microsoft/react-native-code-push",
@@ -1193,7 +1224,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "codepush",
+      "code-push"
+    ]
   },
   {
     "githubUrl": "https://github.com/plmok61/react-navigation-transitions",
@@ -1317,7 +1352,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.047
+    "popularity": -0.047,
+    "category": [
+      "react-native-video",
+      "video-player",
+      "video-controls"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-navigation/redux-helpers",
@@ -1505,7 +1545,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "html",
+      "html-parser",
+      "html-renderer"
+    ]
   },
   {
     "githubUrl": "https://github.com/lucasferreira/react-native-flash-message",
@@ -1572,7 +1617,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.062
+    "popularity": -0.062,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/aMarCruz/react-native-photo-view-ex",
@@ -1817,7 +1863,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "webp"
+    ]
   },
   {
     "githubUrl": "https://github.com/vonovak/react-navigation-backhandler",
@@ -1881,7 +1930,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/idehub/react-native-billing",
@@ -2130,7 +2180,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.293
+    "popularity": -0.293,
+    "category": [
+      "file-access",
+      "network",
+      "file-system"
+    ]
   },
   {
     "githubUrl": "https://github.com/kmend/react-native-md5",
@@ -2353,7 +2408,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "prompt"
+    ]
   },
   {
     "githubUrl": "https://github.com/djchie/react-native-star-rating",
@@ -2417,7 +2475,19 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.281
+    "popularity": -0.281,
+    "category": [
+      "star-rating",
+      "star-rating-component",
+      "react-native-component",
+      "react-native-star-rating",
+      "star",
+      "rating",
+      "ratings",
+      "component",
+      "custom-star",
+      "star-icon"
+    ]
   },
   {
     "githubUrl": "https://github.com/shahen94/react-native-switch",
@@ -2478,7 +2548,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.293
+    "popularity": -0.293,
+    "category": [
+      "switch"
+    ]
   },
   {
     "githubUrl": "https://github.com/avishayil/react-native-user-avatar",
@@ -2610,7 +2683,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "placeholder",
+      "shimmer",
+      "skeleton"
+    ]
   },
   {
     "githubUrl": "https://github.com/lhandel/react-native-card-flip",
@@ -2672,7 +2750,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.012
+    "popularity": 0.012,
+    "category": [
+      "flip",
+      "cards",
+      "flip-card",
+      "flip-animation"
+    ]
   },
   {
     "githubUrl": "https://github.com/m0ngr31/react-native-device-detection",
@@ -2735,7 +2819,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/BondGoat/react-native-native-video-player",
@@ -2866,7 +2951,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "swipelistview",
+      "react-native-component"
+    ]
   },
   {
     "githubUrl": "https://github.com/knowbody/react-native-platform-stylesheet",
@@ -2986,7 +3075,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.312
+    "popularity": -0.312,
+    "category": [
+      "background-jobs"
+    ]
   },
   {
     "githubUrl": "https://github.com/ocetnik/react-native-background-timer",

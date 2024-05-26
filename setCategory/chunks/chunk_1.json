@@ -1132,7 +1132,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.101
+    "popularity": -0.101,
+    "category": [
+      "svg"
+    ]
   },
   {
     "githubUrl": "https://github.com/kenmaca/react-native-apple-ads-attribution",
@@ -1250,7 +1253,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.736
+    "popularity": -0.736,
+    "category": [
+      "form",
+      "react-formawesome-core",
+      "validation"
+    ]
   },
   {
     "githubUrl": "https://github.com/kkemple/react-native-sideswipe",
@@ -1364,7 +1372,14 @@
     "topicSearchString": "react-native squircle mask view superellipse apple smooth-corners corners rounded-corners",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.611
+    "popularity": -0.611,
+    "category": [
+      "squircle",
+      "superellipse",
+      "smooth-corners",
+      "corners",
+      "rounded-corners"
+    ]
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-file-selector",
@@ -1426,7 +1441,8 @@
     "topicSearchString": "react-native andriod ios",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.509
+    "popularity": -0.509,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-material-shadows",
@@ -1485,7 +1501,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.867
+    "popularity": -0.867,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-about-libraries",
@@ -1551,7 +1568,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.867
+    "popularity": -0.867,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-siri-wave-view",
@@ -1616,7 +1634,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.815
+    "popularity": -0.815,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-lock-screen",
@@ -1680,7 +1699,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.646
+    "popularity": -0.646,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-styled-dialogs",
@@ -1744,7 +1764,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.593
+    "popularity": -0.593,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-morphing-text",
@@ -1809,7 +1830,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.89
+    "popularity": -0.89,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-chip-view",
@@ -1874,7 +1896,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.594
+    "popularity": -0.594,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Instabug/instabug-reactnative",
@@ -1941,7 +1964,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.042
+    "popularity": -0.042,
+    "category": [
+      "instabug",
+      "bug-reporting",
+      "bug-reporter"
+    ]
   },
   {
     "githubUrl": "https://github.com/Purii/react-native-tableview-simple",
@@ -2018,7 +2046,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.019
+    "popularity": 0.019,
+    "category": [
+      "tableview"
+    ]
   },
   {
     "githubUrl": "https://github.com/facebook/react-native-fbsdk",
@@ -2211,7 +2242,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
@@ -2283,7 +2315,17 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.352
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "multiline-graph",
+      "line-graph",
+      "scatterpoint-graph",
+      "chart",
+      "running-line-animation",
+      "d3js",
+      "d3v4"
+    ]
   },
   {
     "githubUrl": "https://github.com/vonovak/react-native-bottom-toolbar",
@@ -2346,7 +2388,11 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.53
+    "popularity": -0.53,
+    "category": [
+      "tabbar",
+      "tabs"
+    ]
   },
   {
     "githubUrl": "https://github.com/vonovak/react-navigation-props-mapper",
@@ -2468,7 +2514,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "event",
+      "calendar",
+      "events"
+    ]
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-bottom-action-sheet",
@@ -2532,7 +2583,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-paper",
@@ -2608,7 +2660,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.028
+    "popularity": -0.028,
+    "category": [
+      "ui-kit"
+    ]
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-popover-menu",
@@ -2670,7 +2725,8 @@
     "topicSearchString": "react-native android ios",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.457
+    "popularity": -0.457,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/peterpme/react-native-face-pile",
@@ -2729,7 +2785,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": 0.006
+    "popularity": 0.006,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-shine-button",
@@ -2793,7 +2850,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.395
+    "popularity": -0.395,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-download-button",
@@ -2913,7 +2971,8 @@
     "topicSearchString": "react-native android ios",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.146
+    "popularity": -0.146,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/bietkul/react-reactive-form",
@@ -2989,7 +3048,17 @@
     "topicSearchString": "forms reactive-forms async-validation react react-native form-builder form-validation subscription observable observer asynchronous react-forms form-generator form-controls form-fields",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "category": [
+      "forms",
+      "reactive-forms",
+      "form-builder",
+      "form-validation",
+      "react-forms",
+      "form-generator",
+      "form-controls",
+      "form-fields"
+    ]
   },
   {
     "githubUrl": "https://github.com/hectahertz/react-native-typography",
@@ -3059,7 +3128,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.006
+    "popularity": -0.006,
+    "category": [
+      "typography",
+      "typography-themes"
+    ]
   },
   {
     "githubUrl": "https://github.com/Noitidart/react-native-buttonex",
@@ -3115,7 +3188,8 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -1.006
+    "popularity": -1.006,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/meinto/react-native-mirror",
@@ -3174,7 +3248,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.695
+    "popularity": -0.695,
+    "category": [
+      "mirror"
+    ]
   },
   {
     "githubUrl": "https://github.com/meinto/react-native-viewpager-carousel",
@@ -3239,6 +3316,12 @@
     "topicSearchString": "react-native viewpager carousel rondell android ios tabbar pager-component swipe swipeview tabs",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.187
+    "popularity": -0.187,
+    "category": [
+      "carousel",
+      "swipe",
+      "swipeview",
+      "viewpager"
+    ]
   }
 ]

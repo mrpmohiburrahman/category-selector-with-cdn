@@ -64,7 +64,8 @@
     "topicSearchString": "react-native material-design modal expo",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.67
+    "popularity": -0.67,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/maxkomarychev/react-native-ultimate-config",
@@ -136,7 +137,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": [
+      "config",
+      "dotenv"
+    ]
   },
   {
     "githubUrl": "https://github.com/mythisdev/rn-font-mapping",
@@ -199,7 +204,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.59
+    "popularity": -0.59,
+    "category": [
+      "font"
+    ]
   },
   {
     "githubUrl": "https://github.com/jeremybarbet/react-native-modalize",
@@ -279,7 +287,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.007
+    "popularity": 0.007,
+    "category": [
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-slider/tree/main/package",
@@ -356,7 +367,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "slider"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-toolkit/triangle",
@@ -422,7 +436,12 @@
     "topicSearchString": "react-native triangle geometry shapes",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.499
+    "popularity": -0.499,
+    "category": [
+      "triangle",
+      "geometry",
+      "shapes"
+    ]
   },
   {
     "githubUrl": "https://github.com/sospedra/reinput",
@@ -497,7 +516,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.055
+    "popularity": -0.055,
+    "category": [
+      "textinput"
+    ]
   },
   {
     "githubUrl": "https://github.com/alexbrazier/react-native-network-logger",
@@ -576,7 +598,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "debugger",
+      "logging"
+    ]
   },
   {
     "githubUrl": "https://github.com/goatandsheep/react-native-dotenv",
@@ -648,7 +674,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "dotenv",
+      "environment-variables",
+      "react-native-config"
+    ]
   },
   {
     "githubUrl": "https://github.com/gs-akhan/react-native-select",
@@ -715,7 +746,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.783
+    "popularity": -0.783,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/venepe/react-native-music-metadata",
@@ -835,7 +867,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0.005
+    "popularity": 0.005,
+    "category": [
+      "sound"
+    ]
   },
   {
     "githubUrl": "https://github.com/reactjs/react-timer-mixin",
@@ -1014,7 +1049,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "udp",
+      "dgram",
+      "networking"
+    ]
   },
   {
     "githubUrl": "https://github.com/rainbow-me/react-native-shadow-stack",
@@ -1071,7 +1111,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.617
+    "popularity": -0.617,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/wcandillon/react-native-redash",
@@ -1314,7 +1355,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.07
+    "popularity": -0.07,
+    "category": [
+      "qrcode",
+      "qrcode-scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/aprock/react-native-os",
@@ -1597,7 +1642,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.001
+    "popularity": -0.001,
+    "category": [
+      "marquee"
+    ]
   },
   {
     "githubUrl": "https://github.com/ascoders/react-native-image-zoom",
@@ -1850,7 +1898,10 @@
     "topicSearchString": "react-native ios push-notifications realtime-messaging",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.9
+    "popularity": -0.9,
+    "category": [
+      "realtime-messaging"
+    ]
   },
   {
     "githubUrl": "https://github.com/ivanph/react-native-webintent",
@@ -1985,7 +2036,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": [
+      "modals"
+    ]
   },
   {
     "githubUrl": "https://github.com/benevbright/react-navigation-collapsible",
@@ -2120,7 +2174,12 @@
     "topicSearchString": "barcode barcode-scanner react-native barcode-mask style react-native-barcode-mask border edges",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.007
+    "popularity": -0.007,
+    "category": [
+      "barcode-mask",
+      "barcode-scanner",
+      "barcode"
+    ]
   },
   {
     "githubUrl": "https://github.com/avishayil/react-native-restart",
@@ -2196,7 +2255,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/react-native-community/hooks",
@@ -2328,7 +2388,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "responsive-layout"
+    ]
   },
   {
     "githubUrl": "https://github.com/xamous/react-native-smooth-pincode-input",
@@ -2397,7 +2460,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "pin",
+      "pincode",
+      "textinput"
+    ]
   },
   {
     "githubUrl": "https://github.com/Agontuk/react-native-geolocation-service",
@@ -2467,7 +2535,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "location",
+      "geolocation"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-sensors/react-native-sensors",
@@ -2541,7 +2613,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "sensor",
+      "gyroscope",
+      "acceleration",
+      "magnetometer",
+      "barometer"
+    ]
   },
   {
     "githubUrl": "https://github.com/computerjazz/react-native-draggable-flatlist",
@@ -2678,7 +2757,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.07
+    "popularity": -0.07,
+    "category": [
+      "chromecast",
+      "sdk",
+      "cast-library"
+    ]
   },
   {
     "githubUrl": "https://github.com/Gil2015/react-native-table-component",
@@ -2807,7 +2891,10 @@
     "topicSearchString": "react-native react dark-mode typescript",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.051
+    "popularity": -0.051,
+    "category": [
+      "dark-mode"
+    ]
   },
   {
     "githubUrl": "https://github.com/octopitus/rn-sliding-up-panel",
@@ -3060,7 +3147,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": [
+      "polyfill",
+      "url"
+    ]
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-material-ripple",
@@ -3126,7 +3217,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "material-design",
+      "material"
+    ]
   },
   {
     "githubUrl": "https://github.com/KjellConnelly/react-native-rate",
@@ -3244,6 +3339,12 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "securerandom",
+      "randomnumbergenerator",
+      "cryptography",
+      "secrandomcopybytes"
+    ]
   }
 ]
