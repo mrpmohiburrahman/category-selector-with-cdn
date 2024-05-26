@@ -6,6 +6,7 @@ import { fileURLToPath } from "url";
 import { loadProcessedLibraries } from "./loadProcessedLibraries";
 import { saveProcessedLibrary } from "./saveProcessedLibrary";
 import fetchAndSelectLibraries from "./fetchAndSelectLibraries";
+import { beautifyName } from "../utils/beautifyLibname";
 
 // Get the directory name in an ES module context
 // @ts-ignore
@@ -25,80 +26,100 @@ export async function setCategory(useChunks: boolean = true) {
   const chunksFolderPath = path.join(__dirname, "chunks");
 
   const processLibraryFile = async (file: string) => {
-    const rawItems: raw_items_types = JSON.parse(readFileSync(file, "utf8"));
-    console.log(`🚀 ~ processLibraryFile ~ rawItems:`, rawItems.length);
-    const totalLibraries = useChunks
-      ? rawItems.length
-      : rawItems.libraries.length;
+    try {
+      const rawItems: raw_items_types = JSON.parse(readFileSync(file, "utf8"));
+      // @ts-ignore
+      console.log(`🚀 ~ processLibraryFile ~ rawItems:`, rawItems.length);
+      const totalLibraries = useChunks
+        ? // @ts-ignore
+          rawItems.length
+        : rawItems.libraries.length;
 
-    console.log(`🚀 ~ processLibraryFile ~ totalLibraries:`, totalLibraries);
-    for (let i = 0; i < totalLibraries; i++) {
-      const library = useChunks ? rawItems[i] : rawItems.libraries[i];
-      const libraryUrl = library.githubUrl;
+      console.log(`🚀 ~ processLibraryFile ~ totalLibraries:`, totalLibraries);
+      for (let i = 0; i < totalLibraries; i++) {
+        // @ts-ignore
+        const library = useChunks ? rawItems[i] : rawItems.libraries[i];
+        const libraryUrl = library.githubUrl;
 
-      if (processedLibraries.has(libraryUrl)) {
-        console.log(
-          `Library ${
-            library.github?.fullName || library.npmPkg || "Unknown"
-          } already processed. Skipping.`
-        );
-        continue;
-      }
-
-      if (library.topicSearchString) {
-        const topicCategories = library.topicSearchString.split(" ");
-        const existingCategories = new Set(library.category || []);
-        const availableCategories = topicCategories.filter(
-          (category) => !existingCategories.has(category)
-        );
-
-        // If no new categories are available, skip to the next library
-        if (availableCategories.length === 0) {
-          console.log("All categories from topicSearchString already added.");
+        if (processedLibraries.has(libraryUrl)) {
+          console.log(
+            `Library  ${beautifyName(
+              library.github?.fullName || library.npmPkg || "Unknown"
+            )} already processed. Skipping.`
+          );
           continue;
         }
 
-        const selectedCategories = await select({
-          message: `Library ${
+        if (library?.category?.length > 0) {
+          console.log(
+            `Library ${beautifyName(
+              library.github?.fullName || library.npmPkg || "Unknown"
+            )}  already has categories === ${library.category.map(
+              (item) => item
+            )}. Skipping.`
+          );
+          continue;
+        }
+        if (library.topicSearchString) {
+          const topicCategories = library.topicSearchString.split(" ");
+          const existingCategories = new Set(library.category || []);
+          const availableCategories = topicCategories.filter(
+            (category: string) => !existingCategories.has(category)
+          );
+
+          // If no new categories are available, skip to the next library
+          if (availableCategories.length === 0) {
+            console.log("All categories from topicSearchString already added.");
+            continue;
+          }
+          const message = `Library ${
             i + 1
-          }/${totalLibraries} -- Select categories to add for npm:${green}${underline}${
+          }/${totalLibraries} -- Select categories to add for npm:${beautifyName(
             library.npmPkg
-          }${reset} GH ${green}${underline}${
-            library.github?.fullName
-          }${reset} ${green}${underline}${library.githubUrl}${reset} ${
+          )}  GH ${beautifyName(library.github?.fullName)} ${beautifyName(
+            library.githubUrl
+          )} ${
             existingCategories.size > 0
               ? `:\n\nExisting categories:${reset}${green}\n${Array.from(
                   existingCategories
                 ).join("\n")}${reset}\n`
               : ""
-          }:`,
-          multiple: true,
-          options: availableCategories.map((category) => ({
-            name: category,
-            value: category,
-          })),
-        });
+          }:`;
+          const selectedCategories = await select({
+            message,
+            multiple: true,
+            options: availableCategories.map((category: string) => ({
+              name: category,
+              value: category,
+            })),
+          });
 
-        library.category = library.category || [];
-        library.category.push(...selectedCategories);
-        library.category = [...new Set(library.category)]; // Ensure uniqueness
+          library.category = library.category || [];
+          library.category.push(...selectedCategories);
+          library.category = [...new Set(library.category)]; // Ensure uniqueness
 
-        writeFileSync(file, JSON.stringify(rawItems, null, 2));
-        console.log(
-          "Updated library:",
-          library.github?.fullName || library.npmPkg || "Unknown"
-        );
+          writeFileSync(file, JSON.stringify(rawItems, null, 2));
+          console.log(
+            `Updated library: ${beautifyName(
+              library.github?.fullName || library.npmPkg || "Unknown"
+            )}`
+          );
 
-        // Fetch data for each newly selected category and select libraries
-        // await fetchAndSelectLibraries(selectedCategories, rawItems, file);
+          // Fetch data for each newly selected category and select libraries
+          // await fetchAndSelectLibraries(selectedCategories, rawItems, file);
 
-        // Mark the current library as processed
-        saveProcessedLibrary(libraryUrl);
-      } else {
-        console.log("No topicSearchString available for this library.");
+          // Mark the current library as processed
+          saveProcessedLibrary(libraryUrl);
+        } else {
+          console.log(
+            `No topicSearchString available for this library. ${library}`
+          );
+        }
+
+        console.log(`Finished processing library ${i + 1}/${totalLibraries}`);
       }
-
-      console.log(`Finished processing library ${i + 1}/${totalLibraries}`);
+    } catch (error) {
+      console.error(`🚀 ~ processLibraryFile ~ error:`, error);
     }
   };
 
@@ -108,8 +129,8 @@ export async function setCategory(useChunks: boolean = true) {
     );
     for (const chunkFile of chunkFiles) {
       const chunkFilePath = path.join(chunksFolderPath, chunkFile);
-      console.log(`🚀 ~ setCategory ~ chunkFilePath:`, chunkFilePath);
-      console.log(`🚀 ~ setCategory ~ chunksFolderPath:`, chunksFolderPath);
+      // console.log(`🚀 ~ setCategory ~ chunkFilePath:`, chunkFilePath);
+      // console.log(`🚀 ~ setCategory ~ chunksFolderPath:`, chunksFolderPath);
       await processLibraryFile(chunkFilePath);
     }
   } else {

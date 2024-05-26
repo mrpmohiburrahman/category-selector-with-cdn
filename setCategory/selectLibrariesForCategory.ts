@@ -1,8 +1,9 @@
 import { select } from "inquirer-select-pro";
 import { Library } from "../types";
-import { green, reset, underline } from "./setCategory";
 import { fetchCategoryData } from "./fetchCategoryData";
-
+const green = "\x1b[32m";
+const underline = "\x1b[4m";
+const reset = "\x1b[0m";
 export async function selectLibrariesForCategory(
   category: string
 ): Promise<Library[]> {
