@@ -232,7 +232,11 @@
     "topicSearchString": "react-native scrollview direction native scroll react javascript reactnative horizontal vertical",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.878
+    "popularity": -0.878,
+    "category": [
+      "scrollview",
+      "scroll"
+    ]
   },
   {
     "githubUrl": "https://github.com/wix/react-native-keyboard-input",
@@ -297,7 +301,13 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.243
+    "popularity": -0.243,
+    "category": [
+      "keyboard-input",
+      "keyboard",
+      "keyboard-component",
+      "inputaccessoryview"
+    ]
   },
   {
     "githubUrl": "https://github.com/kayla-tech/react-native-privacy-snapshot",
@@ -405,7 +415,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "sms",
+      "android",
+      "sms-listener"
+    ]
   },
   {
     "githubUrl": "https://github.com/pusherman/react-native-network-info",
@@ -471,7 +486,11 @@
     "topicSearchString": "react-native ios android-library ios-lib android networking network",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": [
+      "network",
+      "networking"
+    ]
   },
   {
     "githubUrl": "https://github.com/tradle/rn-nodeify",
@@ -652,7 +671,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.7
+    "popularity": -0.7,
+    "category": [
+      "proximity-sensor",
+      "sensor"
+    ]
   },
   {
     "githubUrl": "https://github.com/wmcmahan/react-native-calendar-events",
@@ -730,7 +753,15 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": [
+      "android-calendar-events",
+      "ios-calendar-events",
+      "calendar-events",
+      "calendar-api",
+      "android-calendar",
+      "ios-calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/xinthink/react-native-material-kit",
@@ -796,7 +827,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.083
+    "popularity": 0.083,
+    "category": [
+      "material-design"
+    ]
   },
   {
     "githubUrl": "https://github.com/Anthonyzou/react-native-image-zoom",
@@ -973,7 +1007,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.504
+    "popularity": -0.504,
+    "category": [
+      "bottomsheet",
+      "bottomsheetbehavior"
+    ]
   },
   {
     "githubUrl": "https://github.com/tinycreative/react-native-intercom",
@@ -1098,7 +1136,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0.01
+    "popularity": 0.01,
+    "category": [
+      "stylesheets",
+      "theme",
+      "theming",
+      "style",
+      "styling"
+    ]
   },
   {
     "githubUrl": "https://github.com/tachyons-css/react-native-style-tachyons",
@@ -1163,7 +1208,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.009
+    "popularity": -0.009,
+    "category": [
+      "stylesheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/stockulus/pouchdb-react-native",
@@ -1329,7 +1377,11 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": 0.044
+    "popularity": 0.044,
+    "category": [
+      "performance",
+      "debugging"
+    ]
   },
   {
     "githubUrl": "https://github.com/NativeSH/react-native-console-panel",
@@ -1450,7 +1502,10 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.298
+    "popularity": -0.298,
+    "category": [
+      "keyboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/beefe/react-native-popup",
@@ -1675,7 +1730,10 @@
     "topicSearchString": "react-native react android ios navigation navbar",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.356
+    "popularity": -0.356,
+    "category": [
+      "navbar"
+    ]
   },
   {
     "githubUrl": "https://github.com/gilbox/react-imation",
@@ -1913,7 +1971,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "modal",
+      "dialog",
+      "popup"
+    ]
   },
   {
     "githubUrl": "https://github.com/douglasjunior/react-native-keyboard-manager",
@@ -1981,7 +2044,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "keyboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-material-design",
@@ -2099,7 +2165,10 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.777
+    "popularity": -0.777,
+    "category": [
+      "material"
+    ]
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-parallax",
@@ -2229,7 +2298,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.802
+    "popularity": -0.802,
+    "category": [
+      "chart"
+    ]
   },
   {
     "githubUrl": "https://github.com/lelandrichardson/react-native-parallax-view",
@@ -2358,7 +2430,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "accordion",
+      "collapsible"
+    ]
   },
   {
     "githubUrl": "https://github.com/jeanregisser/react-native-popover",
@@ -2533,7 +2609,14 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.84
+    "popularity": -0.84,
+    "category": [
+      "router",
+      "navigation",
+      "react-native-navigation",
+      "react-navigation",
+      "react-router"
+    ]
   },
   {
     "githubUrl": "https://github.com/lwansbrough/react-native-markdown",

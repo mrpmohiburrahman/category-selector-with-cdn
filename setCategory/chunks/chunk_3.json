@@ -114,7 +114,11 @@
     "topicSearchString": "react react-native button react-native-button ios android javascript",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.422
+    "popularity": -0.422,
+    "category": [
+      "button",
+      "react-native-button"
+    ]
   },
   {
     "githubUrl": "https://github.com/Thomas101/react-native-fence-html",
@@ -237,7 +241,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/obipawan/react-native-hyperlink",
@@ -313,7 +318,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.056
+    "popularity": -0.056,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/crazycodeboy/react-native-check-box",
@@ -381,7 +387,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.29
+    "popularity": -0.29,
+    "category": [
+      "check-box",
+      "checkbox-component",
+      "react-native-checkbox"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/react-native-loading-container",
@@ -557,7 +568,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.032
+    "popularity": -0.032,
+    "category": [
+      "circle",
+      "progress"
+    ]
   },
   {
     "githubUrl": "https://github.com/rnc-archive/react-native-side-menu",
@@ -626,7 +641,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.372
+    "popularity": -0.372,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/leecade/react-native-swiper",
@@ -705,7 +721,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": [
+      "swipe"
+    ]
   },
   {
     "githubUrl": "https://github.com/skv-headless/react-native-scrollable-tab-view",
@@ -769,7 +788,10 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "tabs"
+    ]
   },
   {
     "githubUrl": "https://github.com/aksonov/react-native-router-flux",
@@ -1010,7 +1032,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.005
+    "popularity": 0.005,
+    "category": [
+      "carousel"
+    ]
   },
   {
     "githubUrl": "https://github.com/APSL/react-native-button",
@@ -1079,7 +1104,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.001
+    "popularity": -0.001,
+    "category": [
+      "button"
+    ]
   },
   {
     "githubUrl": "https://github.com/FaridSafi/react-native-google-places-autocomplete",
@@ -1216,7 +1244,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.289
+    "popularity": -0.289,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/sbycrosz/react-native-credit-card-input",
@@ -1289,7 +1318,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.047
+    "popularity": -0.047,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/capitalone/react-native-pathjs-charts",
@@ -1365,7 +1395,17 @@
       "Popular",
       "Lots of open issues"
     ],
-    "popularity": -0.352
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "graphs",
+      "paths-js",
+      "react-native-svg",
+      "radar-graphs",
+      "bar-graphs",
+      "pie-graphs",
+      "tree"
+    ]
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/victory-native",
@@ -1428,7 +1468,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.04
+    "popularity": -0.04,
+    "category": [
+      "charts",
+      "data-visualization"
+    ]
   },
   {
     "githubUrl": "https://github.com/mastermoo/react-native-action-button",
@@ -1493,7 +1537,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.005
+    "popularity": -0.005,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/FaridSafi/react-native-gifted-form",
@@ -1623,7 +1668,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "category": [
+      "dropdown",
+      "alert",
+      "notification"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/react-native-read-more-text",
@@ -1747,7 +1797,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.044
+    "popularity": -0.044,
+    "category": [
+      "popup-menu"
+    ]
   },
   {
     "githubUrl": "https://github.com/BugiDev/react-native-calendar-strip",
@@ -1818,7 +1871,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.008
+    "popularity": 0.008,
+    "category": [
+      "calendar",
+      "calendar-strip"
+    ]
   },
   {
     "githubUrl": "https://github.com/mohebifar/react-native-loader",
@@ -1876,7 +1933,10 @@
     "topicSearchString": "animated-spinners react-native android ios",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.001
+    "popularity": -0.001,
+    "category": [
+      "animated-spinners"
+    ]
   },
   {
     "githubUrl": "https://github.com/maxjvh/react-native-simple-modal",
@@ -1941,7 +2001,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.078
+    "popularity": -0.078,
+    "category": [
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/gitim/react-native-sortable-list",
@@ -2017,7 +2080,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": [
+      "listview",
+      "scrollview",
+      "scrollview-component"
+    ]
   },
   {
     "githubUrl": "https://github.com/JackPu/react-native-percentage-circle",
@@ -2076,7 +2144,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.04
+    "popularity": -0.04,
+    "category": [
+      "circle",
+      "percent"
+    ]
   },
   {
     "githubUrl": "https://github.com/bamlab/react-native-image-header-scroll-view",
@@ -2256,7 +2328,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "card-component"
+    ]
   },
   {
     "githubUrl": "https://github.com/evollu/react-native-fcm",
@@ -2326,7 +2401,13 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.317
+    "popularity": -0.317,
+    "category": [
+      "firebase",
+      "fcm",
+      "notifications",
+      "local-notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/crazycodeboy/react-native-easy-toast",
@@ -2394,7 +2475,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "category": [
+      "toast",
+      "react-native-toast"
+    ]
   },
   {
     "githubUrl": "https://github.com/harshq/react-native-mentions",
@@ -2458,7 +2543,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.043
+    "popularity": -0.043,
+    "category": [
+      "mentions",
+      "autocomplete",
+      "hashtag"
+    ]
   },
   {
     "githubUrl": "https://github.com/machadogj/react-native-carousel-control",
@@ -2638,7 +2728,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.439
+    "popularity": -0.439,
+    "category": [
+      "redux-form"
+    ]
   },
   {
     "githubUrl": "https://github.com/naoufal/react-native-accordion",
@@ -2871,7 +2964,11 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.298
+    "popularity": -0.298,
+    "category": [
+      "select-tag",
+      "chooser"
+    ]
   },
   {
     "githubUrl": "https://github.com/mrlaessig/react-native-autocomplete-input",
@@ -2944,7 +3041,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.028
+    "popularity": -0.028,
+    "category": [
+      "autocomplete",
+      "input"
+    ]
   },
   {
     "githubUrl": "https://github.com/aksonov/react-native-tabs",
@@ -3130,7 +3231,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.27
+    "popularity": -0.27,
+    "category": [
+      "radio-buttons"
+    ]
   },
   {
     "githubUrl": "https://github.com/Spikef/react-native-gesture-password",
@@ -3195,6 +3299,9 @@
     "topicSearchString": "javascript interval gesture-password react react-native",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.44
+    "popularity": -0.44,
+    "category": [
+      "gesture-password"
+    ]
   }
 ]

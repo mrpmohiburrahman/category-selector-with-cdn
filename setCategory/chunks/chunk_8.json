@@ -66,7 +66,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "category": [
+      "safearea"
+    ]
   },
   {
     "githubUrl": "https://github.com/tableau/react-native-dns-lookup",
@@ -212,7 +215,12 @@
       "GPL license",
       "Recently updated"
     ],
-    "popularity": 0.038
+    "popularity": 0.038,
+    "category": [
+      "input",
+      "stepper",
+      "step"
+    ]
   },
   {
     "githubUrl": "https://github.com/pietile/pietile-native-kit/tree/master/packages/keyboard-aware-scrollview",
@@ -275,7 +283,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.05
+    "popularity": -0.05,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/pietile/pietile-native-kit/tree/master/packages/expandable-view",
@@ -338,7 +347,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.071
+    "popularity": -0.071,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/pietile/pietile-native-kit/tree/master/packages/fade-view",
@@ -401,7 +411,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.553
+    "popularity": -0.553,
+    "category": [
+      "fadein-fadeout"
+    ]
   },
   {
     "githubUrl": "https://github.com/pietile/pietile-native-kit/tree/master/packages/page-slider",
@@ -464,7 +477,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.071
+    "popularity": 0.071,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/fjmorant/react-native-nested-listview",
@@ -538,7 +552,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.04
+    "popularity": 0.04,
+    "category": [
+      "listview"
+    ]
   },
   {
     "githubUrl": "https://github.com/kirillzyusko/react-native-wifi-p2p",
@@ -598,7 +615,13 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.188
+    "popularity": -0.188,
+    "category": [
+      "p2p",
+      "wifi-p2p-manager",
+      "wifi-direct",
+      "wifi"
+    ]
   },
   {
     "githubUrl": "https://github.com/kirillzyusko/react-native-bundle-splitter",
@@ -665,7 +688,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/mxmzb/react-native-gesture-detector",
@@ -735,7 +759,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.593
+    "popularity": -0.593,
+    "category": [
+      "gesture",
+      "custom-gestures",
+      "detection"
+    ]
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-indicators",
@@ -808,7 +837,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/rnmods/react-native-document-picker",
@@ -885,7 +915,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.032
+    "popularity": -0.032,
+    "category": [
+      "document-picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/ptomasroos/react-native-multi-slider",
@@ -1017,7 +1050,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.083
+    "popularity": -0.083,
+    "category": [
+      "smaato"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-cookies/cookies",
@@ -1084,7 +1120,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "cookies"
+    ]
   },
   {
     "githubUrl": "https://github.com/souvik-ghosh/react-native-create-thumbnail",
@@ -1150,7 +1189,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.106
+    "popularity": -0.106,
+    "category": [
+      "thumbnails"
+    ]
   },
   {
     "githubUrl": "https://github.com/software-mansion/react-native-reanimated",
@@ -1231,7 +1273,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/osdnk/react-native-reanimated-bottom-sheet",
@@ -1371,7 +1414,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Jarred-Sumner/react-native-media-clipboard",
@@ -1423,7 +1467,10 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.617
+    "popularity": -0.617,
+    "category": [
+      "clipboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/tunoltd/emoji-mart-native",
@@ -1493,7 +1540,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.089
+    "popularity": 0.089,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/infinitered/ignite",
@@ -1565,7 +1613,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.229
+    "popularity": -0.229,
+    "category": [
+      "boilerplate"
+    ]
   },
   {
     "githubUrl": "https://github.com/infinitered/reactotron",
@@ -1639,7 +1690,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "debugging"
+    ]
   },
   {
     "githubUrl": "https://github.com/infinitered/apisauce",
@@ -1707,7 +1761,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": [
+      "api",
+      "axios"
+    ]
   },
   {
     "githubUrl": "https://github.com/transistorsoft/react-native-background-geolocation",
@@ -1769,7 +1827,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.012
+    "popularity": 0.012,
+    "category": [
+      "background-location",
+      "background-geolocation",
+      "location-tracking"
+    ]
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/eslint-plugin-react-native-a11y",
@@ -1898,7 +1961,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "react-native-zendesk",
+      "zendesk-help",
+      "rn-zendesk"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-progress-view/progress-bar-android",
@@ -1965,7 +2033,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": [
+      "progressbar"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-progress-view/progress-view",
@@ -2038,7 +2109,10 @@
     "topicSearchString": "react-native progress-bar ios hacktoberfest windows macos",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": [
+      "progress-bar"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-clipboard/clipboard",
@@ -2107,7 +2181,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "clipboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-segmented-control/segmented-control",
@@ -2178,7 +2255,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": [
+      "segmented-control"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-voice/voice",
@@ -2247,7 +2327,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "speech-recognition",
+      "voice-recognition"
+    ]
   },
   {
     "githubUrl": "https://github.com/tienph6m/react-native-animated-spinkit",
@@ -2321,7 +2405,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": [
+      "spinkit",
+      "spinners"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-webview/react-native-webview",
@@ -2462,7 +2550,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "notification"
+    ]
   },
   {
     "githubUrl": "https://github.com/grapp-dev/stacks",
@@ -2538,7 +2629,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.366
+    "popularity": -0.366,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/microsoft/react-native-dualscreen/tree/master/dualscreeninfo",
@@ -2776,7 +2868,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/react-native-appearance",
@@ -2909,7 +3002,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/th3rdwave/react-native-safe-area-context",
@@ -2981,7 +3075,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/software-mansion/react-native-screens",
@@ -3058,7 +3153,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/IjzerenHein/react-native-shared-element",
@@ -3130,7 +3226,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "category": [
+      "shared-element",
+      "shared-element-transition"
+    ]
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-pager-view",
@@ -3208,7 +3308,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/react-native-netinfo/react-native-netinfo",
@@ -3280,7 +3381,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "network",
+      "networking"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-text-input-mask/react-native-text-input-mask",
@@ -3357,7 +3462,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.058
+    "popularity": -0.058,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/react-native-toolbar-android/toolbar-android",

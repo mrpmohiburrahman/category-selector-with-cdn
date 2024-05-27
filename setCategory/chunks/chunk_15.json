@@ -68,7 +68,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.09
+    "popularity": -0.09,
+    "category": [
+      "hold-to-open",
+      "context-menu"
+    ]
   },
   {
     "githubUrl": "https://github.com/mateosilguero/consistencss",
@@ -138,7 +142,10 @@
     "topicSearchString": "react-native atomic-css css styles typescript",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.368
+    "popularity": -0.368,
+    "category": [
+      "atomic-css"
+    ]
   },
   {
     "githubUrl": "https://github.com/zyslife/react-native-head-tab-view",
@@ -206,7 +213,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Rapsssito/react-native-background-actions",
@@ -276,7 +284,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "background",
+      "background-task"
+    ]
   },
   {
     "githubUrl": "https://github.com/rawewhat/stora",
@@ -575,7 +587,8 @@
     "topicSearchString": "react-native ios android css web react klarna-featured",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/reactrondev/react-native-web-swiper",
@@ -641,7 +654,12 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": 0.016
+    "popularity": 0.016,
+    "category": [
+      "swiper",
+      "slider",
+      "swipe"
+    ]
   },
   {
     "githubUrl": "https://github.com/eveningkid/react-native-popable",
@@ -716,7 +734,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.065
+    "popularity": -0.065,
+    "category": [
+      "tooltip",
+      "popover"
+    ]
   },
   {
     "githubUrl": "https://github.com/swushi/react-native-input-outline",
@@ -851,7 +873,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.272
+    "popularity": -0.272,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/craftzdog/react-native-aes-gcm-crypto",
@@ -914,7 +937,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "cryptography"
+    ]
   },
   {
     "githubUrl": "https://github.com/craftzdog/react-native-sqlite-2",
@@ -979,7 +1005,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "sqlite",
+      "sqlite3"
+    ]
   },
   {
     "githubUrl": "https://github.com/breeffy/react-native-calendar",
@@ -1053,7 +1083,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.555
+    "popularity": -0.555,
+    "category": [
+      "calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/codingki/react-native-rapi-ui",
@@ -1125,7 +1158,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.033
+    "popularity": 0.033,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/YsnKsy/react-native-location-enabler",
@@ -1202,7 +1236,11 @@
     "topicSearchString": "react-native android location settings gps wifi bluetooth ble accuracy android-device",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.065
+    "popularity": -0.065,
+    "category": [
+      "location",
+      "gps"
+    ]
   },
   {
     "githubUrl": "https://github.com/nandorojo/moti",
@@ -1345,7 +1383,13 @@
     "topicSearchString": "re-state restate react react-native ios android expo global state context",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.009
+    "popularity": 0.009,
+    "category": [
+      "re-state",
+      "restate",
+      "state",
+      "context"
+    ]
   },
   {
     "githubUrl": "https://github.com/kashishgrover/react-native-see-more-inline",
@@ -1414,7 +1458,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.05
+    "popularity": -0.05,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Chooin/react-native-lifecycle",
@@ -1480,7 +1525,10 @@
     "topicSearchString": "react-native react-native-hooks react-native-lifecycle",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.506
+    "popularity": -0.506,
+    "category": [
+      "react-native-lifecycle"
+    ]
   },
   {
     "githubUrl": "https://github.com/RonRadtke/react-native-blob-util",
@@ -1616,7 +1664,8 @@
     "topicSearchString": "react-native line wrapper wrapper-library hybrid-apps ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.021
+    "popularity": 0.021,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/bk52/react-native-weather-chart",
@@ -1688,7 +1737,12 @@
     "topicSearchString": "svg weather chart react-native weather-forecast react-native-svg react-native-component react-native-chart",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.683
+    "popularity": -0.683,
+    "category": [
+      "chart",
+      "weather",
+      "react-native-chart"
+    ]
   },
   {
     "githubUrl": "https://github.com/firofame/react-native-compass-heading",
@@ -1747,7 +1801,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/swaplet/react-native-swipe-cards-deck",
@@ -1872,7 +1927,12 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.704
+    "popularity": -0.704,
+    "category": [
+      "alert",
+      "toast",
+      "toast-notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/Cnilton/react-native-floating-label-input",
@@ -1949,7 +2009,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/emilioicai/react-native-safe-modules",
@@ -2081,7 +2142,8 @@
     "topicSearchString": "react-native text style format fonts color mixed html css nested",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/marcocesarato/react-native-big-list",
@@ -2171,7 +2233,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "flatlist",
+      "react-native-big-list"
+    ]
   },
   {
     "githubUrl": "https://github.com/kadiraydinli/react-native-system-navigation-bar",
@@ -2261,7 +2327,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.007
+    "popularity": -0.007,
+    "category": [
+      "react-native-navigation-bar",
+      "navigation-bar"
+    ]
   },
   {
     "githubUrl": "https://github.com/wcandillon/react-native-shader",
@@ -2396,7 +2466,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.004
+    "popularity": -0.004,
+    "category": [
+      "mask"
+    ]
   },
   {
     "githubUrl": "https://github.com/RobertFOConnor/react-native-progress-wheel",
@@ -2533,7 +2606,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/EvanBacon/react-native-web-hooks",
@@ -2590,7 +2664,11 @@
     "topicSearchString": "react react-native react-native-web hooks",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.061
+    "popularity": -0.061,
+    "category": [
+      "hooks",
+      "react-native-web"
+    ]
   },
   {
     "githubUrl": "https://github.com/uiwjs/react-native-alipay",
@@ -2663,7 +2741,10 @@
     "topicSearchString": "react-native reactjs alipay uiw uiwjs android ios",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": [
+      "alipay"
+    ]
   },
   {
     "githubUrl": "https://github.com/douglasjunior/react-native-get-location",
@@ -2733,7 +2814,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.078
+    "popularity": -0.078,
+    "category": [
+      "location",
+      "gps"
+    ]
   },
   {
     "githubUrl": "https://github.com/rdhox/react-native-smooth-picker",
@@ -2866,7 +2951,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "versioning",
+      "release"
+    ]
   },
   {
     "githubUrl": "https://github.com/lufinkey/react-native-events",
@@ -2984,7 +3073,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "portal"
+    ]
   },
   {
     "githubUrl": "https://github.com/a7ul/react-native-exception-handler",
@@ -3058,7 +3150,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "exception-handler",
+      "error",
+      "bug"
+    ]
   },
   {
     "githubUrl": "https://github.com/ViroCommunity/viro",
@@ -3134,7 +3231,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.004
+    "popularity": 0.004,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/IjzerenHein/react-native-bundle-visualizer",
@@ -3205,7 +3303,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.037
+    "popularity": -0.037,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/software-mansion/react-native-gesture-handler",
@@ -3280,7 +3379,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": [
+      "gesture"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-toolkit/react-native-responsive-dimensions",
@@ -3355,7 +3457,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.038
+    "popularity": -0.038,
+    "category": [
+      "responsive",
+      "dimensions",
+      "responsive-design"
+    ]
   },
   {
     "githubUrl": "https://github.com/SimonErm/react-native-job-queue",

@@ -65,7 +65,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.619
+    "popularity": -0.619,
+    "category": [
+      "bcrypt"
+    ]
   },
   {
     "githubUrl": "https://github.com/animate-react-native/stagger",
@@ -142,7 +145,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.081
+    "popularity": 0.081,
+    "category": [
+      "react-native-stagger-view",
+      "stagger-animation",
+      "react-native-stagger",
+      "react-native-layout-animation"
+    ]
   },
   {
     "githubUrl": "https://github.com/animate-react-native/marquee",
@@ -216,7 +225,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.002
+    "popularity": 0.002,
+    "category": [
+      "react-native-marquee"
+    ]
   },
   {
     "githubUrl": "https://github.com/Jm-Zion/rn-wave-bottom-bar",
@@ -289,7 +301,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.042
+    "popularity": 0.042,
+    "category": [
+      "bottom-tabs"
+    ]
   },
   {
     "githubUrl": "https://github.com/3DJakob/react-tinder-card",
@@ -368,7 +383,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.055
+    "popularity": -0.055,
+    "category": [
+      "tinder",
+      "swipe"
+    ]
   },
   {
     "githubUrl": "https://github.com/AstrOOnauta/react-native-international-phone-number",
@@ -456,7 +475,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.009
+    "popularity": -0.009,
+    "category": [
+      "phone-input",
+      "phone",
+      "phone-number",
+      "telephone",
+      "cellphone"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image",
@@ -532,7 +558,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/okwasniewski/react-native-menubar-extra",
@@ -605,7 +632,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.256
+    "popularity": -0.256,
+    "category": []
   },
   {
     "npmPkg": "@react-native-ml-kit/text-recognition",
@@ -666,7 +694,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "npmPkg": "@react-native-ml-kit/face-detection",
@@ -727,7 +760,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "npmPkg": "@react-native-ml-kit/image-labeling",
@@ -788,7 +826,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.529
+    "popularity": -0.529,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "npmPkg": "@react-native-ml-kit/barcode-scanning",
@@ -849,7 +892,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.03
+    "popularity": 0.03,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "npmPkg": "@react-native-ml-kit/identify-languages",
@@ -910,7 +958,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.627
+    "popularity": -0.627,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "npmPkg": "@react-native-ml-kit/translate-text",
@@ -970,7 +1023,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.57
+    "popularity": -0.57,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
   },
   {
     "githubUrl": "https://github.com/High5Apps/react-native-vis-network",
@@ -1110,7 +1168,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.047
+    "popularity": 0.047,
+    "category": [
+      "toast",
+      "alert",
+      "toast-notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/chsdwn/react-native-skia-shadow",
@@ -1185,7 +1248,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.018
+    "popularity": 0.018,
+    "category": [
+      "shadow"
+    ]
   },
   {
     "githubUrl": "https://github.com/KroosX4V/react-native-orientation-manager",
@@ -1328,7 +1394,15 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.019
+    "popularity": 0.019,
+    "category": [
+      "bottom-sheets",
+      "bottomsheet",
+      "bottomsheet-android",
+      "bottomsheetios",
+      "react-native-bottom-sheet",
+      "react-native-bottomsheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/farhoudshapouran/react-native-highlighter",
@@ -1403,7 +1477,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.584
+    "popularity": -0.584,
+    "category": [
+      "highlight"
+    ]
   },
   {
     "githubUrl": "https://github.com/bidah/react-native-vercel-ai",
@@ -1602,7 +1679,15 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.021
+    "popularity": 0.021,
+    "category": [
+      "facial-recognition",
+      "ml",
+      "tensorflow",
+      "tensorflow-lite",
+      "tflite",
+      "detection"
+    ]
   },
   {
     "githubUrl": "https://github.com/margelo/react-native-worklets-core",
@@ -1675,7 +1760,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.002
+    "popularity": -0.002,
+    "category": [
+      "multithreading",
+      "threads",
+      "worklet",
+      "worklets"
+    ]
   },
   {
     "githubUrl": "https://github.com/jpudysz/react-native-unistyles",
@@ -1757,7 +1848,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/WadhahEssam/react-native-theme-switch-animation",
@@ -1828,7 +1920,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.091
+    "popularity": -0.091,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/hoanglam10499/react-native-drop-shadow",
@@ -1968,7 +2061,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.043
+    "popularity": -0.043,
+    "category": [
+      "gradients"
+    ]
   },
   {
     "githubUrl": "https://github.com/DevVibhor/react-native-bullet-graph",
@@ -2038,7 +2134,14 @@
     "topicSearchString": "analytics react-native visualization bullet-chart bullet-graph chart graph",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.603
+    "popularity": -0.603,
+    "category": [
+      "bullet-chart",
+      "bullet-graph",
+      "chart",
+      "graph",
+      "visualization"
+    ]
   },
   {
     "githubUrl": "https://github.com/azesmway/react-native-unity",
@@ -2301,7 +2404,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "category": [
+      "ble",
+      "esp32",
+      "provisioning"
+    ]
   },
   {
     "githubUrl": "https://github.com/OP-Engineering/op-sqlite",
@@ -2368,7 +2476,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": [
+      "sqlite"
+    ]
   },
   {
     "githubUrl": "https://github.com/Hector-Chong/native-wechat",
@@ -2430,7 +2541,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.664
+    "popularity": -0.664,
+    "category": [
+      "wechat"
+    ]
   },
   {
     "githubUrl": "https://github.com/mateoguzmana/react-native-zendesk-unified",
@@ -2501,7 +2615,10 @@
     "topicSearchString": "expo library native-module react react-native support unified zendesk",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.067
+    "popularity": -0.067,
+    "category": [
+      "zendesk"
+    ]
   },
   {
     "githubUrl": "https://github.com/bugfender/rn-bugfender",
@@ -2565,7 +2682,8 @@
     "topicSearchString": "android ios react-native react-native-web",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.012
+    "popularity": 0.012,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/howljs/react-native-auto-route",
@@ -2696,7 +2814,12 @@
     "topicSearchString": "expo ios local-network local-network-permission permissions react-native swift",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.096
+    "popularity": -0.096,
+    "category": [
+      "local-network",
+      "local-network-permission",
+      "permissions"
+    ]
   },
   {
     "githubUrl": "https://github.com/flixyudh/react-native-flix-snackbar",
@@ -2879,7 +3002,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.004
+    "popularity": 0.004,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/margelo/react-native-release-profiler",
@@ -2956,7 +3080,18 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.139
+    "popularity": -0.139,
+    "category": [
+      "performance",
+      "profiler",
+      "profiling",
+      "release",
+      "trace",
+      "debug",
+      "debugger",
+      "hermes",
+      "perf"
+    ]
   },
   {
     "githubUrl": "https://github.com/kesha-antonov/react-native-background-downloader",
@@ -3217,7 +3352,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0.004
+    "popularity": 0.004,
+    "category": [
+      "popover",
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/unimonkiez/react-native-asset",
@@ -3329,7 +3468,11 @@
     "topicSearchString": "react react-native json-viewer theme iterables json",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": [
+      "json-viewer",
+      "json"
+    ]
   },
   {
     "githubUrl": "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check",
@@ -3397,6 +3540,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "version",
+      "version-check"
+    ]
   }
 ]

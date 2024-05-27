@@ -114,7 +114,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.561
+    "popularity": -0.561,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/sAleksovski/react-native-android-widget",
@@ -183,7 +184,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.025
+    "popularity": 0.025,
+    "category": [
+      "widget"
+    ]
   },
   {
     "githubUrl": "https://github.com/Novsochetra/react-native-circular-chart",
@@ -242,7 +246,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.146
+    "popularity": -0.146,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/coinbase/rest-hooks",
@@ -322,7 +327,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "state-management"
+    ]
   },
   {
     "githubUrl": "https://github.com/Splicer97/react-native-mytracker",
@@ -513,7 +521,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.009
+    "popularity": 0.009,
+    "category": [
+      "health-connect",
+      "fitness",
+      "health-sdk"
+    ]
   },
   {
     "githubUrl": "https://github.com/Malaa-tech/react-native-simple-line-chart",
@@ -584,7 +597,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.122
+    "popularity": -0.122,
+    "category": [
+      "chart",
+      "line"
+    ]
   },
   {
     "githubUrl": "https://github.com/tokkozhin/react-native-qrcode-styled",
@@ -660,7 +677,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.004
+    "popularity": -0.004,
+    "category": [
+      "qr-generator",
+      "qrcode",
+      "react-native-qrcode",
+      "qrcode-styled",
+      "rn-qr-generator"
+    ]
   },
   {
     "githubUrl": "https://github.com/dotnet/aspnetcore/tree/main/src/SignalR/clients/ts/signalr",
@@ -729,7 +753,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": [
+      "dotnet",
+      "aspnetcore"
+    ]
   },
   {
     "githubUrl": "https://github.com/sacmii/rn-vertical-slider",
@@ -804,7 +832,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "slider",
+      "vertical-slider"
+    ]
   },
   {
     "githubUrl": "https://github.com/showtime-xyz/showtime-tab-view",
@@ -929,7 +961,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.593
+    "popularity": -0.593,
+    "category": [
+      "chatbot",
+      "chatgpt"
+    ]
   },
   {
     "githubUrl": "https://github.com/ggunti/react-native-amazing-cropper",
@@ -997,7 +1033,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.421
+    "popularity": -0.421,
+    "category": [
+      "cropper"
+    ]
   },
   {
     "githubUrl": "https://github.com/styled-components/css-to-react-native",
@@ -1135,7 +1174,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/matinzd/react-native-block-store",
@@ -1267,7 +1307,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.196
+    "popularity": 0.196,
+    "category": [
+      "barcode",
+      "barcode-scanner",
+      "qrcode",
+      "qrcode-scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/frw/react-native-ssl-public-key-pinning",
@@ -1338,7 +1384,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "ssl",
+      "ssl-pinning"
+    ]
   },
   {
     "githubUrl": "https://github.com/jgillick/react-native-a11y-slider",
@@ -1553,7 +1603,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.033
+    "popularity": 0.033,
+    "category": [
+      "dropdown",
+      "select",
+      "multi-select",
+      "multipleselection",
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
@@ -1608,7 +1665,13 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": [
+      "bottom-drawer",
+      "bottom-modal",
+      "bottom-sheet",
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/bambuser/react-native-bambuser-broadcaster",
@@ -1729,7 +1792,12 @@
     "topicSearchString": "android ios pdf pdfkit pdfrenderer react-native",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.039
+    "popularity": -0.039,
+    "category": [
+      "pdf",
+      "pdfkit",
+      "pdfrenderer"
+    ]
   },
   {
     "githubUrl": "https://github.com/dozsolti/react-native-use-list",
@@ -1790,7 +1858,12 @@
     "topicSearchString": "flatlist sectionlist virtualizedlist",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.321
+    "popularity": -0.321,
+    "category": [
+      "flatlist",
+      "sectionlist",
+      "virtualizedlist"
+    ]
   },
   {
     "githubUrl": "https://github.com/gmsgowtham/react-native-code-highlighter",
@@ -1860,7 +1933,11 @@
     "topicSearchString": "code-highlight react-native syntax-highlighting typescript react",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.217
+    "popularity": 0.217,
+    "category": [
+      "code-highlight",
+      "syntax-highlighting"
+    ]
   },
   {
     "githubUrl": "https://github.com/gbumps/react-native-screenguard",
@@ -2164,7 +2241,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.023
+    "popularity": 0.023,
+    "category": [
+      "theme",
+      "apearance"
+    ]
   },
   {
     "githubUrl": "https://github.com/movio/react-native-rsa-signer",
@@ -2536,7 +2617,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "env"
+    ]
   },
   {
     "githubUrl": "https://github.com/Sharcoux/slider",
@@ -2664,7 +2748,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "click-outside"
+    ]
   },
   {
     "githubUrl": "https://github.com/kesha-antonov/react-native-zoom-reanimated",
@@ -2795,7 +2882,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.293
+    "popularity": -0.293,
+    "category": [
+      "indoor-positioning",
+      "situm",
+      "wayfinding"
+    ]
   },
   {
     "githubUrl": "https://github.com/mrpmohiburrahman/react-native-cone-slider",
@@ -2995,7 +3087,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": [
+      "vimeo",
+      "video-player",
+      "video"
+    ]
   },
   {
     "githubUrl": "https://github.com/mrpmohiburrahman/react-native-squish-button",
@@ -3193,7 +3290,10 @@
     "topicSearchString": "package react-native responsive expo",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "category": [
+      "responsive"
+    ]
   },
   {
     "githubUrl": "https://github.com/Alwinator/react-native-http-bridge-refurbished",
@@ -3259,6 +3359,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.105
+    "popularity": -0.105,
+    "category": [
+      "http-server",
+      "webserver"
+    ]
   }
 ]

@@ -61,7 +61,10 @@
     "topicSearchString": "react-native react gradient javascript es6",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "gradient"
+    ]
   },
   {
     "githubUrl": "https://github.com/tessus/react-native-version-info",
@@ -119,7 +122,8 @@
     "topicSearchString": "react-native react-android react-ios react-windows",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/doublesymmetry/react-native-track-player",
@@ -197,7 +201,15 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": [
+      "music-player",
+      "music-library",
+      "media-control",
+      "audio",
+      "audio-library",
+      "audio-player"
+    ]
   },
   {
     "githubUrl": "https://github.com/hicay/react-native-text-avatar",
@@ -257,7 +269,11 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": 0.017
+    "popularity": 0.017,
+    "category": [
+      "text-avatar",
+      "letter-avatar"
+    ]
   },
   {
     "githubUrl": "https://github.com/Buglife/react-native-buglife",
@@ -316,7 +332,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.744
+    "popularity": -0.744,
+    "category": [
+      "buglife",
+      "bug-reporting",
+      "bug-reporter"
+    ]
   },
   {
     "githubUrl": "https://github.com/hungdev/react-native-customize-selected-date",
@@ -377,7 +398,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.628
+    "popularity": -0.628,
+    "category": [
+      "calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/xcarpentier/react-native-suggester",
@@ -432,7 +456,8 @@
     "topicSearchString": "react-native textinput",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.538
+    "popularity": -0.538,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/lfkwtz/react-native-ruler",
@@ -500,7 +525,11 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.396
+    "popularity": -0.396,
+    "category": [
+      "ruler",
+      "measure"
+    ]
   },
   {
     "githubUrl": "https://github.com/xcarpentier/react-native-safe-image",
@@ -559,7 +588,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "category": [
+      "image"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-ads-facebook",
@@ -635,7 +667,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-analytics-amplitude",
@@ -712,7 +745,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.321
+    "popularity": -0.321,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-analytics-segment",
@@ -788,7 +822,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.256
+    "popularity": -0.256,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-application",
@@ -864,7 +899,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-battery",
@@ -940,7 +976,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "battery",
+      "expo-battery",
+      "battery-info"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-blur",
@@ -1091,7 +1132,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.042
+    "popularity": -0.042,
+    "category": [
+      "brightness"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-calendar",
@@ -1166,7 +1210,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-cellular",
@@ -1242,7 +1289,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "cellular"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-constants",
@@ -1318,7 +1368,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "constants"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-contacts",
@@ -1393,7 +1446,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": [
+      "contacts"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-device",
@@ -1469,7 +1525,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": [
+      "device",
+      "device-info"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-document-picker",
@@ -1545,7 +1605,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "document-picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-error-recovery",
@@ -1697,7 +1760,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "category": [
+      "face-detector",
+      "ml"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-facebook",
@@ -1848,7 +1915,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "fs",
+      "file-system"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-font",
@@ -1924,7 +1995,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "font"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-gl",
@@ -2000,7 +2074,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.039
+    "popularity": -0.039,
+    "category": [
+      "gl"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-haptics",
@@ -2075,7 +2152,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "haptics"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-in-app-purchases",
@@ -2149,7 +2229,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.08
+    "popularity": -0.08,
+    "category": [
+      "in-app-purchases"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-intent-launcher",
@@ -2224,7 +2307,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "category": [
+      "intent-launcher"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-linear-gradient",
@@ -2300,7 +2386,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "gradient"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-localization",
@@ -2376,7 +2465,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": [
+      "localization",
+      "i18n"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-location",
@@ -2452,7 +2545,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "location"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-mail-composer",
@@ -2528,7 +2624,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "mail-composer",
+      "email"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-media-library",
@@ -2603,7 +2703,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "media-library"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-network",
@@ -2679,7 +2782,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "network",
+      "network-info"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-notifications",
@@ -2754,7 +2861,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-permissions",
@@ -2830,7 +2940,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.032
+    "popularity": -0.032,
+    "category": [
+      "permissions"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo-pixi",
@@ -2893,7 +3006,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.1
+    "popularity": -0.1,
+    "category": [
+      "pixi"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-print",
@@ -2969,7 +3085,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "print"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-random",
@@ -3045,7 +3164,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "random",
+      "math",
+      "crypto"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-secure-store",
@@ -3120,7 +3244,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": [
+      "secure-store",
+      "storage",
+      "secure"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sensors",
@@ -3196,7 +3325,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "sensors",
+      "sensor"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sms",
@@ -3271,7 +3404,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "sms"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-speech",
@@ -3347,7 +3483,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "text-to-speech"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sqlite",
@@ -3422,7 +3561,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.007
+    "popularity": -0.007,
+    "category": [
+      "sqlite",
+      "storage"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-web-browser",
@@ -3498,7 +3641,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": [
+      "web-browser",
+      "browser"
+    ]
   },
   {
     "githubUrl": "https://github.com/xcarpentier/rn-verifcode",
@@ -3555,7 +3702,10 @@
     "topicSearchString": "react-native verification-code textinput",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "category": [
+      "pin"
+    ]
   },
   {
     "githubUrl": "https://github.com/matei-radu/react-native-in-app-browser",
@@ -3624,6 +3774,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.377
+    "popularity": -0.377,
+    "category": [
+      "browser",
+      "in-app-browser"
+    ]
   }
 ]

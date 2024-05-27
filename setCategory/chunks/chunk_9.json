@@ -125,7 +125,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "category": [
+      "push-notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-navigation/react-native-safe-area-view",
@@ -262,7 +265,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/react-native-picker/picker",
@@ -344,7 +348,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-masked-view/masked-view",
@@ -415,7 +422,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "masked-view"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-linear-gradient/react-native-linear-gradient",
@@ -599,7 +609,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.142
+    "popularity": -0.142,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/blackuy/react-native-twilio-video-webrtc",
@@ -667,7 +678,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.091
+    "popularity": -0.091,
+    "category": [
+      "twilio-video"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-webrtc/react-native-webrtc",
@@ -733,7 +747,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "category": [
+      "webrtc"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-webrtc/react-native-incall-manager",
@@ -926,7 +943,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "bootsplash",
+      "splashscreen",
+      "splash-screen"
+    ]
   },
   {
     "githubUrl": "https://github.com/jk-gan/redux-flipper",
@@ -993,7 +1015,10 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.044
+    "popularity": -0.044,
+    "category": [
+      "flipper"
+    ]
   },
   {
     "githubUrl": "https://github.com/torgeadelin/react-native-animated-nav-tab-bar",
@@ -1188,7 +1213,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "html"
+    ]
   },
   {
     "githubUrl": "https://github.com/FaridSafi/react-native-gifted-chat",
@@ -1264,7 +1292,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "chat"
+    ]
   },
   {
     "githubUrl": "https://github.com/iamacup/react-native-markdown-display",
@@ -1395,7 +1426,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "scroll-view",
+      "scrollview-component",
+      "keyboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/slorber/react-native-scroll-into-view",
@@ -1521,7 +1557,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.032
+    "popularity": -0.032,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/expo/react-native-action-sheet",
@@ -1596,7 +1633,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/peacechen/react-native-modal-selector",
@@ -1740,7 +1778,13 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": [
+      "d3",
+      "charts",
+      "react-native-d3",
+      "react-native-charts"
+    ]
   },
   {
     "githubUrl": "https://github.com/software-mansion/react-native-svg",
@@ -1891,7 +1935,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": [
+      "iap",
+      "in-app-purchase",
+      "react-native-iap"
+    ]
   },
   {
     "githubUrl": "https://github.com/mientjan/react-native-markdown-renderer",
@@ -2020,7 +2069,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/zo0r/react-native-push-notification",
@@ -2089,7 +2139,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.272
+    "popularity": -0.272,
+    "category": [
+      "push-notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/zmxv/react-native-sound",
@@ -2230,7 +2283,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.278
+    "popularity": -0.278,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/codemotionapps/react-native-dark-mode",
@@ -2298,7 +2352,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.306
+    "popularity": -0.306,
+    "category": [
+      "dark-mode"
+    ]
   },
   {
     "githubUrl": "https://github.com/ascoders/react-native-image-viewer",
@@ -2371,7 +2428,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "image-viewer"
+    ]
   },
   {
     "githubUrl": "https://github.com/sohobloo/react-native-modal-dropdown",
@@ -2444,7 +2504,15 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "modal",
+      "dropdown",
+      "picker",
+      "select",
+      "selector",
+      "option"
+    ]
   },
   {
     "githubUrl": "https://github.com/listenzz/react-native-modal-translucent",
@@ -2501,7 +2569,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.011
+    "popularity": 0.011,
+    "category": [
+      "modal",
+      "translucent"
+    ]
   },
   {
     "githubUrl": "https://github.com/Shopify/restyle",
@@ -2637,7 +2709,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": [
+      "iap"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-checkbox/react-native-checkbox",
@@ -2707,7 +2782,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "category": [
+      "checkbox"
+    ]
   },
   {
     "githubUrl": "https://github.com/khalisafkari/react-native-kvideo",
@@ -2761,7 +2839,10 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.617
+    "popularity": -0.617,
+    "category": [
+      "react-native-video"
+    ]
   },
   {
     "githubUrl": "https://github.com/underscopeio/react-native-navigation-hooks",
@@ -2892,7 +2973,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/jacklam718/react-native-modals",
@@ -2963,7 +3045,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.011
+    "popularity": 0.011,
+    "category": [
+      "dialog"
+    ]
   },
   {
     "githubUrl": "https://github.com/MaxGraey/react-native-console-time-polyfill",
@@ -3025,7 +3110,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "polyfill",
+      "time"
+    ]
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-store-review",
@@ -3096,7 +3185,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": [
+      "review"
+    ]
   },
   {
     "githubUrl": "https://github.com/michalchudziak/react-native-geolocation",
@@ -3164,7 +3256,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.037
+    "popularity": -0.037,
+    "category": [
+      "geolocation",
+      "location"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-community/react-native-template-typescript",
@@ -3232,7 +3328,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.088
+    "popularity": -0.088,
+    "category": [
+      "template",
+      "boilerplate"
+    ]
   },
   {
     "githubUrl": "https://github.com/react-native-audio-toolkit/react-native-audio-toolkit",
@@ -3301,7 +3401,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "audio-library"
+    ]
   },
   {
     "githubUrl": "https://github.com/rnc-archive/react-native-translucent-modal",

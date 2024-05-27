@@ -133,7 +133,15 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "spinner",
+      "loading",
+      "overlay",
+      "activity-indicator",
+      "progress-circle",
+      "progress-indicator"
+    ]
   },
   {
     "githubUrl": "https://github.com/jaysoo/react-native-parallax-scroll-view",
@@ -497,7 +505,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "modal",
+      "countries",
+      "country-picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/larsvinter/react-native-awesome-button",
@@ -681,7 +694,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "tinder",
+      "card",
+      "swipe"
+    ]
   },
   {
     "githubUrl": "https://github.com/d-a-n/react-native-webbrowser",
@@ -793,7 +811,8 @@
     "topicSearchString": "react-native",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.093
+    "popularity": -0.093,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/danielweinmann/react-native-stateless-form",
@@ -1545,7 +1564,10 @@
     "topicSearchString": "ios android react react-native markdown library",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "markdown"
+    ]
   },
   {
     "githubUrl": "https://github.com/gnestor/react-native-statusbar-alert",
@@ -1606,7 +1628,11 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.111
+    "popularity": -0.111,
+    "category": [
+      "statusbar",
+      "alert"
+    ]
   },
   {
     "githubUrl": "https://github.com/knowbody/react-native-text",
@@ -1732,7 +1758,12 @@
     "topicSearchString": "react-native listview immutable immutablejs component flatlist virtualizedlist",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.056
+    "popularity": -0.056,
+    "category": [
+      "listview",
+      "flatlist",
+      "virtualizedlist"
+    ]
   },
   {
     "githubUrl": "https://github.com/tuantle/react-native-search-header",
@@ -1899,7 +1930,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.096
+    "popularity": -0.096,
+    "category": [
+      "facebook-sdk"
+    ]
   },
   {
     "githubUrl": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
@@ -1972,7 +2006,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.044
+    "popularity": -0.044,
+    "category": [
+      "branch",
+      "metrics",
+      "analytics"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-branch",
@@ -2048,7 +2087,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.596
+    "popularity": -0.596,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/corbt/react-native-keep-awake",
@@ -2267,7 +2307,10 @@
     "topicSearchString": "splash-screen react-native",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "category": [
+      "splash-screen"
+    ]
   },
   {
     "githubUrl": "https://github.com/voronianski/react-native-effects-view",
@@ -2445,7 +2488,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.038
+    "popularity": -0.038,
+    "category": [
+      "permissions"
+    ]
   },
   {
     "githubUrl": "https://github.com/gre/react-native-view-shot",
@@ -2514,7 +2560,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.041
+    "popularity": -0.041,
+    "category": [
+      "snapshot",
+      "capture"
+    ]
   },
   {
     "githubUrl": "https://github.com/naoufal/react-native-safari-view",
@@ -2576,7 +2626,11 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.064
+    "popularity": -0.064,
+    "category": [
+      "safari-view-controller",
+      "safari"
+    ]
   },
   {
     "githubUrl": "https://github.com/pwmckenna/react-native-motion-manager",
@@ -2694,7 +2748,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.047
+    "popularity": -0.047,
+    "category": [
+      "healthkit"
+    ]
   },
   {
     "githubUrl": "https://github.com/vikeri/react-native-background-job",
@@ -2758,7 +2815,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.077
+    "popularity": -0.077,
+    "category": [
+      "background-jobs"
+    ]
   },
   {
     "githubUrl": "https://github.com/devfd/react-native-geocoder",
@@ -2944,7 +3004,11 @@
     "topicSearchString": "orientation-changes universal-apps react-native device-detection",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.63
+    "popularity": -0.63,
+    "category": [
+      "orientation-changes",
+      "device-detection"
+    ]
   },
   {
     "githubUrl": "https://github.com/transistorsoft/react-native-background-fetch",

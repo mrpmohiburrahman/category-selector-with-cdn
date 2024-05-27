@@ -57,7 +57,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "event-listener"
+    ]
   },
   {
     "githubUrl": "https://github.com/RepairShopr/react-native-signature-capture",
@@ -184,7 +187,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "pdf"
+    ]
   },
   {
     "githubUrl": "https://github.com/toystars/react-native-multiple-select",
@@ -316,7 +322,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "orientation"
+    ]
   },
   {
     "githubUrl": "https://github.com/geektimecoil/react-native-onesignal",
@@ -392,7 +401,14 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.002
+    "popularity": -0.002,
+    "category": [
+      "onesignal",
+      "react-native-onesignal",
+      "push-notifications",
+      "onesignal-notifications",
+      "notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/jodybrewster/react-native-linkedin-login",
@@ -456,7 +472,11 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.9
+    "popularity": -0.9,
+    "category": [
+      "linkedin-sdk",
+      "linkedin"
+    ]
   },
   {
     "githubUrl": "https://github.com/root-two/react-native-drawer",
@@ -591,7 +611,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "image-picker",
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
@@ -663,7 +687,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.288
+    "popularity": -0.288,
+    "category": [
+      "keyboard"
+    ]
   },
   {
     "githubUrl": "https://github.com/davodesign84/react-native-mixpanel",
@@ -728,7 +755,11 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.267
+    "popularity": -0.267,
+    "category": [
+      "mixpanel-sdk",
+      "mixpanel-ios-sdk"
+    ]
   },
   {
     "nameOverride": "react-navigation",
@@ -806,7 +837,11 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "category": [
+      "react-navigation",
+      "navigation"
+    ]
   },
   {
     "githubUrl": "https://github.com/airbnb/native-navigation",
@@ -867,7 +902,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.858
+    "popularity": -0.858,
+    "category": [
+      "navigation",
+      "navigator"
+    ]
   },
   {
     "githubUrl": "https://github.com/wix/react-native-navigation",
@@ -939,7 +978,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "category": [
+      "navigation",
+      "navigator",
+      "react-native-navigation"
+    ]
   },
   {
     "githubUrl": "https://github.com/gre/gl-react",
@@ -1008,7 +1052,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.063
+    "popularity": -0.063,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-pages",
@@ -1066,7 +1111,8 @@
     "topicSearchString": "react react-native ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.043
+    "popularity": -0.043,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/silentcloud/react-native-page-control",
@@ -1199,7 +1245,8 @@
       "Recommended",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-animatable",
@@ -1272,7 +1319,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/maggialejandro/react-native-calendario",
@@ -1342,7 +1390,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.072
+    "popularity": -0.072,
+    "category": [
+      "calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/idibidiart/react-native-responsive-grid",
@@ -1408,7 +1459,16 @@
     "topicSearchString": "react-native responsive responsive-layout grid layout orientation-changes responsive-design universal flexbox react ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.187
+    "popularity": -0.187,
+    "category": [
+      "responsive-layout",
+      "responsive",
+      "grid",
+      "layout",
+      "orientation-changes",
+      "responsive-design",
+      "flexbox"
+    ]
   },
   {
     "githubUrl": "https://github.com/24ark/react-native-step-indicator",
@@ -1477,7 +1537,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "category": [
+      "step",
+      "progress-view",
+      "listview"
+    ]
   },
   {
     "githubUrl": "https://github.com/jacklam718/react-native-popup-dialog",
@@ -1548,7 +1613,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/rnc-archive/react-native-drawer-layout",
@@ -1603,7 +1669,10 @@
       "Popular",
       "No license"
     ],
-    "popularity": -0.288
+    "popularity": -0.288,
+    "category": [
+      "drawer"
+    ]
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-material-textfield",
@@ -1677,7 +1746,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.038
+    "popularity": -0.038,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/maxs15/react-native-modalbox",
@@ -1820,7 +1890,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/bartgryszko/react-native-circular-slider",
@@ -1884,7 +1957,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.083
+    "popularity": -0.083,
+    "category": [
+      "slider"
+    ]
   },
   {
     "githubUrl": "https://github.com/archriss/react-native-snap-carousel",
@@ -1963,7 +2039,11 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "carousel",
+      "swiper"
+    ]
   },
   {
     "githubUrl": "https://github.com/jkomyno/react-native-universal-picker",
@@ -2024,7 +2104,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.935
+    "popularity": -0.935,
+    "category": [
+      "picker",
+      "dropdown",
+      "select"
+    ]
   },
   {
     "githubUrl": "https://github.com/magicismight/react-native-root-siblings",
@@ -2277,7 +2362,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.036
+    "popularity": 0.036,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/innoveit/react-native-ble-manager",
@@ -2345,7 +2431,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "category": [
+      "ble",
+      "bluetooth-low-energy"
+    ]
   },
   {
     "githubUrl": "https://github.com/chirag04/react-native-mail",
@@ -2560,7 +2650,10 @@
       "Popular",
       "No license"
     ],
-    "popularity": -0.334
+    "popularity": -0.334,
+    "category": [
+      "card-io"
+    ]
   },
   {
     "githubUrl": "https://github.com/expo/ex-navigation",
@@ -2679,7 +2772,8 @@
       "Popular",
       "Lots of open issues"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/timomeh/react-native-material-bottom-navigation",
@@ -2745,7 +2839,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.114
+    "popularity": -0.114,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/wix/react-native-autogrow-textinput",
@@ -2931,7 +3026,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.759
+    "popularity": -0.759,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/halilb/react-native-textinput-effects",
@@ -3110,7 +3206,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.749
+    "popularity": -0.749,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-progress",
@@ -3230,6 +3327,9 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.273
+    "popularity": -0.273,
+    "category": [
+      "viewpager"
+    ]
   }
 ]

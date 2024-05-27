@@ -131,7 +131,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/wix/react-native-notifications",
@@ -313,7 +316,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/jkdrangel/react-native-switch-selector",
@@ -468,7 +472,14 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "category": [
+      "charts",
+      "graph",
+      "graphs",
+      "linegraph",
+      "chart"
+    ]
   },
   {
     "githubUrl": "https://github.com/margelo/react-native-bignumber",
@@ -546,7 +557,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "bignumber",
+      "big",
+      "crypto",
+      "cryptography"
+    ]
   },
   {
     "githubUrl": "https://github.com/streem/react-native-select-contact",
@@ -672,7 +689,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.04
+    "popularity": 0.04,
+    "category": [
+      "arc",
+      "segmented-arc",
+      "segmented-gauge"
+    ]
   },
   {
     "githubUrl": "https://github.com/Bur0/react-native-actions-sheet-picker",
@@ -747,7 +769,12 @@
     "topicSearchString": "actionsheet dropdown filterable react-native searchable select picker react javascript",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.026
+    "popularity": 0.026,
+    "category": [
+      "actionsheet",
+      "dropdown",
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/kirillzyusko/react-native-keyboard-controller",
@@ -824,7 +851,13 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "category": [
+      "keyboard",
+      "avoiding-view",
+      "focused-input",
+      "keyboard-toolbar"
+    ]
   },
   {
     "githubUrl": "https://github.com/craftzdog/react-native-quick-websql",
@@ -884,7 +917,10 @@
     "topicSearchString": "react-native sqlite jsi typescript",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.056
+    "popularity": -0.056,
+    "category": [
+      "sqlite"
+    ]
   },
   {
     "githubUrl": "https://github.com/TheWidlarzGroup/react-native-notificated",
@@ -952,7 +988,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.066
+    "popularity": -0.066,
+    "category": [
+      "toast",
+      "notification",
+      "notifications"
+    ]
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-esbuild",
@@ -1019,7 +1060,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.644
+    "popularity": -0.644,
+    "category": [
+      "esbuild"
+    ]
   },
   {
     "githubUrl": "https://github.com/howljs/rn-card-scanner",
@@ -1088,7 +1132,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.059
+    "popularity": -0.059,
+    "category": [
+      "card-scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/isaced/react-native-cupertino-list",
@@ -1151,7 +1198,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.736
+    "popularity": -0.736,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/computerjazz/react-native-infinite-pager",
@@ -1349,7 +1397,11 @@
     "topicSearchString": "picker react react-native typescript wheelpicker",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.009
+    "popularity": -0.009,
+    "category": [
+      "picker",
+      "wheelpicker"
+    ]
   },
   {
     "githubUrl": "https://github.com/b0iq/react-native-place-picker",
@@ -1425,7 +1477,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.069
+    "popularity": -0.069,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Shopify/react-native-performance",
@@ -1548,7 +1601,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/ivanmoskalev/react-native-compressed-jsbundle",
@@ -1612,7 +1666,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.442
+    "popularity": -0.442,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/LinusU/react-native-get-random-values",
@@ -1682,7 +1737,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "webcrypto",
+      "random",
+      "crypto"
+    ]
   },
   {
     "githubUrl": "https://github.com/Shopify/react-native-skia",
@@ -1751,7 +1811,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.046
+    "popularity": -0.046,
+    "category": [
+      "skia"
+    ]
   },
   {
     "githubUrl": "https://github.com/Shopify/flash-list",
@@ -1936,7 +1999,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/mmazzarolo/react-native-universal-monorepo",
@@ -2000,7 +2064,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
@@ -2078,7 +2143,19 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": 0.001
+    "popularity": 0.001,
+    "category": [
+      "charts",
+      "barchart",
+      "piechart",
+      "line-charts",
+      "pie-chart",
+      "area-chart",
+      "data-visualization",
+      "graph",
+      "pyramid-chart",
+      "pyramid"
+    ]
   },
   {
     "githubUrl": "https://github.com/Luffos/rxn-input",
@@ -2146,7 +2223,8 @@
     "topicSearchString": "keyboard keyboard-events react react-native android ios listener typescript gamepad gamepad-inputs react-native-web cross-platform keylistener input listeners",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -1
+    "popularity": -1,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/wobsoriano/rn-perfect-sketch-canvas",
@@ -2217,7 +2295,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/uragirii/rn-skia-sketch-canvas",
@@ -2348,7 +2427,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.009
+    "popularity": -0.009,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/inokawa/react-native-react-bridge",
@@ -2428,7 +2508,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.072
+    "popularity": -0.072,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/alabsi91/reanimated-color-picker",
@@ -2519,7 +2600,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/alabsi91/react-native-material-you-colors",
@@ -2594,7 +2676,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.627
+    "popularity": -0.627,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/barthap/expo-music-picker",
@@ -2656,7 +2739,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/OvalMoney/react-native-fitness",
@@ -2723,7 +2807,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.048
+    "popularity": -0.048,
+    "category": [
+      "apple-health",
+      "google-fit",
+      "fitness"
+    ]
   },
   {
     "githubUrl": "https://github.com/dcangulo/react-native-outside-press",
@@ -2796,7 +2885,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/websitebeaver/react-native-document-scanner-plugin",
@@ -2857,7 +2947,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "category": [
+      "document-scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/react-native-ama",
@@ -3003,7 +3096,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.517
+    "popularity": -0.517,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/alantoa/expo-reanimated-av-player",
@@ -3140,7 +3234,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "apple-wallet",
+      "wallet"
+    ]
   },
   {
     "githubUrl": "https://github.com/wix-incubator/react-native-wallet-pass",
@@ -3274,7 +3372,18 @@
     "topicSearchString": "rxn react react-native react-native-web typescript units expo reactjs vh viewport viewport-size viewport-units vmax vmin vw xplat",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.497
+    "popularity": 0.497,
+    "category": [
+      "rxn",
+      "viewport",
+      "viewport-size",
+      "viewport-units",
+      "vmax",
+      "vmin",
+      "vw",
+      "xplat",
+      "vh"
+    ]
   },
   {
     "githubUrl": "https://github.com/zhigang1992/react-native-video-cache",
@@ -3386,6 +3495,9 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "category": [
+      "bluetooth"
+    ]
   }
 ]

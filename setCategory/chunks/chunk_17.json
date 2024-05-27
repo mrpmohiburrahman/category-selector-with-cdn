@@ -116,7 +116,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.04
+    "popularity": -0.04,
+    "category": [
+      "email"
+    ]
   },
   {
     "githubUrl": "https://github.com/hoaphantn7604/react-native-element-dropdown",
@@ -197,7 +200,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "dropdown",
+      "multiselect",
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/gorhom/react-native-paper-onboarding",
@@ -272,7 +280,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.416
+    "popularity": -0.416,
+    "category": [
+      "slider",
+      "onboarding"
+    ]
   },
   {
     "githubUrl": "https://github.com/MobileReality/react-native-select-pro",
@@ -357,7 +369,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.011
+    "popularity": 0.011,
+    "category": [
+      "dropdown",
+      "picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/craftzdog/react-native-quick-base64",
@@ -422,7 +438,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/getbouncer/react-native-cardscan",
@@ -557,7 +574,12 @@
     "topicSearchString": "react react-native expo bounceable bounceable-component rn-bounceable react-native-web",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.127
+    "popularity": 0.127,
+    "category": [
+      "bounceable",
+      "bounceable-component",
+      "rn-bounceable"
+    ]
   },
   {
     "githubUrl": "https://github.com/craftzdog/react-native-checkbox-reanimated",
@@ -626,7 +648,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.049
+    "popularity": -0.049,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/zoontek/react-native-bars",
@@ -697,7 +720,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.022
+    "popularity": 0.022,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/henrhie/react-native-sha",
@@ -888,7 +912,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.503
+    "popularity": -0.503,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/minhtc/react-native-auto-scrolling",
@@ -949,7 +974,12 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.031
+    "popularity": -0.031,
+    "category": [
+      "auto-scrolling",
+      "auto-scroll",
+      "marquee"
+    ]
   },
   {
     "githubUrl": "https://github.com/douglasjunior/react-native-recaptcha-that-works",
@@ -1022,7 +1052,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": [
+      "recaptcha"
+    ]
   },
   {
     "githubUrl": "https://github.com/vonovak/react-native-platforms",
@@ -1172,7 +1205,14 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "carousel",
+      "infinite-scroll",
+      "swiper",
+      "react-native-carousel",
+      "react-native-swiper"
+    ]
   },
   {
     "githubUrl": "https://github.com/MinaSamir11/react-native-in-app-review",
@@ -1260,7 +1300,16 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "review-api",
+      "playstore",
+      "in-app-review",
+      "react-native-in-app-review",
+      "appstore",
+      "app-review",
+      "review-tools"
+    ]
   },
   {
     "githubUrl": "https://github.com/shipt/osmosis",
@@ -1446,7 +1495,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "healthkit",
+      "apple-healthkit",
+      "fitness"
+    ]
   },
   {
     "githubUrl": "https://github.com/nomi9995/react-native-interactable-reanimated",
@@ -1580,7 +1634,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "category": [
+      "video",
+      "player",
+      "videoplayer",
+      "expo-video-player"
+    ]
   },
   {
     "githubUrl": "https://github.com/interhub/react-native-accelerometer-parallax",
@@ -1764,7 +1824,8 @@
     "topicSearchString": "react-native react-native-component zoom ios android",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.07
+    "popularity": -0.07,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/gajjartejas/react-native-lan-port-scanner",
@@ -1831,7 +1892,13 @@
     "topicSearchString": "lan-scan lan-scanner react-native port-scanner wifi-scanner",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.221
+    "popularity": 0.221,
+    "category": [
+      "lan-scan",
+      "lan-scanner",
+      "port-scanner",
+      "wifi-scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot",
@@ -1899,7 +1966,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/haxibiao/react-native-ad",
@@ -2079,7 +2147,10 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.606
+    "popularity": -0.606,
+    "category": [
+      "hashing"
+    ]
   },
   {
     "githubUrl": "https://github.com/MuhammedKpln/react-native-chatty",
@@ -2155,7 +2226,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.581
+    "popularity": -0.581,
+    "category": [
+      "chat",
+      "chat-ui"
+    ]
   },
   {
     "githubUrl": "https://github.com/cwnicoletti/react-native-gauge",
@@ -2221,7 +2296,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.433
+    "popularity": -0.433,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/caglardurmus/react-native-insta-story",
@@ -2287,7 +2363,8 @@
     "topicSearchString": "react-native ios android story instagram",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.045
+    "popularity": -0.045,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/Kieran-McIntyre/react-native-section-alphabet-list",
@@ -2360,7 +2437,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.012
+    "popularity": 0.012,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/alexZajac/react-native-skeleton-content",
@@ -2428,7 +2506,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.012
+    "popularity": 0.012,
+    "category": [
+      "skeleton"
+    ]
   },
   {
     "githubUrl": "https://github.com/alexZajac/react-native-skeleton-content-nonexpo",
@@ -2494,7 +2575,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.025
+    "popularity": -0.025,
+    "category": [
+      "skeleton"
+    ]
   },
   {
     "githubUrl": "https://github.com/meedan/react-native-share-menu",
@@ -2566,7 +2650,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "share-intent"
+    ]
   },
   {
     "githubUrl": "https://github.com/jamonholmgren/react-native-colo-loco",
@@ -2626,7 +2713,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.502
+    "popularity": -0.502,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/software-mansion-labs/react-native-url-router",
@@ -2814,7 +2902,10 @@
     "topicSearchString": "react-native typescript react-native-web boilerplate next nextjs tamagui react reactjs",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.083
+    "popularity": 0.083,
+    "category": [
+      "boilerplate"
+    ]
   },
   {
     "githubUrl": "https://github.com/criszz77/react-native-media-console",
@@ -2889,7 +2980,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "video-player",
+      "video-controls",
+      "react-native-video",
+      "video",
+      "media-player"
+    ]
   },
   {
     "githubUrl": "https://github.com/ujjalkar/rn-status-bar",
@@ -2955,7 +3053,10 @@
     "topicSearchString": "ios react-native statusbar",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.407
+    "popularity": -0.407,
+    "category": [
+      "statusbar"
+    ]
   },
   {
     "githubUrl": "https://github.com/nshaposhnik/react-native-virtual-keyboard",
@@ -3131,7 +3232,10 @@
     "topicSearchString": "react-native tags",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.028
+    "popularity": -0.028,
+    "category": [
+      "tags"
+    ]
   },
   {
     "githubUrl": "https://github.com/SvanBoxel/visibility-sensor-react-native",
@@ -3324,6 +3428,9 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.115
+    "popularity": -0.115,
+    "category": [
+      "flexbox"
+    ]
   }
 ]

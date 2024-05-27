@@ -288,7 +288,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "category": [
+      "placeholder"
+    ]
   },
   {
     "githubUrl": "https://github.com/mfrachet/rn-displayable",
@@ -405,7 +408,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "qrcode",
+      "node-qrcode"
+    ]
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/crashlytics",
@@ -488,7 +495,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "firebase",
+      "crashlytics"
+    ]
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/dynamic-links",
@@ -571,7 +582,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/iid",
@@ -654,7 +666,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.053
+    "popularity": -0.053,
+    "category": [
+      "firebase"
+    ]
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/in-app-messaging",
@@ -737,7 +752,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/ml",
@@ -820,7 +836,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.04
+    "popularity": -0.04,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/perf",
@@ -903,7 +920,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "analytics"
+    ]
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/remote-config",
@@ -986,7 +1006,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/itinance/react-native-fs",
@@ -1053,7 +1074,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "filesystem"
+    ]
   },
   {
     "githubUrl": "https://github.com/lodev09/react-native-cell-components",
@@ -1119,7 +1143,12 @@
     "topicSearchString": "cell components react-native ios listview tableview",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.669
+    "popularity": -0.669,
+    "category": [
+      "cell",
+      "listview",
+      "tableview"
+    ]
   },
   {
     "githubUrl": "https://github.com/malsapp/react-native-photo-upload",
@@ -1182,7 +1211,12 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.209
+    "popularity": -0.209,
+    "category": [
+      "photos",
+      "react-native-image-resizer",
+      "react-native-image-picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/peggyrayzis/react-native-create-bridge",
@@ -1250,7 +1284,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.046
+    "popularity": 0.046,
+    "category": [
+      "bridge"
+    ]
   },
   {
     "githubUrl": "https://github.com/material-native/material-native",
@@ -1309,7 +1346,11 @@
     "topicSearchString": "react-native material-design android ios material",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.629
+    "popularity": -0.629,
+    "category": [
+      "material-design",
+      "material"
+    ]
   },
   {
     "githubUrl": "https://github.com/ronak301/react-native-submit-button",
@@ -1369,7 +1410,11 @@
     "topicSearchString": "android ios react-native button submit-button animated",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.848
+    "popularity": -0.848,
+    "category": [
+      "button",
+      "submit-button"
+    ]
   },
   {
     "githubUrl": "https://github.com/mockingbot/react-native-zip-archive",
@@ -1437,7 +1482,12 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.05
+    "popularity": -0.05,
+    "category": [
+      "zip",
+      "unzip",
+      "zip-assets"
+    ]
   },
   {
     "githubUrl": "https://github.com/beefe/react-native-actionsheet",
@@ -1503,7 +1553,10 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.264
+    "popularity": -0.264,
+    "category": [
+      "actionsheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/Michaelvilleneuve/react-native-document-scanner",
@@ -1568,7 +1621,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.51
+    "popularity": -0.51,
+    "category": [
+      "scanner"
+    ]
   },
   {
     "githubUrl": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper",
@@ -1634,7 +1690,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.501
+    "popularity": -0.501,
+    "category": [
+      "crop"
+    ]
   },
   {
     "githubUrl": "https://github.com/zeljkoX/react-native-loading-placeholder",
@@ -1691,7 +1750,12 @@
     "topicSearchString": "react-native placeholder loader skeletor",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "category": [
+      "placeholder",
+      "loader",
+      "skeletor"
+    ]
   },
   {
     "githubUrl": "https://github.com/bamlab/react-native-batch-push",
@@ -1757,7 +1821,11 @@
     "topicSearchString": "react-native react-native-library batch push-notifications archived deprecated obsolete",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.583
+    "popularity": -0.583,
+    "category": [
+      "push-notifications",
+      "batch"
+    ]
   },
   {
     "githubUrl": "https://github.com/SoftZen/react-native-bouncy-drawer",
@@ -1868,7 +1936,10 @@
     "topicSearchString": "react-native ios drag-and-drop react component",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.667
+    "popularity": -0.667,
+    "category": [
+      "drag-and-drop"
+    ]
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-material-palette",
@@ -1928,7 +1999,11 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.779
+    "popularity": -0.779,
+    "category": [
+      "material-design",
+      "material-ui"
+    ]
   },
   {
     "githubUrl": "https://github.com/jfilter/react-native-onboarding-swiper",
@@ -1999,7 +2074,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "category": [
+      "onboarding",
+      "slider"
+    ]
   },
   {
     "githubUrl": "https://github.com/SoftZen/react-native-falling-drawer",
@@ -2167,7 +2246,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/lopespm/react-native-offscreen-toolbar",
@@ -2301,7 +2381,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.015
+    "popularity": -0.015,
+    "category": [
+      "forms",
+      "form",
+      "formik"
+    ]
   },
   {
     "githubUrl": "https://github.com/shokimble/react-native-google-play-game-services",
@@ -2354,7 +2439,11 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.8
+    "popularity": -0.8,
+    "category": [
+      "google-play-games",
+      "google-play-service"
+    ]
   },
   {
     "githubUrl": "https://github.com/Noitidart/react-native-popup-menu-android",
@@ -2521,7 +2610,11 @@
     "topicSearchString": "react-native popover modal",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.029
+    "popularity": 0.029,
+    "category": [
+      "popover",
+      "modal"
+    ]
   },
   {
     "githubUrl": "https://github.com/doomsower/react-native-vkontakte-login",
@@ -2582,7 +2675,10 @@
     "topicSearchString": "react-native vkontakte",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.025
+    "popularity": 0.025,
+    "category": [
+      "vkontakte"
+    ]
   },
   {
     "githubUrl": "https://github.com/lawnstarter/react-native-picker-select",
@@ -2658,7 +2754,12 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "category": [
+      "picker",
+      "dropdown",
+      "select"
+    ]
   },
   {
     "githubUrl": "https://github.com/NishanthShankar/react-native-keyguard",
@@ -2802,7 +2903,20 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "category": [
+      "swiper",
+      "swiper-flatlist",
+      "swipeview",
+      "swipe",
+      "react-native-swiper",
+      "flatlist",
+      "react-native-swiper-flatlist",
+      "scrollview",
+      "slider",
+      "carousel",
+      "scroll"
+    ]
   },
   {
     "githubUrl": "https://github.com/gusgard/react-native-grid-list",
@@ -2874,7 +2988,16 @@
     "topicSearchString": "react-native react grid grid-layout grid-view grid-component grid-list flatlist flatlist-grid",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "grid",
+      "grid-layout",
+      "grid-view",
+      "grid-component",
+      "grid-list",
+      "flatlist",
+      "flatlist-grid"
+    ]
   },
   {
     "githubUrl": "https://github.com/CompanyCam/react-native-walkthrough-tooltip",
@@ -2943,7 +3066,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.006
+    "popularity": -0.006,
+    "category": [
+      "tooltip"
+    ]
   },
   {
     "githubUrl": "https://github.com/iddan/react-native-canvas",
@@ -3005,7 +3131,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.034
+    "popularity": -0.034,
+    "category": [
+      "canvas"
+    ]
   },
   {
     "githubUrl": "https://github.com/SmallStoneSK/react-native-draggable-calendar",
@@ -3060,7 +3189,10 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "calendar"
+    ]
   },
   {
     "githubUrl": "https://github.com/xcarpentier/rn-pdf-reader-js",
@@ -3131,7 +3263,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "pdf-viewer",
+      "pdfjs",
+      "pdf-reader",
+      "react-pdf"
+    ]
   },
   {
     "githubUrl": "https://github.com/cooperka/react-native-snackbar",
@@ -3205,7 +3343,10 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "category": [
+      "snackbar"
+    ]
   },
   {
     "githubUrl": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
@@ -3279,6 +3420,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "category": [
+      "keyboard",
+      "keyboard-accessory",
+      "input-accessory"
+    ]
   }
 ]
