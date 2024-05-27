@@ -339,7 +339,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.067
+    "popularity": -0.067,
+    "category": [
+      "powersync"
+    ]
   },
   {
     "githubUrl": "https://github.com/AnkiPro/react-native-canvas-view",
@@ -756,7 +759,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.575
+    "popularity": -0.575,
+    "category": [
+      "markdown"
+    ]
   },
   {
     "githubUrl": "https://github.com/zacharyfmarion/react-native-fast-trie",
@@ -825,7 +831,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "category": [
+      "trie",
+      "search"
+    ]
   },
   {
     "githubUrl": "https://github.com/zacharyfmarion/react-native-heap-profiler",
@@ -895,7 +905,12 @@
     "topicSearchString": "debugging heap jsi memory observability profiling react-native",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.726
+    "popularity": -0.726,
+    "category": [
+      "debugging",
+      "heap",
+      "profiling"
+    ]
   },
   {
     "githubUrl": "https://github.com/ayonshafiul/react-native-reanimated-progress-steps",
@@ -1155,7 +1170,11 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": 0
+    "popularity": 0,
+    "category": [
+      "modal",
+      "bottom-sheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/WalletConnect/web3modal-react-native",
@@ -1222,7 +1241,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "category": [
+      "dapps"
+    ]
   },
   {
     "githubUrl": "https://github.com/carsonwah/react-native-push-notification-popup",
@@ -1293,7 +1315,8 @@
     "topicSearchString": "react-native react-native-component javascript ios dialog modal android popup",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.145
+    "popularity": -0.145,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/jkomyno/react-native-user-inactivity",
@@ -1352,7 +1375,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "inactivity"
+    ]
   },
   {
     "githubUrl": "https://github.com/MarceloPrado/flash-calendar/tree/main/packages/flash-calendar",
@@ -1425,7 +1451,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.015
+    "popularity": 0.015,
+    "category": [
+      "calendar",
+      "date",
+      "date-range-picker"
+    ]
   },
   {
     "githubUrl": "https://github.com/meedwire/react-native-image-rotate",
@@ -1559,7 +1590,17 @@
     "topicSearchString": "react-native reactnative rails actioncable websockets react action-cable rails5 rails6 realtime realtime-messaging realtime-updates ruby-on-rails rubyonrails",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "rails",
+      "actioncable",
+      "websockets",
+      "action-cable",
+      "rails5",
+      "rails6",
+      "ruby-on-rails",
+      "rubyonrails"
+    ]
   },
   {
     "githubUrl": "https://github.com/binaryminds/react-native-sse",
@@ -1628,7 +1669,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.117
+    "popularity": -0.117,
+    "category": [
+      "eventsource",
+      "sse",
+      "event-source"
+    ]
   },
   {
     "githubUrl": "https://github.com/Acetyld/expo-foreground-actions",
@@ -1688,7 +1734,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.532
+    "popularity": -0.532,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/FerRiv3ra/rn-custom-alert-prompt",
@@ -1856,7 +1903,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.675
+    "popularity": -0.675,
+    "category": []
   },
   {
     "githubUrl": "https://github.com/candlefinance/react-native-openai",
@@ -1928,7 +1976,10 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.008
+    "popularity": 0.008,
+    "category": [
+      "openai"
+    ]
   },
   {
     "githubUrl": "https://github.com/candlefinance/haptics",
@@ -1999,7 +2050,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.502
+    "popularity": -0.502,
+    "category": [
+      "haptics",
+      "ahap"
+    ]
   },
   {
     "githubUrl": "https://github.com/margelo/react-native-skottie/tree/main/package",
@@ -2070,7 +2125,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "category": [
+      "skia",
+      "skottie",
+      "lottie"
+    ]
   },
   {
     "githubUrl": "https://github.com/ysfzrn/react-native-gif-player",
@@ -2147,7 +2207,15 @@
     "topicSearchString": "animated-gif gif gifplayer react-native webp giphy loop tenor gif-stop react-native-gif gifs",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "category": [
+      "gif",
+      "gifplayer",
+      "giphy",
+      "gif-stop",
+      "react-native-gif",
+      "gifs"
+    ]
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-windows-hello",
@@ -2212,7 +2280,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.682
+    "popularity": -0.682,
+    "category": [
+      "react-native-windows",
+      "windows-hello"
+    ]
   },
   {
     "githubUrl": "https://github.com/tushu4212/rntemplate",
@@ -2340,7 +2412,12 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.083
+    "popularity": 0.083,
+    "category": [
+      "bottom-sheet",
+      "modal-sheet",
+      "native-sheet"
+    ]
   },
   {
     "githubUrl": "https://github.com/dylankenneally/react-native-ssh-sftp",
@@ -2406,7 +2483,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.087
+    "popularity": -0.087,
+    "category": [
+      "sftp",
+      "sftp-client",
+      "ssh-client",
+      "ssh"
+    ]
   },
   {
     "githubUrl": "https://github.com/RichardRNStudio/react-native-slider-intro",
@@ -2488,7 +2571,11 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.083
+    "popularity": -0.083,
+    "category": [
+      "slider",
+      "intro"
+    ]
   },
   {
     "githubUrl": "https://github.com/RichardRNStudio/react-native-find-local-devices",
@@ -2560,7 +2647,13 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.462
+    "popularity": -0.462,
+    "category": [
+      "portscanning",
+      "network-discovery",
+      "websocket-connection",
+      "local-network"
+    ]
   },
   {
     "githubUrl": "https://github.com/Netizen-Teknologi/avatar-placeholder",
@@ -2691,7 +2784,14 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "category": [
+      "crypto",
+      "cryptography",
+      "encryption",
+      "decryption",
+      "maths"
+    ]
   },
   {
     "githubUrl": "https://github.com/vokhuyetOz/react-native-messy",
@@ -3140,6 +3240,9 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "category": [
+      "toast"
+    ]
   }
 ]
