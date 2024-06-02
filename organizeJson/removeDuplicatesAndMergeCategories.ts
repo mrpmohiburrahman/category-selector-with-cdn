@@ -3,8 +3,8 @@ import path from "path";
 import { Library } from "../types"; // Adjust the import path according to your project structure
 
 // Get the directory name in an ES module context
-import { fileURLToPath } from "url";
 import { beautifyName } from "../utils/beautifyLibname";
+import { fileURLToPath } from "url";
 // @ts-ignore
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
