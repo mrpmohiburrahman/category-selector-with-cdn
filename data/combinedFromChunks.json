@@ -78,7 +78,8 @@
     "matchScore": 11,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/parse-community/Parse-SDK-JS",
@@ -157,7 +158,8 @@
     "matchScore": 1,
     "category": [
       "parse-js"
-    ]
+    ],
+    "uniqueCategory": "parse-js"
   },
   {
     "githubUrl": "https://github.com/aws-amplify/amplify-js",
@@ -238,7 +240,8 @@
     "matchScore": 1,
     "category": [
       "aws-cognito"
-    ]
+    ],
+    "uniqueCategory": "aws"
   },
   {
     "githubUrl": "https://github.com/henninghall/react-native-date-picker",
@@ -325,7 +328,8 @@
     "matchScore": 1,
     "category": [
       "timepicker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/stripe/stripe-react-native",
@@ -402,7 +406,8 @@
     "matchScore": 1,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "stripe"
   },
   {
     "githubUrl": "https://github.com/CareLuLu/react-native-web-jsonschema-form",
@@ -469,7 +474,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   {
     "githubUrl": "https://github.com/huextrat/react-native-maps-routes",
@@ -539,7 +545,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-camera",
@@ -608,7 +615,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "npmPkg": "@testing-library/react-native",
@@ -691,7 +699,8 @@
     "matchScore": 111,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "testing"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-updates",
@@ -756,7 +765,8 @@
     ],
     "popularity": -0.017,
     "topicSearchString": "react-native expo updates",
-    "category": []
+    "category": [],
+    "uniqueCategory": "expo-updates"
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-image-editor",
@@ -830,7 +840,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/lawnstarter/react-native-hotspot",
@@ -980,7 +991,8 @@
     "matchScore": 1,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/wKovacs64/react-native-responsive-image-view",
@@ -1061,7 +1073,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/realm/realm-js/tree/main/packages/realm",
@@ -1148,7 +1161,8 @@
     "matchScore": 11,
     "category": [
       "mongodb"
-    ]
+    ],
+    "uniqueCategory": "mongodb"
   },
   {
     "githubUrl": "https://github.com/dev-yakuza/react-native-image-modal",
@@ -1227,7 +1241,8 @@
     "matchScore": 1,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/tschoffelen/react-native-map-link",
@@ -1304,7 +1319,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/react-native-maps/react-native-maps",
@@ -1386,7 +1402,8 @@
     "matchScore": 1,
     "category": [
       "mapkit"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/react-native-app-auth",
@@ -1465,7 +1482,8 @@
     "matchScore": 11,
     "category": [
       "appauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/react-native-share/react-native-share",
@@ -1545,7 +1563,8 @@
     "matchScore": 111,
     "category": [
       "share"
-    ]
+    ],
+    "uniqueCategory": "social-share"
   },
   {
     "githubUrl": "https://github.com/oktaysenkan/react-native-iconify",
@@ -1620,7 +1639,8 @@
     "matchScore": 111,
     "category": [
       "iconify"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view",
@@ -1692,7 +1712,8 @@
     "matchScore": 1,
     "category": [
       "expodragdropcontentview"
-    ]
+    ],
+    "uniqueCategory": "drag-and-drop"
   },
   {
     "githubUrl": "https://github.com/DataDog/dd-sdk-reactnative",
@@ -1766,7 +1787,8 @@
     "matchScore": 1,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native",
@@ -1829,7 +1851,8 @@
     ],
     "popularity": -0.04,
     "topicSearchString": "react-native",
-    "category": []
+    "category": [],
+    "uniqueCategory": "babylonjs"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-google-mobile-ads",
@@ -1913,7 +1936,8 @@
     "matchScore": 1,
     "category": [
       "google-ads"
-    ]
+    ],
+    "uniqueCategory": "google-ads"
   },
   {
     "githubUrl": "https://github.com/vivaxy/react-native-auto-height-image",
@@ -1988,7 +2012,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/codeherence/react-native-header",
@@ -2062,7 +2087,8 @@
     ],
     "popularity": -0.096,
     "topicSearchString": "react-native ios android",
-    "category": []
+    "category": [],
+    "uniqueCategory": "header"
   },
   {
     "githubUrl": "https://github.com/facebook/fbt",
@@ -2133,7 +2159,8 @@
     "matchScore": 11,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/react-native-menu/menu",
@@ -2209,7 +2236,8 @@
     ],
     "popularity": -0.05,
     "topicSearchString": "react-native ios android uimenu uiaction hacktoberfest",
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-menu"
   },
   {
     "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/datastore",
@@ -2272,7 +2300,8 @@
     "matchScore": 110,
     "category": [
       "aws"
-    ]
+    ],
+    "uniqueCategory": "aws"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-apple-authentication",
@@ -2353,7 +2382,8 @@
     "matchScore": 111,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-apple-authentication",
@@ -2420,7 +2450,8 @@
     "matchScore": 101,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-local-authentication",
@@ -2492,7 +2523,8 @@
     "matchScore": 101,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-auth-session",
@@ -2563,7 +2595,8 @@
     "matchScore": 1,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/auth",
@@ -2627,7 +2660,8 @@
     "matchScore": 10,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/fullstackreact/react-native-oauth",
@@ -2695,7 +2729,8 @@
     "matchScore": 101,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/ory/kratos-selfservice-ui-react-native",
@@ -2766,7 +2801,8 @@
     "matchScore": 1,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/vmurin/react-native-azure-auth",
@@ -2832,7 +2868,8 @@
     "matchScore": 11,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/react-native-twitter-signin/twitter-signin",
@@ -2900,7 +2937,8 @@
     "matchScore": 1,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/smallcasetech/react-native-simple-biometrics",
@@ -2978,7 +3016,8 @@
     "matchScore": 1,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/gobeyondidentity/bi-sdk-react-native",
@@ -3055,7 +3094,8 @@
     "matchScore": 1,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/hungdev/react-native-instagram-login",
@@ -3125,7 +3165,8 @@
     "matchScore": 1,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/hieuvp/react-native-fingerprint-scanner",
@@ -3214,7 +3255,8 @@
     "matchScore": 1,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/Forward-Software/react-auth",
@@ -3368,7 +3410,8 @@
     "matchScore": 1,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/naoufal/react-native-touch-id",
@@ -3442,7 +3485,8 @@
     "matchScore": 0.011,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/fixt/react-native-digits",
@@ -3516,7 +3560,8 @@
     "matchScore": 0.001,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/XHMM/react-native-cloud-store",
@@ -3585,7 +3630,8 @@
     "matchScore": 111,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "cloud"
   },
   {
     "githubUrl": "https://github.com/Kuatsu/react-native-cloud-storage",
@@ -3658,7 +3704,8 @@
     "matchScore": 110,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "cloud"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/app",
@@ -3749,7 +3796,8 @@
     "matchScore": 11,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "firebase"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/firestore",
@@ -3818,7 +3866,8 @@
     "matchScore": 11,
     "category": [
       "database"
-    ]
+    ],
+    "uniqueCategory": "db"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/storage",
@@ -3889,7 +3938,8 @@
     "matchScore": 11,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "db"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/database",
@@ -3956,7 +4006,8 @@
     "matchScore": 111,
     "category": [
       "database"
-    ]
+    ],
+    "uniqueCategory": "db"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/functions",
@@ -4022,7 +4073,8 @@
     "matchScore": 10,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "cloud"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/messaging",
@@ -4086,7 +4138,8 @@
     "matchScore": 10,
     "category": [
       "cloud"
-    ]
+    ],
+    "uniqueCategory": "cloud-messaging"
   },
   {
     "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react-native",
@@ -4146,7 +4199,8 @@
     "matchScore": 100,
     "category": [
       "aws"
-    ]
+    ],
+    "uniqueCategory": "aws"
   },
   {
     "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/pushnotification",
@@ -4204,7 +4258,8 @@
     "matchScore": 100,
     "category": [
       "aws"
-    ]
+    ],
+    "uniqueCategory": "push-notifications"
   },
   {
     "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/auth",
@@ -4267,7 +4322,8 @@
     "matchScore": 110,
     "category": [
       "auth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/MohamadKh75/react-native-jalali-datepicker",
@@ -4347,7 +4403,8 @@
     "matchScore": 111,
     "category": [
       "datepicker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/farhoudshapouran/react-native-ui-datepicker",
@@ -4444,7 +4501,8 @@
     "matchScore": 101,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/xgfe/react-native-datepicker",
@@ -4516,7 +4574,8 @@
     "matchScore": 10,
     "category": [
       "timepicker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/HosseinShabani/react-native-modern-datepicker",
@@ -4601,7 +4660,8 @@
     "matchScore": 1,
     "category": [
       "time-picker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/thodubois/react-native-woodpicker",
@@ -4680,7 +4740,8 @@
     "matchScore": 1,
     "category": [
       "timepicker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/react-native-datetimepicker/datetimepicker",
@@ -4768,7 +4829,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/web-ridge/react-native-paper-dates",
@@ -4852,7 +4914,8 @@
     "matchScore": 1,
     "category": [
       "timepicker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/DieTime/react-native-date-picker",
@@ -4925,7 +4988,8 @@
     "matchScore": 100,
     "category": [
       "react-native-date-picker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/kalontech/ReactNativeWheelPicker",
@@ -4993,7 +5057,8 @@
     "matchScore": 1,
     "category": [
       "date-picker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/mmazzarolo/react-native-modal-datetime-picker",
@@ -5074,7 +5139,8 @@
     "matchScore": 110,
     "category": [
       "time-picker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/Navybits/react-native-navybits-date-time-picker",
@@ -5134,7 +5200,8 @@
     "matchScore": 100,
     "category": [
       "date-time-picker"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/troberts-28/react-native-timer-picker",
@@ -5240,7 +5307,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "date-time-picker"
   },
   {
     "githubUrl": "https://github.com/Agaweb/react-native-stripe",
@@ -5315,7 +5383,8 @@
     "matchScore": 1,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "stripe"
   },
   {
     "githubUrl": "https://github.com/tipsi/tipsi-stripe",
@@ -5388,7 +5457,8 @@
     "matchScore": 111,
     "category": [
       "stripe"
-    ]
+    ],
+    "uniqueCategory": "stripe"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-payments-stripe",
@@ -5447,7 +5517,8 @@
     "matchScore": 100,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "stripe"
   },
   {
     "githubUrl": "https://github.com/lrettig/react-native-stripe",
@@ -5515,7 +5586,8 @@
     "matchScore": 0.111,
     "category": [
       "stripe"
-    ]
+    ],
+    "uniqueCategory": "stripe"
   },
   {
     "githubUrl": "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments",
@@ -5590,7 +5662,8 @@
     "matchScore": 111,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "payments"
   },
   {
     "githubUrl": "https://github.com/naoufal/react-native-payments",
@@ -5678,7 +5751,8 @@
     "matchScore": 111,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "payments"
   },
   {
     "githubUrl": "https://github.com/bamlab/react-native-braintree-payments-drop-in",
@@ -5748,7 +5822,8 @@
     "matchScore": 101,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "payments"
   },
   {
     "githubUrl": "https://github.com/chirag04/react-native-in-app-utils",
@@ -5822,7 +5897,8 @@
     "matchScore": 11,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "payments"
   },
   {
     "githubUrl": "https://github.com/ekreative/react-native-braintree",
@@ -5894,7 +5970,8 @@
     "matchScore": 10,
     "category": [
       "payments"
-    ]
+    ],
+    "uniqueCategory": "payments"
   },
   {
     "githubUrl": "https://github.com/wix/react-native-calendars",
@@ -5980,7 +6057,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   {
     "githubUrl": "https://github.com/Monte9/react-native-ratings",
@@ -6067,7 +6145,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "ratings"
   },
   {
     "githubUrl": "https://github.com/thakurballary/react-native-btr",
@@ -6220,7 +6299,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/GeekyAnts/NativeBase",
@@ -6312,7 +6392,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/jsartisan/react-native-magnus",
@@ -6390,7 +6471,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/bramus/react-native-maps-directions",
@@ -6463,7 +6545,8 @@
     "matchScore": 1,
     "category": [
       "mapkit"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/dev-event/react-native-maps-draw",
@@ -6543,7 +6626,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/siposdani87/expo-maps-polygon-editor",
@@ -6615,7 +6699,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/Splicer97/react-native-apple-mapkit-directions",
@@ -6689,7 +6774,8 @@
     "matchScore": 111,
     "category": [
       "mapkit"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/react-native-cameraroll/react-native-cameraroll",
@@ -6760,7 +6846,8 @@
     "matchScore": 111,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/teslamotors/react-native-camera-kit",
@@ -6835,7 +6922,8 @@
     "matchScore": 111,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/tony-xlh/vision-camera-cropper",
@@ -6908,7 +6996,8 @@
     "matchScore": 111,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/AppAndFlow/expo-camera-characteristics",
@@ -6973,7 +7062,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/mrousavy/vision-camera-image-labeler",
@@ -7053,7 +7143,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/jeanpan/react-native-camera-roll-picker",
@@ -7126,7 +7217,8 @@
     "matchScore": 111,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/aarongrider/vision-camera-ocr",
@@ -7196,7 +7288,8 @@
     "matchScore": 111,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/mrousavy/react-native-vision-camera",
@@ -7267,7 +7360,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer",
@@ -7346,7 +7440,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/xulihang/vision-camera-dynamsoft-label-recognizer",
@@ -7422,7 +7517,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/xulihang/vision-camera-dynamsoft-barcode-reader",
@@ -7499,7 +7595,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/rodgomesc/vision-camera-qrcode-scanner",
@@ -7573,7 +7670,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/rodgomesc/vision-camera-code-scanner",
@@ -7647,7 +7745,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/rodgomesc/vision-camera-face-detector",
@@ -7719,7 +7818,8 @@
     "matchScore": 110,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner",
@@ -7787,7 +7887,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   {
     "githubUrl": "https://github.com/RobertSasak/react-native-openalpr",

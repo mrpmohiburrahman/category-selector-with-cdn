@@ -1,0 +1,169 @@
+{
+  "auth": [
+    "https://github.com/clerkinc/javascript",
+    "https://github.com/react-native-google-signin/google-signin",
+    "https://github.com/FormidableLabs/react-native-app-auth",
+    "https://github.com/invertase/react-native-apple-authentication",
+    "https://github.com/expo/expo/tree/main/packages/expo-apple-authentication",
+    "https://github.com/expo/expo/tree/main/packages/expo-local-authentication",
+    "https://github.com/expo/expo/tree/main/packages/expo-auth-session",
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/auth",
+    "https://github.com/fullstackreact/react-native-oauth",
+    "https://github.com/ory/kratos-selfservice-ui-react-native",
+    "https://github.com/vmurin/react-native-azure-auth",
+    "https://github.com/react-native-twitter-signin/twitter-signin",
+    "https://github.com/smallcasetech/react-native-simple-biometrics",
+    "https://github.com/gobeyondidentity/bi-sdk-react-native",
+    "https://github.com/hungdev/react-native-instagram-login",
+    "https://github.com/hieuvp/react-native-fingerprint-scanner",
+    "https://github.com/Bruno-Furtado/react-native-sms-retriever",
+    "https://github.com/naoufal/react-native-touch-id",
+    "https://github.com/fixt/react-native-digits",
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/auth"
+  ],
+  "parse-js": [
+    "https://github.com/parse-community/Parse-SDK-JS"
+  ],
+  "aws": [
+    "https://github.com/aws-amplify/amplify-js",
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/datastore",
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react-native"
+  ],
+  "date-time-picker": [
+    "https://github.com/henninghall/react-native-date-picker",
+    "https://github.com/MohamadKh75/react-native-jalali-datepicker",
+    "https://github.com/farhoudshapouran/react-native-ui-datepicker",
+    "https://github.com/xgfe/react-native-datepicker",
+    "https://github.com/HosseinShabani/react-native-modern-datepicker",
+    "https://github.com/thodubois/react-native-woodpicker",
+    "https://github.com/react-native-datetimepicker/datetimepicker",
+    "https://github.com/web-ridge/react-native-paper-dates",
+    "https://github.com/DieTime/react-native-date-picker",
+    "https://github.com/kalontech/ReactNativeWheelPicker",
+    "https://github.com/mmazzarolo/react-native-modal-datetime-picker",
+    "https://github.com/Navybits/react-native-navybits-date-time-picker",
+    "https://github.com/troberts-28/react-native-timer-picker"
+  ],
+  "stripe": [
+    "https://github.com/stripe/stripe-react-native",
+    "https://github.com/Agaweb/react-native-stripe",
+    "https://github.com/tipsi/tipsi-stripe",
+    "https://github.com/expo/expo/tree/main/packages/expo-payments-stripe",
+    "https://github.com/lrettig/react-native-stripe"
+  ],
+  "form": [
+    "https://github.com/CareLuLu/react-native-web-jsonschema-form"
+  ],
+  "map": [
+    "https://github.com/huextrat/react-native-maps-routes",
+    "https://github.com/tschoffelen/react-native-map-link",
+    "https://github.com/react-native-maps/react-native-maps",
+    "https://github.com/bramus/react-native-maps-directions",
+    "https://github.com/dev-event/react-native-maps-draw",
+    "https://github.com/siposdani87/expo-maps-polygon-editor",
+    "https://github.com/Splicer97/react-native-apple-mapkit-directions"
+  ],
+  "camera": [
+    "https://github.com/expo/expo/tree/main/packages/expo-camera",
+    "https://github.com/react-native-cameraroll/react-native-cameraroll",
+    "https://github.com/teslamotors/react-native-camera-kit",
+    "https://github.com/tony-xlh/vision-camera-cropper",
+    "https://github.com/AppAndFlow/expo-camera-characteristics",
+    "https://github.com/mrousavy/vision-camera-image-labeler",
+    "https://github.com/aarongrider/vision-camera-ocr",
+    "https://github.com/mrousavy/react-native-vision-camera",
+    "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer",
+    "https://github.com/xulihang/vision-camera-dynamsoft-label-recognizer",
+    "https://github.com/xulihang/vision-camera-dynamsoft-barcode-reader",
+    "https://github.com/rodgomesc/vision-camera-qrcode-scanner",
+    "https://github.com/rodgomesc/vision-camera-code-scanner",
+    "https://github.com/rodgomesc/vision-camera-face-detector"
+  ],
+  "testing": [
+    "https://github.com/callstack/react-native-testing-library"
+  ],
+  "expo-updates": [
+    "https://github.com/expo/expo/tree/main/packages/expo-updates"
+  ],
+  "image-editor": [
+    "https://github.com/callstack/react-native-image-editor"
+  ],
+  "image": [
+    "https://github.com/wKovacs64/react-native-responsive-image-view",
+    "https://github.com/dev-yakuza/react-native-image-modal",
+    "https://github.com/vivaxy/react-native-auto-height-image"
+  ],
+  "mongodb": [
+    "https://github.com/realm/realm-js/tree/main/packages/realm"
+  ],
+  "social-share": [
+    "https://github.com/react-native-share/react-native-share"
+  ],
+  "icon": [
+    "https://github.com/oktaysenkan/react-native-iconify"
+  ],
+  "drag-and-drop": [
+    "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view"
+  ],
+  "analytics": [
+    "https://github.com/DataDog/dd-sdk-reactnative"
+  ],
+  "babylonjs": [
+    "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
+  ],
+  "google-ads": [
+    "https://github.com/invertase/react-native-google-mobile-ads"
+  ],
+  "header": [
+    "https://github.com/codeherence/react-native-header"
+  ],
+  "i18n": [
+    "https://github.com/facebook/fbt"
+  ],
+  "popup-menu": [
+    "https://github.com/react-native-menu/menu"
+  ],
+  "cloud": [
+    "https://github.com/XHMM/react-native-cloud-store",
+    "https://github.com/Kuatsu/react-native-cloud-storage",
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/functions"
+  ],
+  "firebase": [
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/app"
+  ],
+  "db": [
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/firestore",
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/storage",
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/database"
+  ],
+  "cloud-messaging": [
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/messaging"
+  ],
+  "push-notifications": [
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/pushnotification"
+  ],
+  "payments": [
+    "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments",
+    "https://github.com/naoufal/react-native-payments",
+    "https://github.com/bamlab/react-native-braintree-payments-drop-in",
+    "https://github.com/chirag04/react-native-in-app-utils",
+    "https://github.com/ekreative/react-native-braintree"
+  ],
+  "calendar": [
+    "https://github.com/wix/react-native-calendars"
+  ],
+  "ratings": [
+    "https://github.com/Monte9/react-native-ratings"
+  ],
+  "ui-toolkit": [
+    "https://github.com/react-native-elements/react-native-elements",
+    "https://github.com/GeekyAnts/NativeBase",
+    "https://github.com/jsartisan/react-native-magnus"
+  ],
+  "image-video-file-picker": [
+    "https://github.com/jeanpan/react-native-camera-roll-picker"
+  ],
+  "barcode-qrcode-scanner": [
+    "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner"
+  ]
+}

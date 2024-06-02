@@ -1,6 +1,7 @@
 export type Category = "dev" | "ui" | "monetization" | "other"; // Add any other predefined strings as needed
 
 export type Library = {
+  uniqueCategory?: string;
   category?: Category[];
   goldstar?: boolean;
   githubUrl: string;

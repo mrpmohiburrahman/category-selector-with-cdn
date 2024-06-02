@@ -1,3 +1,4 @@
+import { addUniqueCategory } from "./organizeJson/addUniqueCategory";
 import { categorizeLibraries } from "./organizeJson/categorizeLibraries";
 import { splitJsonFileIntoChunks } from "./organizeJson/divideJson";
 import { mergeDuplicatesForASingleFile } from "./organizeJson/mergeDuplicatesForAsinglefile";
@@ -16,4 +17,5 @@ import { updateLibraryData } from "./updateLibraryData/updateLibraryData";
 // setCategory().catch(console.error);
 // processLibraries().catch(console.error);
 // updateLibraryData().catch(console.error);
-splitJsonFileIntoChunks();
+// splitJsonFileIntoChunks();
+addUniqueCategory().catch(console.error);
