@@ -18,9 +18,14 @@ const chunkArray = <T>(array: T[], chunkSize: number): T[][] => {
 
 // Function to split large JSON file into chunks and save them
 export const splitJsonFileIntoChunks = (
-  inputFilePath: string = path.join(__dirname, "largeFile.json"),
-  outputDir: string = path.join(__dirname, "chunks"),
-  chunkSize: number = 100
+  inputFilePath: string = path.join(
+    __dirname,
+    "..",
+    "data",
+    "combinedFromChunks.json"
+  ),
+  outputDir: string = path.join(__dirname, "..", "data", "chunks"),
+  chunkSize: number = 50
 ): void => {
   // Read the large JSON file
   const jsonData: Library[] = JSON.parse(

@@ -7,7 +7,7 @@ import { ensureUniqueItems } from "./organizeJson/removeDuplicatesWithin";
 import { processLibraries } from "./setCategory/processLibraries";
 import { setCategory } from "./setCategory/setCategory";
 import { updateLibraryData } from "./updateLibraryData/updateLibraryData";
-mergeDuplicatesForASingleFile();
+// mergeDuplicatesForASingleFile();
 // categorizeLibraries().catch(console.error);
 //
 // removeDuplicatesAndMergeCategories().catch(console.error);
@@ -16,4 +16,4 @@ mergeDuplicatesForASingleFile();
 // setCategory().catch(console.error);
 // processLibraries().catch(console.error);
 // updateLibraryData().catch(console.error);
-// splitJsonFileIntoChunks()
+splitJsonFileIntoChunks();

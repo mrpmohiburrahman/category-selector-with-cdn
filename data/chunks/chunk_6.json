@@ -1,371 +1,97 @@
 [
   {
-    "githubUrl": "https://github.com/naoufal/react-native-speech",
-    "ios": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-speech",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/naoufal/react-native-speech",
-        "clone": "https://github.com/naoufal/react-native-speech.git",
-        "homepage": "https://www.npmjs.com/package/react-native-speech"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-15T08:54:28Z",
-        "createdAt": "2015-06-08T02:40:51Z",
-        "pushedAt": "2017-05-27T00:31:22Z",
-        "issues": 26,
-        "subscribers": 6,
-        "stars": 302,
-        "forks": 53
-      },
-      "name": "react-native-speech",
-      "fullName": "naoufal/react-native-speech",
-      "description": "A text-to-speech library for React Native.",
-      "topics": [],
-      "license": null,
-      "lastRelease": {
-        "name": "v0.1.1",
-        "tagName": "v0.1.1",
-        "createdAt": "2015-11-18T13:19:34Z",
-        "publishedAt": "2015-11-18T13:20:45Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 118,
-      "weekDownloads": 30,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 44,
-    "matchingScoreModifiers": [
-      "No license",
-      "Recently updated"
+    "githubUrl": "https://github.com/teovillanueva/react-native-web-maps",
+    "npmPkg": "@teovilla/react-native-web-maps",
+    "examples": [
+      "https://github.com/teovillanueva/react-native-web-maps/tree/main/example",
+      "https://github.com/teovillanueva/react-native-web-maps-solito-example"
     ],
-    "popularity": -0.692
-  },
-  {
-    "githubUrl": "https://github.com/wix/react-native-wordpress-editor",
-    "ios": true,
+    "images": [
+      "https://raw.githubusercontent.com/inokawa/react-native-react-bridge/main/examples/android.gif",
+      "https://raw.githubusercontent.com/inokawa/react-native-react-bridge/main/examples/ios.gif"
+    ],
     "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-wordpress-editor",
+    "ios": true,
+    "expoGo": true,
     "github": {
       "urls": {
-        "repo": "https://github.com/wix-incubator/react-native-wordpress-editor",
-        "clone": "https://github.com/wix-incubator/react-native-wordpress-editor.git",
-        "homepage": null
+        "repo": "https://github.com/teovillanueva/react-native-web-maps",
+        "clone": "https://github.com/teovillanueva/react-native-web-maps.git",
+        "homepage": "https://teovillanueva.github.io/react-native-web-maps/"
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
-        "hasPages": false,
+        "hasPages": true,
         "hasDownloads": true,
         "hasTopics": false,
-        "updatedAt": "2024-04-03T01:50:08Z",
-        "createdAt": "2016-06-09T12:35:33Z",
-        "pushedAt": "2023-03-20T07:33:55Z",
-        "issues": 7,
-        "subscribers": 320,
-        "stars": 245,
-        "forks": 43
-      },
-      "name": "react-native-wordpress-editor",
-      "fullName": "wix-incubator/react-native-wordpress-editor",
-      "description": "React Native Wrapper for WordPress Rich Text Editor",
-      "topics": [],
-      "license": {
-        "key": "gpl-2.0",
-        "name": "GNU General Public License v2.0",
-        "spdxId": "GPL-2.0",
-        "url": "https://api.github.com/licenses/gpl-2.0",
-        "id": "MDc6TGljZW5zZTg="
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 101,
-      "weekDownloads": 13,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 44,
-    "matchingScoreModifiers": [
-      "Popular",
-      "GPL license"
-    ],
-    "popularity": -0.819
-  },
-  {
-    "githubUrl": "https://github.com/umhan35/react-native-search-bar",
-    "ios": true,
-    "npmPkg": "react-native-search-bar",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/umhan35/react-native-search-bar",
-        "clone": "https://github.com/umhan35/react-native-search-bar.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-30T07:41:46Z",
-        "createdAt": "2015-06-14T00:19:53Z",
-        "pushedAt": "2023-04-16T13:04:33Z",
-        "issues": 45,
-        "subscribers": 13,
-        "stars": 856,
-        "forks": 213
-      },
-      "name": "react-native-search-bar",
-      "fullName": "umhan35/react-native-search-bar",
-      "description": "The high-quality iOS native search bar for react native.",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "v3.5.1",
-        "tagName": "v3.5.1",
-        "createdAt": "2019-10-20T12:36:41Z",
-        "publishedAt": "2019-10-20T12:37:03Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 3028,
-      "weekDownloads": 695,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
-    ],
-    "popularity": -0.02
-  },
-  {
-    "githubUrl": "https://github.com/chrisfisher/react-native-directed-scrollview",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-directed-scrollview",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/chrisfisher/react-native-directed-scrollview",
-        "clone": "https://github.com/chrisfisher/react-native-directed-scrollview.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-03-30T22:28:00Z",
-        "createdAt": "2016-11-23T21:57:25Z",
-        "pushedAt": "2019-02-12T20:07:51Z",
-        "issues": 22,
+        "updatedAt": "2024-04-25T15:20:39Z",
+        "createdAt": "2022-07-01T13:21:13Z",
+        "pushedAt": "2024-04-25T15:20:39Z",
+        "forks": 12,
+        "issues": 8,
         "subscribers": 3,
-        "stars": 149,
-        "forks": 67
+        "stars": 52
       },
-      "name": "react-native-directed-scrollview",
-      "fullName": "chrisfisher/react-native-directed-scrollview",
-      "description": "UNMAINTAINED- see below. A natively implemented scrollview component which lets you specify different scroll directions for child content.",
-      "topics": [
-        "react-native",
-        "scrollview",
-        "direction",
-        "native",
-        "scroll",
-        "react",
-        "javascript",
-        "reactnative",
-        "horizontal",
-        "vertical"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 73,
-      "weekDownloads": 5,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native scrollview direction native scroll react javascript reactnative horizontal vertical",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.878,
-    "category": [
-      "scrollview",
-      "scroll"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/wix/react-native-keyboard-input",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-keyboard-input",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/wix-incubator/react-native-keyboard-input",
-        "clone": "https://github.com/wix-incubator/react-native-keyboard-input.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-04-27T23:28:19Z",
-        "createdAt": "2016-12-14T09:49:51Z",
-        "pushedAt": "2023-07-18T20:22:33Z",
-        "issues": 79,
-        "subscribers": 284,
-        "stars": 817,
-        "forks": 149
-      },
-      "name": "react-native-keyboard-input",
-      "fullName": "wix-incubator/react-native-keyboard-input",
-      "description": "Use your own custom input component instead of the system keyboard",
-      "topics": [
-        "react-native",
-        "ios",
-        "android",
-        "keyboard-input",
-        "keyboard",
-        "keyboard-component",
-        "inputaccessoryview"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 6001,
-      "weekDownloads": 1543,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native ios android keyboard-input keyboard keyboard-component inputaccessoryview",
-    "score": 50,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Lots of open issues",
-      "Recently updated"
-    ],
-    "popularity": -0.243,
-    "category": [
-      "keyboard-input",
-      "keyboard",
-      "keyboard-component",
-      "inputaccessoryview"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/kayla-tech/react-native-privacy-snapshot",
-    "ios": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-privacy-snapshot",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/kayla-tech/react-native-privacy-snapshot",
-        "clone": "https://github.com/kayla-tech/react-native-privacy-snapshot.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-21T02:55:22Z",
-        "createdAt": "2015-10-07T03:59:00Z",
-        "pushedAt": "2020-03-31T22:26:30Z",
-        "issues": 9,
-        "subscribers": 13,
-        "stars": 184,
-        "forks": 51
-      },
-      "name": "react-native-privacy-snapshot",
-      "fullName": "kayla-tech/react-native-privacy-snapshot",
-      "description": "Obscure passwords and other sensitive personal information when a react-native app transitions to the background",
+      "name": "react-native-web-maps",
+      "fullName": "teovillanueva/react-native-web-maps",
+      "description": "Cross platform maps for react & react-native 🗺",
       "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.9.5",
+        "tagName": "v0.9.5",
+        "createdAt": "2024-04-25T15:20:41Z",
+        "publishedAt": "2024-04-25T15:20:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
       "newArchitecture": false
     },
     "npm": {
-      "downloads": 257,
-      "weekDownloads": 57,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 17905,
+      "weekDownloads": 4847,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "",
-    "score": 44,
+    "score": 56,
     "matchingScoreModifiers": [
-      "No license",
       "Recently updated"
     ],
-    "popularity": -0.277
+    "popularity": 0.021,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "maps"
+    ]
   },
   {
-    "githubUrl": "https://github.com/andreyvital/react-native-android-sms-listener",
+    "githubUrl": "https://github.com/maplibre/maplibre-react-native",
+    "npmPkg": "@maplibre/maplibre-react-native",
+    "examples": [
+      "https://github.com/maplibre/maplibre-react-native/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/assets/indoor_building_map_ios.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_choropleth_layer.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_clustering_earthquakes.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_data_driven_circle_colors.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_image_overlay.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_custom_callout.png"
+    ],
+    "ios": true,
     "android": true,
-    "npmPkg": "react-native-android-sms-listener",
     "github": {
       "urls": {
-        "repo": "https://github.com/andreyvital/react-native-android-sms-listener",
-        "clone": "https://github.com/andreyvital/react-native-android-sms-listener.git",
+        "repo": "https://github.com/maplibre/maplibre-react-native",
+        "clone": "https://github.com/maplibre/maplibre-react-native.git",
         "homepage": ""
       },
       "stats": {
@@ -374,247 +100,70 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-22T10:54:15Z",
-        "createdAt": "2016-02-09T15:29:10Z",
-        "pushedAt": "2020-09-09T12:38:06Z",
-        "issues": 12,
-        "subscribers": 5,
-        "stars": 350,
-        "forks": 101
-      },
-      "name": "react-native-android-sms-listener",
-      "fullName": "andreyvital/react-native-android-sms-listener",
-      "description": "Allows you to listen for incoming SMS messages using React Native",
-      "topics": [
-        "react-native",
-        "sms",
-        "android",
-        "react",
-        "sms-listener"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 633,
-      "weekDownloads": 136,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native sms android react sms-listener",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.035,
-    "category": [
-      "sms",
-      "android",
-      "sms-listener"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/pusherman/react-native-network-info",
-    "ios": true,
-    "android": true,
-    "npmPkg": "react-native-network-info",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/pusherman/react-native-network-info",
-        "clone": "https://github.com/pusherman/react-native-network-info.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-04-16T20:34:03Z",
-        "createdAt": "2015-07-12T19:07:39Z",
-        "pushedAt": "2021-03-22T16:30:40Z",
-        "issues": 30,
+        "updatedAt": "2024-05-13T14:16:26Z",
+        "createdAt": "2022-11-03T10:37:07Z",
+        "pushedAt": "2024-05-13T14:16:26Z",
+        "forks": 39,
+        "issues": 40,
         "subscribers": 9,
-        "stars": 347,
-        "forks": 103
+        "stars": 169
       },
-      "name": "react-native-network-info",
-      "fullName": "pusherman/react-native-network-info",
-      "description": "React Native library for getting information about the devices network",
+      "name": "maplibre-react-native",
+      "fullName": "maplibre/maplibre-react-native",
+      "description": "A MapLibre react native module for creating custom maps",
       "topics": [
-        "react-native",
+        "maps",
         "ios",
-        "android-library",
-        "ios-lib",
         "android",
-        "networking",
-        "network"
+        "maplibre",
+        "react-native",
+        "mapbox"
       ],
       "license": {
-        "key": "mit",
         "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
       },
       "lastRelease": {
-        "name": "v5.2.1 (Yellow Check)",
-        "tagName": "v5.2.1",
-        "createdAt": "2019-09-30T21:51:38Z",
-        "publishedAt": "2019-09-30T21:52:18Z",
-        "isPrerelease": false
+        "name": "10.0.0-alpha.4:  Maplibre native 6.4",
+        "tagName": "10.0.0-alpha.4",
+        "createdAt": "2024-05-09T14:10:07Z",
+        "publishedAt": "2024-05-09T14:57:59Z",
+        "isPrerelease": true
       },
       "hasTypes": false,
       "newArchitecture": false
     },
     "npm": {
-      "downloads": 36888,
-      "weekDownloads": 8599,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 4934,
+      "weekDownloads": 1014,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "react-native ios android-library ios-lib android networking network",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.017,
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.044,
+    "topicSearchString": "maps ios android maplibre react-native mapbox",
+    "matchScore": 111,
     "category": [
-      "network",
-      "networking"
+      "map"
     ]
   },
   {
-    "githubUrl": "https://github.com/tradle/rn-nodeify",
-    "ios": true,
-    "android": true,
-    "npmPkg": "rn-nodeify",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/tradle/rn-nodeify",
-        "clone": "https://github.com/tradle/rn-nodeify.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-24T08:21:51Z",
-        "createdAt": "2015-07-31T18:11:19Z",
-        "pushedAt": "2023-11-21T02:06:59Z",
-        "issues": 37,
-        "subscribers": 8,
-        "stars": 610,
-        "forks": 113
-      },
-      "name": "rn-nodeify",
-      "fullName": "tradle/rn-nodeify",
-      "description": "hack to allow react-native projects to use node core modules, and npm modules that use them",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 48572,
-      "weekDownloads": 10212,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
+    "githubUrl": "https://github.com/Splicer97/react-native-osmdroid",
+    "examples": [
+      "https://github.com/Splicer97/react-native-osmdroid/tree/main/example"
     ],
-    "popularity": -0.04
-  },
-  {
-    "githubUrl": "https://github.com/Sunhat/react-native-extra-dimensions-android",
     "android": true,
-    "npmPkg": "react-native-extra-dimensions-android",
     "github": {
       "urls": {
-        "repo": "https://github.com/Sunhat/react-native-extra-dimensions-android",
-        "clone": "https://github.com/Sunhat/react-native-extra-dimensions-android.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-30T07:41:31Z",
-        "createdAt": "2015-12-22T22:05:40Z",
-        "pushedAt": "2022-05-29T16:37:01Z",
-        "issues": 23,
-        "subscribers": 6,
-        "stars": 428,
-        "forks": 132
-      },
-      "name": "react-native-extra-dimensions-android",
-      "fullName": "Sunhat/react-native-extra-dimensions-android",
-      "description": "Access additional display metrics on Android devices: status bar height, soft menu bar height, real screen size.",
-      "topics": [],
-      "license": {
-        "key": "isc",
-        "name": "ISC License",
-        "spdxId": "ISC",
-        "url": "https://api.github.com/licenses/isc",
-        "id": "MDc6TGljZW5zZTEw"
-      },
-      "lastRelease": {
-        "name": "RN 58.4",
-        "tagName": "v1.2.4",
-        "createdAt": "2019-04-02T14:37:41Z",
-        "publishedAt": "2019-04-02T14:38:20Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 24760,
-      "weekDownloads": 5696,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.02
-  },
-  {
-    "githubUrl": "https://github.com/williambout/react-native-proximity",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-proximity",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/williambout/react-native-proximity",
-        "clone": "https://github.com/williambout/react-native-proximity.git",
+        "repo": "https://github.com/Splicer97/react-native-osmdroid",
+        "clone": "https://github.com/Splicer97/react-native-osmdroid.git",
         "homepage": ""
       },
       "stats": {
@@ -623,69 +172,155 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-14T14:25:18Z",
-        "createdAt": "2016-05-02T13:19:21Z",
-        "pushedAt": "2021-07-07T13:20:15Z",
-        "issues": 16,
-        "subscribers": 7,
-        "stars": 211,
-        "forks": 69
+        "updatedAt": "2023-10-08T11:48:32Z",
+        "createdAt": "2023-01-05T17:26:01Z",
+        "pushedAt": "2023-10-08T11:48:32Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 19
       },
-      "name": "react-native-proximity",
-      "fullName": "williambout/react-native-proximity",
-      "description": ":iphone: A React Native wrapper that provides access to the proximity sensor on iOS and Android.",
+      "name": "react-native-osmdroid",
+      "fullName": "Splicer97/react-native-osmdroid",
+      "description": "React Native wrapper for osmdroid maps",
       "topics": [
         "react-native",
-        "proximity-sensor",
-        "sensor",
-        "iphone",
-        "ios",
+        "react",
+        "maps",
+        "osmdroid",
+        "open-street-maps",
+        "osm",
         "android"
       ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
       "lastRelease": {
-        "name": "React Native 47 support",
-        "tagName": "3.0.0",
-        "createdAt": "2017-12-15T09:30:36Z",
-        "publishedAt": "2017-12-15T09:34:41Z",
+        "name": "",
+        "tagName": "v0.14.0",
+        "createdAt": "2023-10-08T11:48:35Z",
+        "publishedAt": "2023-10-08T11:51:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-osmdroid",
+    "npm": {
+      "downloads": 39,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.601,
+    "topicSearchString": "react-native react maps osmdroid open-street-maps osm android",
+    "matchScore": 11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/qiuxiang/react-native-amap3d",
+    "examples": [
+      "https://github.com/qiuxiang/react-native-amap3d/tree/main/example-app"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/1709072/140698774-bdbfee64-d403-4e49-9a85-716d44783cfd.png",
+      "https://user-images.githubusercontent.com/1709072/140849894-3add3858-fc7f-47cd-9786-94aeef399ebc.PNG",
+      "https://user-images.githubusercontent.com/1709072/140707579-4abe070a-3fc1-481d-8a2e-91ac2ad8bdc7.png",
+      "https://user-images.githubusercontent.com/1709072/140849886-7eb9322b-8fa8-4049-a7b0-3eb36d006992.PNG"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/qiuxiang/react-native-amap3d",
+        "clone": "https://github.com/qiuxiang/react-native-amap3d.git",
+        "homepage": "https://qiuxiang.github.io/react-native-amap3d/api/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-10T03:45:37Z",
+        "createdAt": "2017-05-26T06:48:38Z",
+        "pushedAt": "2023-07-10T03:45:37Z",
+        "forks": 309,
+        "issues": 265,
+        "subscribers": 26,
+        "stars": 1256
+      },
+      "name": "react-native-amap3d",
+      "fullName": "qiuxiang/react-native-amap3d",
+      "description": "react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS",
+      "topics": [
+        "react-native",
+        "amap",
+        "maps",
+        "mapview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v3.2.4",
+        "createdAt": "2023-07-10T03:45:37Z",
+        "publishedAt": "2023-07-10T03:46:37Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "npmPkg": "react-native-amap3d",
     "npm": {
-      "downloads": 196,
-      "weekDownloads": 49,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 460,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 76
     },
-    "topicSearchString": "react-native proximity-sensor sensor iphone ios android",
-    "score": 56,
+    "score": 31,
     "matchingScoreModifiers": [
-      "Recently updated"
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
     ],
-    "popularity": -0.7,
+    "popularity": -0.085,
+    "topicSearchString": "react-native amap maps mapview",
+    "matchScore": 1,
     "category": [
-      "proximity-sensor",
-      "sensor"
+      "mapview"
     ]
   },
   {
-    "githubUrl": "https://github.com/wmcmahan/react-native-calendar-events",
+    "githubUrl": "https://github.com/venits/react-native-map-clustering",
+    "examples": [
+      "https://github.com/venits/react-native-map-clustering/tree/master/example"
+    ],
     "ios": true,
     "android": true,
-    "npmPkg": "react-native-calendar-events",
+    "expoGo": true,
     "github": {
       "urls": {
-        "repo": "https://github.com/wmcmahan/react-native-calendar-events",
-        "clone": "https://github.com/wmcmahan/react-native-calendar-events.git",
+        "repo": "https://github.com/venits/react-native-map-clustering",
+        "clone": "https://github.com/venits/react-native-map-clustering.git",
         "homepage": ""
       },
       "stats": {
@@ -694,85 +329,1103 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-24T00:25:14Z",
-        "createdAt": "2016-02-24T04:23:38Z",
-        "pushedAt": "2024-02-06T14:48:14Z",
-        "issues": 71,
-        "subscribers": 12,
-        "stars": 890,
-        "forks": 288
+        "updatedAt": "2021-01-10T14:35:17Z",
+        "createdAt": "2017-09-01T15:25:34Z",
+        "pushedAt": "2021-01-10T14:35:17Z",
+        "forks": 205,
+        "issues": 61,
+        "subscribers": 6,
+        "stars": 672
       },
-      "name": "react-native-calendar-events",
-      "fullName": "wmcmahan/react-native-calendar-events",
-      "description": "📆 React Native Module for iOS and Android Calendar Events",
+      "name": "react-native-map-clustering",
+      "fullName": "venits/react-native-map-clustering",
+      "description": "React Native map clustering both for Android and iOS.",
       "topics": [
-        "android-calendar-events",
-        "ios-calendar-events",
         "react-native",
-        "calendar-events",
-        "alarms",
-        "calendar-api",
-        "recurring-events",
-        "ios-calendar-api",
-        "android-calendar-api",
-        "react-native-module",
-        "andriod",
-        "ios-library",
-        "android-calendar",
-        "ios-calendar",
-        "ios-sdk",
-        "andriod-sdk"
+        "react",
+        "cluster",
+        "android",
+        "ios",
+        "map",
+        "clustering",
+        "mapview",
+        "markers",
+        "maps"
       ],
       "license": {
-        "key": "mit",
         "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
       },
       "lastRelease": {
-        "name": "2.2.0",
-        "tagName": "2.2.0",
-        "createdAt": "2021-01-08T10:28:27Z",
-        "publishedAt": "2021-01-08T10:28:32Z",
+        "name": "3.4.0",
+        "tagName": "3.4.0",
+        "createdAt": "2021-01-03T20:17:04Z",
+        "publishedAt": "2021-01-03T20:19:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-map-clustering",
+    "npm": {
+      "downloads": 59063,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13978
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.013,
+    "topicSearchString": "react-native react cluster android ios map clustering mapview markers maps",
+    "matchScore": 1,
+    "category": [
+      "mapview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/nitaliano/react-native-mapbox-gl",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@mapbox/react-native-mapbox-gl",
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/nitaliano/react-native-mapbox-gl",
+        "clone": "https://github.com/nitaliano/react-native-mapbox-gl.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-09-06T06:03:57Z",
+        "createdAt": "2015-04-26T20:08:07Z",
+        "pushedAt": "2019-09-06T06:03:57Z",
+        "forks": 669,
+        "issues": 219,
+        "subscribers": 94,
+        "stars": 2154
+      },
+      "name": "react-native-mapbox-gl",
+      "fullName": "nitaliano/react-native-mapbox-gl",
+      "description": "A Mapbox GL react native module for creating custom maps",
+      "topics": [
+        "gl",
+        "ios",
+        "android",
+        "mapbox",
+        "react-component",
+        "react-native",
+        "mapbox-gl"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": "http://choosealicense.com/licenses/other/",
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "React Native Mapbox GL Release 6.1.1",
+        "tagName": "6.1.1",
+        "createdAt": "2018-04-06T23:00:42Z",
+        "publishedAt": "2018-04-06T23:17:20Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 251633,
-      "weekDownloads": 52653,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 235,
+      "weekDownloads": 67,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "android-calendar-events ios-calendar-events react-native calendar-events alarms calendar-api recurring-events ios-calendar-api android-calendar-api react-native-module andriod ios-library android-calendar ios-calendar ios-sdk andriod-sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.662,
+    "topicSearchString": "gl ios android mapbox react-component react-native mapbox-gl",
+    "matchScore": 0.111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/yelled3/react-native-google-static-map",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/yelled3/react-native-google-static-map",
+        "clone": "https://github.com/yelled3/react-native-google-static-map.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-10-18T11:11:42Z",
+        "createdAt": "2015-08-19T16:01:40Z",
+        "pushedAt": "2018-10-18T11:11:42Z",
+        "forks": 28,
+        "issues": 10,
+        "subscribers": 5,
+        "stars": 81
+      },
+      "name": "react-native-google-static-map",
+      "fullName": "yelled3/react-native-google-static-map",
+      "description": "A wrapper for Google's Static Maps",
+      "topics": [
+        "react-component",
+        "react-native",
+        "ios"
+      ],
+      "license": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-google-static-map",
+    "npm": {
+      "downloads": 875,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 166
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.309,
+    "topicSearchString": "react-component react-native ios",
+    "matchScore": 0.11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/surialabs/react-native-geo-fencing",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/surialabs/react-native-geo-fencing",
+        "clone": "https://github.com/surialabs/react-native-geo-fencing.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2016-05-24T11:03:08Z",
+        "createdAt": "2016-05-19T06:37:40Z",
+        "pushedAt": "2016-05-24T11:03:08Z",
+        "forks": 33,
+        "issues": 17,
+        "subscribers": 18,
+        "stars": 138
+      },
+      "name": "react-native-geo-fencing",
+      "fullName": "surialabs/react-native-geo-fencing",
+      "description": "Native modules to determine if a location is within defined geographical boundaries using Google Geometry library",
+      "topics": [
+        "react-native",
+        "googlemaps",
+        "geometry",
+        "polygon",
+        "containslocation",
+        "geo-fencing"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-geo-fencing",
+    "npm": {
+      "downloads": 454,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 163
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.14,
+    "topicSearchString": "react-native googlemaps geometry polygon containslocation geo-fencing",
+    "matchScore": 0.001,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/homeeondemand/react-native-mapbox-navigation",
+    "npmPkg": "@homee/react-native-mapbox-navigation",
+    "images": [
+      "https://raw.githubusercontent.com/homeeondemand/react-native-mapbox-navigation/master/img/ios-nav.png"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/homeeondemand/react-native-mapbox-navigation",
+        "clone": "https://github.com/homeeondemand/react-native-mapbox-navigation.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-17T19:04:36Z",
+        "createdAt": "2020-11-02T19:07:55Z",
+        "pushedAt": "2023-02-17T19:04:36Z",
+        "forks": 105,
+        "issues": 65,
+        "subscribers": 14,
+        "stars": 152
+      },
+      "name": "react-native-mapbox-navigation",
+      "fullName": "homeeondemand/react-native-mapbox-navigation",
+      "description": "A navigation UI ready to drop into your React Native application",
+      "topics": [
+        "react-native",
+        "mapbox",
+        "navigation",
+        "mapbox-navigation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "2.0.0",
+        "createdAt": "2022-02-03T16:35:55Z",
+        "publishedAt": "2022-02-03T17:11:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47,
+      "weekDownloads": 14,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.386,
+    "topicSearchString": "react-native mapbox navigation mapbox-navigation",
+    "matchScore": 101,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pavel-corsaghin/react-native-leaflet",
+    "npmPkg": "react-native-leaflet-view",
+    "examples": [
+      "https://github.com/pavel-corsaghin/react-native-leaflet/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/pavel-corsaghin/react-native-leaflet/main/images/android.png",
+      "https://raw.githubusercontent.com/pavel-corsaghin/react-native-leaflet/main/images/ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pavel-corsaghin/react-native-leaflet",
+        "clone": "https://github.com/pavel-corsaghin/react-native-leaflet.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-03-11T16:00:16Z",
+        "createdAt": "2021-09-03T17:18:21Z",
+        "pushedAt": "2022-03-11T16:00:16Z",
+        "forks": 27,
+        "issues": 28,
+        "subscribers": 3,
+        "stars": 97
+      },
+      "name": "react-native-leaflet",
+      "fullName": "pavel-corsaghin/react-native-leaflet",
+      "description": "A LeafletView component using WebView and Leaflet map for React Native applications",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "leaflet",
+        "leaflet-map"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.2",
+        "tagName": "v0.1.2",
+        "createdAt": "2021-09-10T23:28:34Z",
+        "publishedAt": "2021-09-10T23:33:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2418,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 621
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.007,
+    "topicSearchString": "react-native ios android leaflet leaflet-map",
+    "matchScore": 11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tolu360/react-native-google-places",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tolu360/react-native-google-places",
+        "clone": "https://github.com/tolu360/react-native-google-places.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-08-06T14:02:33Z",
+        "createdAt": "2016-09-14T20:41:32Z",
+        "pushedAt": "2019-08-06T14:02:33Z",
+        "forks": 255,
+        "issues": 46,
+        "subscribers": 17,
+        "stars": 569
+      },
+      "name": "react-native-google-places",
+      "fullName": "tolu360/react-native-google-places",
+      "description": "iOS/Android Google Places Widgets (Autocomplete Modals) and API Services for React Native Apps",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "map",
+        "places",
+        "google-places",
+        "google-places-api",
+        "autocomplete",
+        "ios",
+        "android",
+        "google-place-picker",
+        "google-place-api",
+        "google-place-autocomplete"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v3.1.2",
+        "tagName": "3.1.2",
+        "createdAt": "2019-08-06T14:02:42Z",
+        "publishedAt": "2019-08-06T14:12:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-google-places",
+    "npm": {
+      "downloads": 12349,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2588
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.29,
+    "topicSearchString": "react react-native react-component map places google-places google-places-api autocomplete ios android google-place-picker google-place-api google-place-autocomplete",
+    "matchScore": 0.001,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xxsnakerxx/react-native-social-auth",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xxsnakerxx/react-native-social-auth",
+        "clone": "https://github.com/xxsnakerxx/react-native-social-auth.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-08-02T16:40:01Z",
+        "createdAt": "2015-12-17T17:44:28Z",
+        "pushedAt": "2017-08-02T16:40:01Z",
+        "forks": 17,
+        "issues": 3,
+        "subscribers": 6,
+        "stars": 91
+      },
+      "name": "react-native-social-auth",
+      "fullName": "xxsnakerxx/react-native-social-auth",
+      "description": "React Native module provides auth methods via social networks using native APIs",
+      "topics": [
+        "react-native",
+        "module",
+        "auth",
+        "ios",
+        "android",
+        "facebook",
+        "twitter",
+        "native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0",
+        "tagName": "2.0",
+        "createdAt": "2017-08-02T16:40:01Z",
+        "publishedAt": "2017-08-02T16:41:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-social-auth",
+    "npm": {
+      "downloads": 105,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 17
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.536,
+    "topicSearchString": "react-native module auth ios android facebook twitter native",
+    "matchScore": 111,
+    "category": [
+      "auth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/auth0/react-native-auth0",
+    "examples": [
+      "https://github.com/auth0-samples/auth0-react-native-sample/tree/master/00-Login"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/auth0/react-native-auth0",
+        "clone": "https://github.com/auth0/react-native-auth0.git",
+        "homepage": "https://auth0.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-09T12:55:21Z",
+        "createdAt": "2016-06-14T23:10:12Z",
+        "pushedAt": "2024-05-09T12:55:21Z",
+        "forks": 190,
+        "issues": 20,
+        "subscribers": 17,
+        "stars": 468
+      },
+      "name": "react-native-auth0",
+      "fullName": "auth0/react-native-auth0",
+      "description": "React Native toolkit for Auth0 API",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "dx-sdk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.2.1",
+        "tagName": "v3.2.1",
+        "createdAt": "2024-05-09T12:55:21Z",
+        "publishedAt": "2024-05-09T12:56:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npmPkg": "react-native-auth0",
+    "npm": {
+      "downloads": 151631,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 36090
+    },
     "score": 63,
     "matchingScoreModifiers": [
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.041,
+    "popularity": -0.012,
+    "topicSearchString": "react-native ios android dx-sdk",
+    "matchScore": 110,
     "category": [
-      "android-calendar-events",
-      "ios-calendar-events",
-      "calendar-events",
-      "calendar-api",
-      "android-calendar",
-      "ios-calendar"
+      "auth"
     ]
   },
   {
-    "githubUrl": "https://github.com/xinthink/react-native-material-kit",
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-app-auth",
     "ios": true,
     "android": true,
-    "npmPkg": "react-native-material-kit",
+    "expoGo": true,
     "github": {
       "urls": {
-        "repo": "https://github.com/xinthink/react-native-material-kit",
-        "clone": "https://github.com/xinthink/react-native-material-kit.git",
-        "homepage": "https://rnmk.xinthink.com"
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-03-04T19:52:46Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-03-04T19:52:46Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-app-auth",
+    "npm": {
+      "downloads": 3834,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 893
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.017,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "auth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-google-app-auth",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-03-04T19:52:46Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-03-04T19:52:46Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-google-app-auth",
+    "npm": {
+      "downloads": 1665,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 457
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": 0.025,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "auth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/SectionTN/otp-input",
+    "npmPkg": "@sectiontn/otp-input",
+    "examples": [
+      "https://github.com/SectionTN/otp-input-example",
+      "https://snack.expo.dev/@sectiontn/otptextinput-advanced-example"
+    ],
+    "images": [
+      "https://github.com/SectionTN/otp-input/blob/main/assets/screenshot_one.jpg",
+      "https://github.com/SectionTN/otp-input/blob/main/assets/advanced.gif",
+      "https://github.com/SectionTN/otp-input/blob/main/assets/web.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SectionTN/otp-input",
+        "clone": "https://github.com/SectionTN/otp-input.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-07T14:03:21Z",
+        "createdAt": "2024-03-18T14:54:14Z",
+        "pushedAt": "2024-04-07T14:03:21Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 10
+      },
+      "name": "otp-input",
+      "fullName": "SectionTN/otp-input",
+      "description": "An elegant and highly customizable One-Time Password (OTP) input library designed to simplify the implementation and enhance the user experience of OTP authentication flows in React Native Applications.",
+      "topics": [
+        "otp-input",
+        "ios",
+        "android",
+        "react-native",
+        "otp",
+        "input",
+        "authentication",
+        "verification",
+        "code-input",
+        "mobile",
+        "new-arch-compatible-otp-input",
+        "otp-text-input",
+        "two-factor-authentication",
+        "2fa-otp-input",
+        "phone-number",
+        "android-library",
+        "ios-library",
+        "newarchitecture",
+        "otp-library",
+        "otp-textfield",
+        "otp-verification",
+        "websupport"
+      ],
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdxId": "GPL-3.0",
+        "url": "http://choosealicense.com/licenses/gpl-3.0/",
+        "id": "MDc6TGljZW5zZTk="
+      },
+      "lastRelease": {
+        "name": "v0.3.7",
+        "tagName": "v0.3.7",
+        "createdAt": "2024-04-06T22:26:06Z",
+        "publishedAt": "2024-04-06T22:29:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 371,
+      "weekDownloads": 230,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.272,
+    "topicSearchString": "otp-input ios android react-native otp input authentication verification code-input mobile new-arch-compatible-otp-input otp-text-input two-factor-authentication 2fa-otp-input phone-number android-library ios-library newarchitecture otp-library otp-textfield otp-verification websupport",
+    "matchScore": 11,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lucasferreira/react-native-send-intent",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lucasferreira/react-native-send-intent",
+        "clone": "https://github.com/lucasferreira/react-native-send-intent.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-09-28T12:20:08Z",
+        "createdAt": "2015-11-05T16:33:08Z",
+        "pushedAt": "2021-09-28T12:20:08Z",
+        "forks": 151,
+        "issues": 49,
+        "subscribers": 10,
+        "stars": 412
+      },
+      "name": "react-native-send-intent",
+      "fullName": "lucasferreira/react-native-send-intent",
+      "description": "React Native Android module to use Android's Intent actions for send text to shareable apps or make phone calls or opening third party apps",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "intent",
+        "email",
+        "send",
+        "sent",
+        "share",
+        "text",
+        "phone",
+        "sms",
+        "call",
+        "calls",
+        "dial",
+        "number",
+        "maps",
+        "android"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-send-intent",
+    "npm": {
+      "downloads": 25006,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5291
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.038,
+    "topicSearchString": "react react-native react-component intent email send sent share text phone sms call calls dial number maps android",
+    "matchScore": 11,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/doefler/react-native-social-share",
+    "ios": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doefler/react-native-social-share",
+        "clone": "https://github.com/doefler/react-native-social-share.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-08-28T08:24:46Z",
+        "createdAt": "2015-04-26T09:31:27Z",
+        "pushedAt": "2019-08-28T08:24:46Z",
+        "forks": 73,
+        "issues": 22,
+        "subscribers": 10,
+        "stars": 418
+      },
+      "name": "react-native-social-share",
+      "fullName": "doefler/react-native-social-share",
+      "description": "Use the iOS and Android native Twitter and Facebook share popup with React Native https://github.com/doefler/react-native-social-share",
+      "topics": [
+        "react",
+        "twitter",
+        "facebook",
+        "slcomposeviewcontroller",
+        "rctbridgemodule",
+        "social",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui",
+        "react-native-facebook",
+        "react-native-twitter",
+        "popup",
+        "share-popups"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-social-share",
+    "npm": {
+      "downloads": 397,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 36
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.409,
+    "topicSearchString": "react twitter facebook slcomposeviewcontroller rctbridgemodule social react-native react-component react-native-component mobile ui react-native-facebook react-native-twitter popup share-popups",
+    "matchScore": 0.111,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/naoufal/react-native-activity-view",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/naoufal/react-native-activity-view",
+        "clone": "https://github.com/naoufal/react-native-activity-view.git",
+        "homepage": "https://www.npmjs.com/package/react-native-activity-view"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-03-22T23:49:10Z",
+        "createdAt": "2015-06-07T04:25:13Z",
+        "pushedAt": "2017-03-22T23:49:10Z",
+        "forks": 56,
+        "issues": 21,
+        "subscribers": 8,
+        "stars": 481
+      },
+      "name": "react-native-activity-view",
+      "fullName": "naoufal/react-native-activity-view",
+      "description": "iOS share and action sheets for React Native",
+      "topics": [
+        "react-native",
+        "react",
+        "native",
+        "activity-view",
+        "react-component",
+        "react-native-component",
+        "action-sheet",
+        "share-sheet",
+        "share",
+        "sheet",
+        "facebook",
+        "twitter",
+        "mail",
+        "social",
+        "airdrop"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "0.2.11",
+        "tagName": "v0.2.11",
+        "createdAt": "2017-03-22T23:49:10Z",
+        "publishedAt": "2017-03-22T23:51:06Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-activity-view",
+    "npm": {
+      "downloads": 408,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 95
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.267,
+    "topicSearchString": "react-native react native activity-view react-component react-native-component action-sheet share-sheet share sheet facebook twitter mail social airdrop",
+    "matchScore": 0.011,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/svgr-iconkit/svgr-iconkit",
+    "npmPkg": "@svgr-iconkit/core",
+    "nameOverride": "SVGR IconKit",
+    "examples": [
+      "https://svgr-iconkit.dev/explorer/",
+      "https://snack.expo.dev/@lemankk/svgr-iconkit-sample-with-material-design-icons",
+      "https://codesandbox.io/s/unruffled-jepsen-yhmv4"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/svgr-iconkit/svgr-iconkit",
+        "clone": "https://github.com/svgr-iconkit/svgr-iconkit.git",
+        "homepage": null
       },
       "stats": {
         "hasIssues": true,
@@ -780,381 +1433,210 @@
         "hasPages": true,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-17T08:39:45Z",
-        "createdAt": "2015-07-01T12:33:24Z",
-        "pushedAt": "2023-01-04T06:15:00Z",
-        "issues": 188,
-        "subscribers": 100,
-        "stars": 4844,
-        "forks": 581
+        "updatedAt": "2024-04-07T02:16:14Z",
+        "createdAt": "2021-05-31T18:58:27Z",
+        "pushedAt": "2024-04-07T02:16:14Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 9
       },
-      "name": "react-native-material-kit",
-      "fullName": "xinthink/react-native-material-kit",
-      "description": "Bringing Material Design to React Native",
+      "name": "svgr-iconkit",
+      "fullName": "svgr-iconkit/svgr-iconkit",
+      "description": "SVG Iconkit for React",
       "topics": [
+        "react",
         "react-native",
-        "material-design"
+        "iconkit",
+        "svg"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v0.4.1",
+        "tagName": "v0.4.1",
+        "createdAt": "2024-04-07T04:29:18Z",
+        "publishedAt": "2024-04-07T04:32:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 1073,
+      "weekDownloads": 253,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.114,
+    "topicSearchString": "react react-native iconkit svg",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ecklf/react-native-heroicons",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ecklf/react-native-heroicons",
+        "clone": "https://github.com/ecklf/react-native-heroicons.git",
+        "homepage": "https://heroicons.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-01T20:45:00Z",
+        "createdAt": "2020-05-12T11:27:46Z",
+        "pushedAt": "2024-01-01T20:45:00Z",
+        "forks": 12,
+        "issues": 1,
+        "subscribers": 2,
+        "stars": 130
+      },
+      "name": "react-native-heroicons",
+      "fullName": "ecklf/react-native-heroicons",
+      "description": "React Native components for heroicons",
+      "topics": [
+        "react",
+        "react-native",
+        "heroicons",
+        "heroiconsui"
       ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
       "lastRelease": {
-        "name": "0.6.0-beta.1",
-        "tagName": "v0.6.0-beta.1",
-        "createdAt": "2020-02-18T04:33:47Z",
-        "publishedAt": "2020-02-18T08:32:26Z",
-        "isPrerelease": true
+        "name": "Release 4.0.0",
+        "tagName": "v4.0.0",
+        "createdAt": "2024-01-01T20:41:54Z",
+        "publishedAt": "2024-01-01T20:42:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-heroicons",
+    "npm": {
+      "downloads": 34940,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5969
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.079,
+    "topicSearchString": "react react-native heroicons heroiconsui",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/candlefinance/app-icon",
+    "npmPkg": "@candlefinance/app-icon",
+    "examples": [
+      "https://github.com/candlefinance/app-icon/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/candlefinance/app-icon",
+        "clone": "https://github.com/candlefinance/app-icon.git",
+        "homepage": "https://candle.fi"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-01T15:53:12Z",
+        "createdAt": "2023-03-21T15:57:01Z",
+        "pushedAt": "2023-12-01T15:53:12Z",
+        "forks": 4,
+        "issues": 1,
+        "subscribers": 1,
+        "stars": 68
+      },
+      "name": "app-icon",
+      "fullName": "candlefinance/app-icon",
+      "description": "Update your apps icon with React Native using Apple's alternate icons API.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "app-icon",
+        "new-architecture",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.4.5",
+        "tagName": "v0.4.5",
+        "createdAt": "2023-12-01T15:53:14Z",
+        "publishedAt": "2023-12-01T15:53:16Z",
+        "isPrerelease": false
       },
       "hasTypes": true,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 1259,
-      "weekDownloads": 418,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 14,
+      "weekDownloads": 1,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "react-native material-design",
-    "score": 75,
-    "matchingScoreModifiers": [
-      "Very popular",
-      "Popular",
-      "Lots of open issues",
-      "Recently updated"
-    ],
-    "popularity": 0.083,
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.593,
+    "topicSearchString": "react-native ios android app-icon new-architecture typescript",
+    "matchScore": 111,
     "category": [
-      "material-design"
+      "icon"
     ]
   },
   {
-    "githubUrl": "https://github.com/Anthonyzou/react-native-image-zoom",
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-image-zoom",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/Anthonyzou/react-native-image-zoom",
-        "clone": "https://github.com/Anthonyzou/react-native-image-zoom.git",
-        "homepage": "https://www.npmjs.com/package/react-native-image-zoom"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-10T23:02:58Z",
-        "createdAt": "2016-02-16T05:33:56Z",
-        "pushedAt": "2018-05-05T16:45:11Z",
-        "issues": 24,
-        "subscribers": 6,
-        "stars": 115,
-        "forks": 51
-      },
-      "name": "react-native-image-zoom",
-      "fullName": "Anthonyzou/react-native-image-zoom",
-      "description": "Image pan and zoom for Android",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "v0.15.0",
-        "tagName": "0.15.0",
-        "createdAt": "2016-04-06T20:20:56Z",
-        "publishedAt": "2016-04-06T20:26:57Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 90,
-      "weekDownloads": 33,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.578
-  },
-  {
-    "githubUrl": "https://github.com/chirag04/react-native-tooltip",
-    "ios": true,
-    "npmPkg": "react-native-tooltip",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/chirag04/react-native-tooltip",
-        "clone": "https://github.com/chirag04/react-native-tooltip.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-16T20:34:01Z",
-        "createdAt": "2015-05-19T03:08:12Z",
-        "pushedAt": "2021-03-17T15:18:43Z",
-        "issues": 21,
-        "subscribers": 9,
-        "stars": 288,
-        "forks": 74
-      },
-      "name": "react-native-tooltip",
-      "fullName": "chirag04/react-native-tooltip",
-      "description": "A react-native wrapper for showing tooltips",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 1062,
-      "weekDownloads": 195,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.066
-  },
-  {
-    "githubUrl": "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior",
-    "android": true,
-    "npmPkg": "react-native-bottom-sheet-behavior",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior",
-        "clone": "https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-23T10:16:37Z",
-        "createdAt": "2016-08-12T08:43:45Z",
-        "pushedAt": "2023-01-03T18:21:35Z",
-        "issues": 32,
-        "subscribers": 25,
-        "stars": 1151,
-        "forks": 114
-      },
-      "name": "react-native-bottom-sheet-behavior",
-      "fullName": "cesardeazevedo/react-native-bottom-sheet-behavior",
-      "description": "react-native wrapper for android BottomSheetBehavior",
-      "topics": [
-        "android",
-        "react-native",
-        "bottomsheet",
-        "bottomsheetbehavior",
-        "google-maps",
-        "floatingactionbutton",
-        "nestedscrollview"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "",
-        "tagName": "v1.0.0",
-        "createdAt": "2018-07-06T23:27:37Z",
-        "publishedAt": "2018-07-06T23:46:25Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 242,
-      "weekDownloads": 47,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "android react-native bottomsheet bottomsheetbehavior google-maps floatingactionbutton nestedscrollview",
-    "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
+    "githubUrl": "https://github.com/pcamarajr/react-native-ultimate-icons",
+    "examples": [
+      "https://github.com/pcamarajr/react-native-ultimate-icons/tree/main/example"
     ],
-    "popularity": -0.504,
-    "category": [
-      "bottomsheet",
-      "bottomsheetbehavior"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/tinycreative/react-native-intercom",
-    "ios": true,
-    "android": true,
-    "npmPkg": "react-native-intercom",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/tinycreative/react-native-intercom",
-        "clone": "https://github.com/tinycreative/react-native-intercom.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-14T12:24:17Z",
-        "createdAt": "2015-07-09T18:11:31Z",
-        "pushedAt": "2021-12-09T23:52:04Z",
-        "issues": 6,
-        "subscribers": 5,
-        "stars": 407,
-        "forks": 283
-      },
-      "name": "react-native-intercom",
-      "fullName": "tinycreative/react-native-intercom",
-      "description": "React Native wrapper for Intercom.io",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "",
-        "tagName": "v20.0.0",
-        "createdAt": "2021-05-08T01:48:27Z",
-        "publishedAt": "2021-05-08T15:25:46Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 13132,
-      "weekDownloads": 2924,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
-    ],
-    "popularity": -0.027
-  },
-  {
-    "githubUrl": "https://github.com/vitalets/react-native-extended-stylesheet",
     "ios": true,
     "android": true,
     "expoGo": true,
-    "npmPkg": "react-native-extended-stylesheet",
     "github": {
       "urls": {
-        "repo": "https://github.com/vitalets/react-native-extended-stylesheet",
-        "clone": "https://github.com/vitalets/react-native-extended-stylesheet.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-16T16:22:29Z",
-        "createdAt": "2016-02-02T18:02:10Z",
-        "pushedAt": "2023-02-27T16:44:18Z",
-        "issues": 20,
-        "subscribers": 38,
-        "stars": 2915,
-        "forks": 138
-      },
-      "name": "react-native-extended-stylesheet",
-      "fullName": "vitalets/react-native-extended-stylesheet",
-      "description": "Extended StyleSheets for React Native",
-      "topics": [
-        "react",
-        "react-native",
-        "stylesheets",
-        "theme",
-        "theming",
-        "style",
-        "styling"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 51550,
-      "weekDownloads": 13389,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react react-native stylesheets theme theming style styling",
-    "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
-    ],
-    "popularity": 0.01,
-    "category": [
-      "stylesheets",
-      "theme",
-      "theming",
-      "style",
-      "styling"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/tachyons-css/react-native-style-tachyons",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "react-native-style-tachyons",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/tachyons-css/react-native-style-tachyons",
-        "clone": "https://github.com/tachyons-css/react-native-style-tachyons.git",
+        "repo": "https://github.com/pcamarajr/react-native-ultimate-icons",
+        "clone": "https://github.com/pcamarajr/react-native-ultimate-icons.git",
         "homepage": ""
       },
       "stats": {
@@ -1163,1216 +1645,1099 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-20T10:19:09Z",
-        "createdAt": "2016-05-21T17:27:47Z",
-        "pushedAt": "2024-05-20T10:19:08Z",
+        "updatedAt": "2023-07-24T09:17:44Z",
+        "createdAt": "2023-07-10T06:46:25Z",
+        "pushedAt": "2023-07-24T09:17:44Z",
+        "forks": 0,
         "issues": 0,
-        "subscribers": 12,
-        "stars": 680,
-        "forks": 50
+        "subscribers": 3,
+        "stars": 12
       },
-      "name": "react-native-style-tachyons",
-      "fullName": "tachyons-css/react-native-style-tachyons",
-      "description": "Better styling for React Native",
+      "name": "react-native-ultimate-icons",
+      "fullName": "pcamarajr/react-native-ultimate-icons",
+      "description": "🤙 The only React Native icon library you would need",
       "topics": [
         "react-native",
-        "stylesheet",
-        "responsive",
-        "typography",
-        "android",
         "ios",
+        "android",
+        "svg-icons",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2023-07-15T11:37:07Z",
+        "publishedAt": "2023-07-15T11:37:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-ultimate-icons",
+    "npm": {
+      "downloads": 5,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.55,
+    "topicSearchString": "react-native ios android svg-icons typescript",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/artyorsh/react-native-eva-icons",
+    "examples": [
+      "https://github.com/artyorsh/react-native-eva-icons/tree/master/playground"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/akveo/react-native-eva-icons",
+        "clone": "https://github.com/akveo/react-native-eva-icons.git",
+        "homepage": "https://github.com/akveo/eva-icons"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-04-28T13:26:50Z",
+        "createdAt": "2019-05-26T14:37:53Z",
+        "pushedAt": "2023-04-28T13:26:50Z",
+        "forks": 15,
+        "issues": 5,
+        "subscribers": 10,
+        "stars": 202
+      },
+      "name": "react-native-eva-icons",
+      "fullName": "akveo/react-native-eva-icons",
+      "description": "⭐Eva Icons for React Native",
+      "topics": [
+        "react-native",
+        "eva-icons",
+        "svg",
+        "icons-source"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.3.1",
+        "tagName": "v1.3.1",
+        "createdAt": "2020-04-08T11:09:47Z",
+        "publishedAt": "2020-04-08T11:14:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-eva-icons",
+    "npm": {
+      "downloads": 22694,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5314
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "react-native eva-icons svg icons-source",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Iconscout/react-native-unicons",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "examples": [
+      "https://github.com/Iconscout/react-native-unicons/tree/master/example"
+    ],
+    "npmPkg": "@iconscout/react-native-unicons",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Iconscout/react-native-unicons",
+        "clone": "https://github.com/Iconscout/react-native-unicons.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-03-29T06:59:57Z",
+        "createdAt": "2019-07-28T12:24:10Z",
+        "pushedAt": "2023-03-29T06:59:57Z",
+        "forks": 14,
+        "issues": 8,
+        "subscribers": 5,
+        "stars": 24
+      },
+      "name": "react-native-unicons",
+      "fullName": "Iconscout/react-native-unicons",
+      "description": "Unicons - 1000+ vector icons as easy to use vector React Native Components",
+      "topics": [
+        "react-native",
+        "unicons",
+        "react-native-unicons",
+        "react-native-icons",
+        "icons",
+        "iconscout",
+        "vector",
+        "vector-icons"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": "http://choosealicense.com/licenses/other/",
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Updated to support Unicons v2.1.9",
+        "tagName": "v1.0.1",
+        "createdAt": "2020-05-23T07:21:07Z",
+        "publishedAt": "2020-05-23T07:23:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 3618,
+      "weekDownloads": 949,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.088,
+    "topicSearchString": "react-native unicons react-native-unicons react-native-icons icons iconscout vector vector-icons",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/SrBrahma/react-native-payment-icons",
+    "images": [
+      "https://github.com/SrBrahma/react-native-payment-icons/raw/main/resources/example.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SrBrahma/react-native-payment-icons",
+        "clone": "https://github.com/SrBrahma/react-native-payment-icons.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-07-04T10:41:54Z",
+        "createdAt": "2021-12-13T02:58:17Z",
+        "pushedAt": "2022-07-04T10:41:54Z",
+        "forks": 5,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 17
+      },
+      "name": "react-native-payment-icons",
+      "fullName": "SrBrahma/react-native-payment-icons",
+      "description": "Add Credit Card and other Payment Methods icons to your React Native app!",
+      "topics": [
+        "credit",
+        "card",
+        "payment",
+        "visa",
+        "mastercard",
+        "react-native",
+        "credit-card",
+        "native",
+        "icon",
+        "paypal",
+        "icons",
+        "logo",
+        "svg",
+        "image",
+        "creditcard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-payment-icons",
+    "npm": {
+      "downloads": 3406,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 777
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.122,
+    "topicSearchString": "credit card payment visa mastercard react-native credit-card native icon paypal icons logo svg image creditcard",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/aeirola/react-native-svg-app-icon",
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aeirola/react-native-svg-app-icon",
+        "clone": "https://github.com/aeirola/react-native-svg-app-icon.git",
+        "homepage": "https://www.npmjs.com/package/react-native-svg-app-icon"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-04-19T18:01:51Z",
+        "createdAt": "2019-04-27T08:43:53Z",
+        "pushedAt": "2022-04-19T18:01:51Z",
+        "forks": 17,
+        "issues": 11,
+        "subscribers": 6,
+        "stars": 173
+      },
+      "name": "react-native-svg-app-icon",
+      "fullName": "aeirola/react-native-svg-app-icon",
+      "description": "Generate all app icons for you React Native apps from a single SVG file",
+      "topics": [
+        "react-native",
+        "svg",
+        "app-icon"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.6.1",
+        "createdAt": "2022-04-19T18:01:52Z",
+        "publishedAt": "2022-04-25T11:28:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-svg-app-icon",
+    "npm": {
+      "downloads": 1780,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 421
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.013,
+    "topicSearchString": "react-native svg app-icon",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dstaley/react-native-bootstrap-icons",
+    "examples": [
+      "https://snack.expo.dev/@dstaley/react-native-bootstrap-icons"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dstaley/react-native-bootstrap-icons",
+        "clone": "https://github.com/dstaley/react-native-bootstrap-icons.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-05-19T23:38:58Z",
+        "createdAt": "2020-12-03T23:02:01Z",
+        "pushedAt": "2021-05-19T23:38:58Z",
+        "forks": 3,
+        "issues": 2,
+        "subscribers": 4,
+        "stars": 4
+      },
+      "name": "react-native-bootstrap-icons",
+      "fullName": "dstaley/react-native-bootstrap-icons",
+      "description": "Bootstrap's SVG icons converted to react-native-svg components",
+      "topics": [
+        "bootstrap",
+        "icons",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-bootstrap-icons",
+    "npm": {
+      "downloads": 132,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 45
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.459,
+    "topicSearchString": "bootstrap icons react-native",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/arniu/react-native-ionicons",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/arniu/react-native-ionicons",
+        "clone": "https://github.com/arniu/react-native-ionicons.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-05-27T06:49:06Z",
+        "createdAt": "2018-05-09T07:33:19Z",
+        "pushedAt": "2020-05-27T06:49:06Z",
+        "forks": 11,
+        "issues": 9,
+        "subscribers": 1,
+        "stars": 43
+      },
+      "name": "react-native-ionicons",
+      "fullName": "arniu/react-native-ionicons",
+      "description": "Ionic icons for React Native",
+      "topics": [
+        "react-native",
+        "ionicons",
+        "ionic",
+        "icons",
+        "icon",
+        "vector-icons",
+        "component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v4.4.5",
+        "createdAt": "2018-10-11T11:32:25Z",
+        "publishedAt": "2018-10-11T11:43:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-ionicons",
+    "npm": {
+      "downloads": 4122,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1003
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native ionicons ionic icons icon vector-icons component",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/uxxman/react-native-fa-icons",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/uxxman/react-native-fa-icons",
+        "clone": "https://github.com/uxxman/react-native-fa-icons.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-04-21T14:52:03Z",
+        "createdAt": "2017-03-26T02:38:45Z",
+        "pushedAt": "2019-04-21T14:52:03Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 11
+      },
+      "name": "react-native-fa-icons",
+      "fullName": "uxxman/react-native-fa-icons",
+      "description": "Font Awesome Icons for React Native",
+      "topics": [
+        "react-native",
+        "fonts",
+        "font-awesome",
+        "fontawesome",
+        "icon",
+        "icons-fontawesome",
+        "icons"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-fa-icons",
+    "npm": {
+      "downloads": 49,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 19
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.407,
+    "topicSearchString": "react-native fonts font-awesome fontawesome icon icons-fontawesome icons",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/skb1129/react-native-change-icon",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/skb1129/react-native-change-icon",
+        "clone": "https://github.com/skb1129/react-native-change-icon.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-18T15:40:28Z",
+        "createdAt": "2018-12-13T09:29:03Z",
+        "pushedAt": "2023-09-18T15:40:28Z",
+        "forks": 72,
+        "issues": 10,
+        "subscribers": 9,
+        "stars": 457
+      },
+      "name": "react-native-change-icon",
+      "fullName": "skb1129/react-native-change-icon",
+      "description": "Change your application icon programmatically for React Native apps",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release v5.0.0",
+        "tagName": "v5.0.0",
+        "createdAt": "2023-08-19T19:27:18Z",
+        "publishedAt": "2023-08-19T19:40:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npmPkg": "react-native-change-icon",
+    "npm": {
+      "downloads": 30015,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6654
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.028,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/aykutkardas/react-icomoon",
+    "examples": [
+      "https://snack.expo.dev/@aykutkardas/react-icomoon",
+      "https://snack.expo.dev/@aykutkardas/react-icomoon-with-multiple-color"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aykutkardas/react-icomoon",
+        "clone": "https://github.com/aykutkardas/react-icomoon.git",
+        "homepage": "https://svgps.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-05T16:48:24Z",
+        "createdAt": "2018-06-19T11:55:49Z",
+        "pushedAt": "2023-02-05T16:48:24Z",
+        "forks": 22,
+        "issues": 3,
+        "subscribers": 6,
+        "stars": 216
+      },
+      "name": "react-icomoon",
+      "fullName": "aykutkardas/react-icomoon",
+      "description": "It makes it very simple to use SVG icons in your React and React-Native projects.",
+      "topics": [
         "react",
-        "css-modules",
-        "css"
+        "react-native",
+        "icomoon",
+        "svg",
+        "icon",
+        "icons",
+        "reactjs",
+        "svg-icons",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.5.0",
+        "tagName": "v2.5.0",
+        "createdAt": "2022-04-02T08:52:19Z",
+        "publishedAt": "2022-04-02T08:56:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-icomoon",
+    "npm": {
+      "downloads": 159107,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 33938
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.037,
+    "topicSearchString": "react react-native icomoon svg icon icons reactjs svg-icons hacktoberfest",
+    "matchScore": 11,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/birkir/react-native-sfsymbols",
+    "examples": [
+      "https://github.com/birkir/react-native-sfsymbols/tree/main/example"
+    ],
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/birkir/react-native-sfsymbols",
+        "clone": "https://github.com/birkir/react-native-sfsymbols.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-18T22:18:50Z",
+        "createdAt": "2020-10-09T15:31:11Z",
+        "pushedAt": "2023-08-18T22:18:50Z",
+        "forks": 12,
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 119
+      },
+      "name": "react-native-sfsymbols",
+      "fullName": "birkir/react-native-sfsymbols",
+      "description": "SF Symbols in your iOS app",
+      "topics": [
+        "sf",
+        "symbols",
+        "icons",
+        "react",
+        "native",
+        "sfsymbols",
+        "symbol",
+        "ios"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2021-10-04T14:00:19Z",
+        "publishedAt": "2021-10-04T14:03:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-sfsymbols",
+    "npm": {
+      "downloads": 3949,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 751
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.06,
+    "topicSearchString": "sf symbols icons react native sfsymbols symbol ios",
+    "matchScore": 1,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/prscX/react-native-iconic",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/prscX/react-native-iconic",
+        "clone": "https://github.com/prscX/react-native-iconic.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-07-03T10:03:00Z",
+        "createdAt": "2018-01-20T09:30:40Z",
+        "pushedAt": "2021-07-03T10:03:00Z",
+        "forks": 13,
+        "issues": 7,
+        "subscribers": 3,
+        "stars": 223
+      },
+      "name": "react-native-iconic",
+      "fullName": "prscX/react-native-iconic",
+      "description": "React Native - Native Animated Icons with different states",
+      "topics": [
+        "react-native",
+        "android",
+        "ios"
       ],
       "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
         "spdxId": "Apache-2.0",
-        "url": "https://api.github.com/licenses/apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
         "id": "MDc6TGljZW5zZTI="
       },
-      "lastRelease": null,
-      "hasTypes": true,
+      "lastRelease": {
+        "name": "V0.0.9",
+        "tagName": "v0.0.9",
+        "createdAt": "2018-06-29T06:00:40Z",
+        "publishedAt": "2018-06-29T06:01:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-iconic",
     "npm": {
-      "downloads": 5668,
-      "weekDownloads": 1366,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 29,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1
     },
-    "topicSearchString": "react-native stylesheet responsive typography android ios react css-modules css",
-    "score": 56,
+    "score": 38,
     "matchingScoreModifiers": [
-      "Recently updated"
+      "Not updated recently"
     ],
-    "popularity": -0.009,
+    "popularity": -0.907,
+    "topicSearchString": "react-native android ios",
+    "matchScore": 0.11,
     "category": [
-      "stylesheet"
+      "icon"
     ]
   },
   {
-    "githubUrl": "https://github.com/stockulus/pouchdb-react-native",
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/analytics",
+    "npmPkg": "@react-native-firebase/analytics",
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "npmPkg": "pouchdb-react-native",
     "github": {
       "urls": {
-        "repo": "https://github.com/seigel/pouchdb-react-native",
-        "clone": "https://github.com/seigel/pouchdb-react-native.git",
-        "homepage": null
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-07T06:56:49Z",
-        "createdAt": "2016-04-14T14:40:11Z",
-        "pushedAt": "2023-07-25T04:04:57Z",
-        "issues": 47,
-        "subscribers": 15,
-        "stars": 483,
-        "forks": 68
-      },
-      "name": "pouchdb-react-native",
-      "fullName": "seigel/pouchdb-react-native",
-      "description": "Pouchdb with async storage",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Update dependencies",
-        "tagName": "6.4.1",
-        "createdAt": "2018-03-22T17:48:49Z",
-        "publishedAt": "2018-03-22T17:49:33Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 1109,
-      "weekDownloads": 201,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.069
-  },
-  {
-    "githubUrl": "https://github.com/adamterlson/cairn",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "cairn",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/adamterlson/cairn",
-        "clone": "https://github.com/adamterlson/cairn.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-06T15:46:54Z",
-        "createdAt": "2015-10-19T18:33:44Z",
-        "pushedAt": "2019-09-02T11:29:16Z",
-        "issues": 1,
-        "subscribers": 5,
-        "stars": 115,
-        "forks": 4
-      },
-      "name": "cairn",
-      "fullName": "adamterlson/cairn",
-      "description": "Hierarchical shared and component-based style definitions with selector-based style application, for React Native",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 40,
-      "weekDownloads": 1,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 38,
-    "matchingScoreModifiers": [
-      "No license"
-    ],
-    "popularity": -0.675
-  },
-  {
-    "githubUrl": "https://github.com/jondot/react-native-slowlog",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "react-native-slowlog",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/jondot/react-native-slowlog",
-        "clone": "https://github.com/jondot/react-native-slowlog.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
+        "hasPages": true,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2023-11-12T18:26:38Z",
-        "createdAt": "2016-05-01T07:43:16Z",
-        "pushedAt": "2017-02-08T09:40:43Z",
-        "issues": 3,
-        "subscribers": 5,
-        "stars": 377,
-        "forks": 16
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
       },
-      "name": "react-native-slowlog",
-      "fullName": "jondot/react-native-slowlog",
-      "description": "A high-performance timer based profiler for React Native that helps you track big performance problems.",
+      "name": "@react-native-firebase/analytics",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - The analytics module provides out of the box support with Google Analytics for Firebase. Integration with the Android & iOS allows for in-depth analytical insight reporting, such as device information, location, user actions and more.",
       "topics": [
-        "performance",
-        "react-native",
-        "debugging",
-        "infrastructure",
-        "tools"
-      ],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 2669,
-      "weekDownloads": 784,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "performance react-native debugging infrastructure tools",
-    "score": 25,
-    "matchingScoreModifiers": [
-      "No license",
-      "Not updated recently"
-    ],
-    "popularity": 0.044,
-    "category": [
-      "performance",
-      "debugging"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/NativeSH/react-native-console-panel",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-console-panel",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/NativeSH/react-native-console-panel",
-        "clone": "https://github.com/NativeSH/react-native-console-panel.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-03-21T10:49:10Z",
-        "createdAt": "2015-11-20T06:52:17Z",
-        "pushedAt": "2021-03-07T10:09:05Z",
-        "issues": 1,
-        "subscribers": 6,
-        "stars": 85,
-        "forks": 19
-      },
-      "name": "react-native-console-panel",
-      "fullName": "NativeSH/react-native-console-panel",
-      "description": "simple react native console component",
-      "topics": [],
-      "license": {
-        "key": "gpl-2.0",
-        "name": "GNU General Public License v2.0",
-        "spdxId": "GPL-2.0",
-        "url": "https://api.github.com/licenses/gpl-2.0",
-        "id": "MDc6TGljZW5zZTg="
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 20,
-      "weekDownloads": 3,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 38,
-    "matchingScoreModifiers": [
-      "GPL license"
-    ],
-    "popularity": -0.8
-  },
-  {
-    "githubUrl": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-dismiss-keyboard",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard",
-        "clone": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-04-16T20:34:11Z",
-        "createdAt": "2016-01-10T20:13:47Z",
-        "pushedAt": "2024-05-22T05:22:16Z",
-        "issues": 14,
-        "subscribers": 2,
-        "stars": 93,
-        "forks": 12
-      },
-      "name": "react-native-dismiss-keyboard",
-      "fullName": "DanielMSchmidt/react-native-dismiss-keyboard",
-      "description": "A simple way to dismiss the keyboard programmatically in a react native application",
-      "topics": [
-        "react-native",
-        "keyboard"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Initial Release (feature complete)",
-        "tagName": "0.0.2",
-        "createdAt": "2016-01-13T21:35:32Z",
-        "publishedAt": "2016-01-14T20:37:13Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 233005,
-      "weekDownloads": 47167,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native keyboard",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Popular"
-    ],
-    "popularity": -0.298,
-    "category": [
-      "keyboard"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/beefe/react-native-popup",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-popup",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/beefe/react-native-popup",
-        "clone": "https://github.com/beefe/react-native-popup.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-13T06:45:04Z",
-        "createdAt": "2015-12-15T10:22:51Z",
-        "pushedAt": "2018-09-22T08:48:05Z",
-        "issues": 14,
-        "subscribers": 9,
-        "stars": 169,
-        "forks": 41
-      },
-      "name": "react-native-popup",
-      "fullName": "beefe/react-native-popup",
-      "description": "popup for react-native",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 104,
-      "weekDownloads": 30,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 44,
-    "matchingScoreModifiers": [
-      "No license",
-      "Recently updated"
-    ],
-    "popularity": -0.662
-  },
-  {
-    "githubUrl": "https://github.com/remobile/react-native-toast",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-toast",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/remobile/react-native-toast",
-        "clone": "https://github.com/remobile/react-native-toast.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-15T20:36:07Z",
-        "createdAt": "2015-11-17T00:22:19Z",
-        "pushedAt": "2018-12-17T03:26:20Z",
-        "issues": 36,
-        "subscribers": 9,
-        "stars": 346,
-        "forks": 145
-      },
-      "name": "react-native-toast",
-      "fullName": "remobile/react-native-toast",
-      "description": "A android like toast for android and ios, android use native toast, ios use UIView+Toast",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 107,
-      "weekDownloads": 15,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.803
-  },
-  {
-    "githubUrl": "https://github.com/magicismight/react-native-lazyload",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-lazyload",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/magicismight/react-native-lazyload",
-        "clone": "https://github.com/magicismight/react-native-lazyload.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-21T12:54:52Z",
-        "createdAt": "2016-02-16T10:10:13Z",
-        "pushedAt": "2019-10-08T04:44:19Z",
-        "issues": 26,
-        "subscribers": 21,
-        "stars": 413,
-        "forks": 108
-      },
-      "name": "react-native-lazyload",
-      "fullName": "magicismight/react-native-lazyload",
-      "description": "lazyload for react native",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 645,
-      "weekDownloads": 228,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.146
-  },
-  {
-    "githubUrl": "https://github.com/jineshshah36/react-native-nav",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-nav",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/jineshshah36/react-native-nav",
-        "clone": "https://github.com/jineshshah36/react-native-nav.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-04-02T17:40:44Z",
-        "createdAt": "2016-03-26T22:02:21Z",
-        "pushedAt": "2019-11-11T19:37:21Z",
-        "issues": 3,
-        "subscribers": 6,
-        "stars": 264,
-        "forks": 28
-      },
-      "name": "react-native-nav",
-      "fullName": "jineshshah36/react-native-nav",
-      "description": "A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component.",
-      "topics": [
-        "react-native",
         "react",
-        "android",
-        "ios",
-        "navigation",
-        "navbar"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Requires React Native v0.44+",
-        "tagName": "v2.0.0",
-        "createdAt": "2017-07-17T14:38:22Z",
-        "publishedAt": "2017-07-17T14:40:13Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 2115,
-      "weekDownloads": 303,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native react android ios navigation navbar",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.356,
-    "category": [
-      "navbar"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/gilbox/react-imation",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-imation",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/gilbox/react-imation",
-        "clone": "https://github.com/gilbox/react-imation.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": true,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-09-08T17:01:52Z",
-        "createdAt": "2015-09-20T00:44:44Z",
-        "pushedAt": "2018-11-21T00:45:19Z",
-        "issues": 0,
-        "subscribers": 7,
-        "stars": 236,
-        "forks": 11
-      },
-      "name": "react-imation",
-      "fullName": "gilbox/react-imation",
-      "description": "functional tweening and timeline animation for react",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 84,
-      "weekDownloads": 10,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 25,
-    "matchingScoreModifiers": [
-      "No license",
-      "Not updated recently"
-    ],
-    "popularity": -0.831
-  },
-  {
-    "githubUrl": "https://github.com/AlbertBrand/react-native-android-tablayout",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-android-tablayout",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/AlbertBrand/react-native-android-tablayout",
-        "clone": "https://github.com/AlbertBrand/react-native-android-tablayout.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-08-29T08:11:42Z",
-        "createdAt": "2016-01-05T10:47:44Z",
-        "pushedAt": "2016-09-15T19:21:45Z",
-        "issues": 11,
-        "subscribers": 12,
-        "stars": 141,
-        "forks": 29
-      },
-      "name": "react-native-android-tablayout",
-      "fullName": "AlbertBrand/react-native-android-tablayout",
-      "description": "React Native Android TabLayout native component",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 92,
-      "weekDownloads": 22,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 25,
-    "matchingScoreModifiers": [
-      "No license",
-      "Not updated recently"
-    ],
-    "popularity": -0.711
-  },
-  {
-    "githubUrl": "https://github.com/FaridSafi/react-native-gifted-listview",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-gifted-listview",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/FaridSafi/react-native-gifted-listview",
-        "clone": "https://github.com/FaridSafi/react-native-gifted-listview.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-13T06:45:07Z",
-        "createdAt": "2015-10-23T14:50:37Z",
-        "pushedAt": "2018-06-25T11:50:37Z",
-        "issues": 46,
-        "subscribers": 39,
-        "stars": 1622,
-        "forks": 292
-      },
-      "name": "react-native-gifted-listview",
-      "fullName": "FaridSafi/react-native-gifted-listview",
-      "description": "✌️ ListView with pull-to-refresh and infinite scrolling for Android and iOS React-Native apps",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Removing GiftedSpinner Dependency",
-        "tagName": "v0.0.51",
-        "createdAt": "2016-12-20T12:15:52Z",
-        "publishedAt": "2016-12-30T07:13:06Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 55,
-      "weekDownloads": 4,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
-    ],
-    "popularity": -0.864
-  },
-  {
-    "githubUrl": "https://github.com/douglasjunior/react-native-simple-dialogs",
-    "examples": [
-      "https://github.com/douglasjunior/react-native-simple-dialogs/tree/master/Sample",
-      "https://snack.expo.dev/@douglasjunior/react-native-simple-dialogs-example"
-    ],
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "react-native-simple-dialogs",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/douglasjunior/react-native-simple-dialogs",
-        "clone": "https://github.com/douglasjunior/react-native-simple-dialogs.git",
-        "homepage": "https://www.npmjs.com/package/react-native-simple-dialogs"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-09T02:14:49Z",
-        "createdAt": "2017-06-18T17:57:06Z",
-        "pushedAt": "2024-05-09T03:06:52Z",
-        "issues": 1,
-        "subscribers": 5,
-        "stars": 310,
-        "forks": 55
-      },
-      "name": "react-native-simple-dialogs",
-      "fullName": "douglasjunior/react-native-simple-dialogs",
-      "description": "⚛ Cross-platform React Native dialogs based on the Modal component",
-      "topics": [
         "react-native",
-        "android",
-        "ios",
-        "cross-platform",
-        "dialog",
-        "modal",
-        "popup",
-        "hacktoberfest"
+        "firebase",
+        "analytics"
       ],
       "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "2.0.3",
-        "tagName": "2.0.3",
-        "createdAt": "2024-03-01T12:41:25Z",
-        "publishedAt": "2024-03-01T12:54:41Z",
-        "isPrerelease": false
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
       },
       "hasTypes": true,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 9499,
-      "weekDownloads": 2126,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 1159913,
+      "weekDownloads": 265917,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "react-native android ios cross-platform dialog modal popup hacktoberfest",
-    "score": 56,
+    "score": 88,
     "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
       "Recently updated"
     ],
-    "popularity": -0.026,
+    "popularity": -0.021,
+    "topicSearchString": "react react-native firebase analytics",
+    "matchScore": 111,
     "category": [
-      "modal",
-      "dialog",
-      "popup"
+      "analytics"
     ]
   },
   {
-    "githubUrl": "https://github.com/douglasjunior/react-native-keyboard-manager",
+    "githubUrl": "https://github.com/mixpanel/mixpanel-react-native",
     "examples": [
-      "https://github.com/douglasjunior/react-native-keyboard-manager/tree/master/Sample"
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/ContextAPIMixpanel",
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/MixpanelDemo",
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/SimpleMixpanel"
     ],
     "ios": true,
-    "npmPkg": "react-native-keyboard-manager",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/douglasjunior/react-native-keyboard-manager",
-        "clone": "https://github.com/douglasjunior/react-native-keyboard-manager.git",
-        "homepage": "https://www.npmjs.com/package/react-native-keyboard-manager"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-22T20:07:27Z",
-        "createdAt": "2017-06-21T11:27:21Z",
-        "pushedAt": "2024-05-07T17:36:20Z",
-        "issues": 1,
-        "subscribers": 8,
-        "stars": 921,
-        "forks": 60
-      },
-      "name": "react-native-keyboard-manager",
-      "fullName": "douglasjunior/react-native-keyboard-manager",
-      "description": "⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.",
-      "topics": [
-        "react-native",
-        "ios",
-        "keyboard",
-        "iqkeyboardmanager",
-        "hacktoberfest"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "6.5.16-0",
-        "tagName": "6.5.16-0",
-        "createdAt": "2024-05-06T13:10:33Z",
-        "publishedAt": "2024-05-06T13:15:33Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 71702,
-      "weekDownloads": 16176,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native ios keyboard iqkeyboardmanager hacktoberfest",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.024,
-    "category": [
-      "keyboard"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/invertase/react-native-material-design",
     "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-material-design",
     "github": {
       "urls": {
-        "repo": "https://github.com/invertase/react-native-material-design",
-        "clone": "https://github.com/invertase/react-native-material-design.git",
-        "homepage": "http://react-native-material-design.github.io"
+        "repo": "https://github.com/mixpanel/mixpanel-react-native",
+        "clone": "https://github.com/mixpanel/mixpanel-react-native.git",
+        "homepage": "https://mixpanel.com"
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-30T07:35:34Z",
-        "createdAt": "2015-12-11T15:29:45Z",
-        "pushedAt": "2018-12-27T10:31:49Z",
-        "issues": 86,
-        "subscribers": 95,
-        "stars": 3155,
-        "forks": 368
-      },
-      "name": "react-native-material-design",
-      "fullName": "invertase/react-native-material-design",
-      "description": "React Native UI Components for Material Design",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "0.3.7",
-        "tagName": "0.3.7",
-        "createdAt": "2016-07-27T07:46:27Z",
-        "publishedAt": "2016-07-27T07:51:54Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 7300,
-      "weekDownloads": 1724,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Lots of open issues",
-      "Recently updated"
-    ],
-    "popularity": -0.264
-  },
-  {
-    "githubUrl": "https://github.com/binggg/mrn",
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "mrn",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/binggg/mrn",
-        "clone": "https://github.com/binggg/mrn.git",
-        "homepage": "http://mrn.js.org"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-11T06:44:35Z",
-        "createdAt": "2015-11-13T10:10:01Z",
-        "pushedAt": "2019-05-28T08:31:20Z",
-        "issues": 14,
-        "subscribers": 45,
-        "stars": 1733,
-        "forks": 109
-      },
-      "name": "mrn",
-      "fullName": "binggg/mrn",
-      "description": "Material React Native (MRN) - A Material Design style React Native component library.",
-      "topics": [
-        "material",
-        "react-native",
-        "mrn",
-        "ui-components",
-        "android"
-      ],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 26,
-      "weekDownloads": 4,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "material react-native mrn ui-components android",
-    "score": 50,
-    "matchingScoreModifiers": [
-      "Popular",
-      "No license",
-      "Recently updated"
-    ],
-    "popularity": -0.777,
-    "category": [
-      "material"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/oblador/react-native-parallax",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-parallax",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/oblador/react-native-parallax",
-        "clone": "https://github.com/oblador/react-native-parallax.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-16T20:34:04Z",
-        "createdAt": "2015-07-26T15:57:27Z",
-        "pushedAt": "2020-08-20T07:29:31Z",
-        "issues": 13,
-        "subscribers": 15,
-        "stars": 578,
-        "forks": 79
-      },
-      "name": "react-native-parallax",
-      "fullName": "oblador/react-native-parallax",
-      "description": "Parallax effects for React Native using Animated API",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "0.3.0",
-        "tagName": "v0.3.0",
-        "createdAt": "2016-06-13T15:08:48Z",
-        "publishedAt": "2016-06-13T15:10:34Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 95,
-      "weekDownloads": 18,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.753
-  },
-  {
-    "githubUrl": "https://github.com/tomauty/react-native-chart",
-    "images": [
-      "https://raw.githubusercontent.com/tomauty/react-native-chart/master/screenshots/README.png"
-    ],
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-chart",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/tomauty/react-native-chart",
-        "clone": "https://github.com/tomauty/react-native-chart.git",
-        "homepage": "http://tomauty.github.io/react-native-chart"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
         "hasPages": true,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-24T20:19:19Z",
-        "createdAt": "2015-04-29T20:31:35Z",
-        "pushedAt": "2020-04-24T14:19:20Z",
-        "issues": 59,
-        "subscribers": 46,
-        "stars": 1573,
-        "forks": 240
+        "updatedAt": "2024-05-20T18:52:44Z",
+        "createdAt": "2020-02-06T08:11:13Z",
+        "pushedAt": "2024-05-20T18:52:44Z",
+        "forks": 38,
+        "issues": 11,
+        "subscribers": 37,
+        "stars": 95
       },
-      "name": "react-native-chart",
-      "fullName": "tomauty/react-native-chart",
-      "description": "[NOT MAINTAINED] :bar_chart: Add line, area, pie, and bar charts to your React Native app",
+      "name": "mixpanel-react-native",
+      "fullName": "mixpanel/mixpanel-react-native",
+      "description": "Official React Native Tracking Library for Mixpanel Analytics",
       "topics": [
-        "chart",
-        "javascript",
+        "mixpanel",
+        "react",
+        "native",
+        "ios",
+        "android",
+        "analytics",
+        "tracking",
+        "sdk",
         "react-native",
-        "svg"
+        "analytics-tracking",
+        "mixpanel-sdk"
       ],
       "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
       },
       "lastRelease": {
-        "name": "1.0.7-beta",
-        "tagName": "1.0.7-beta",
-        "createdAt": "2016-07-15T22:26:11Z",
-        "publishedAt": "2016-07-15T22:27:17Z",
+        "name": "Release v3.0.5",
+        "tagName": "v3.0.5",
+        "createdAt": "2024-05-14T16:36:02Z",
+        "publishedAt": "2024-05-14T16:37:09Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "mixpanel-react-native",
     "npm": {
-      "downloads": 147,
-      "weekDownloads": 21,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 210483,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 46205
     },
-    "topicSearchString": "chart javascript react-native svg",
     "score": 63,
     "matchingScoreModifiers": [
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.802,
+    "popularity": -0.03,
+    "topicSearchString": "mixpanel react native ios android analytics tracking sdk react-native analytics-tracking mixpanel-sdk",
+    "matchScore": 11,
     "category": [
-      "chart"
+      "analytics"
     ]
   },
   {
-    "githubUrl": "https://github.com/lelandrichardson/react-native-parallax-view",
+    "githubUrl": "https://github.com/adobe/react-native-acpmedia",
+    "npmPkg": "@adobe/react-native-acpmedia",
+    "examples": [
+      "https://github.com/adobe/react-native-acpmedia/tree/main/sample/ACPMediaSample",
+      "https://github.com/adobe/react-native-acpmedia/tree/main/sample/ReactNativeBasicPlayerSample"
+    ],
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-parallax-view",
     "github": {
       "urls": {
-        "repo": "https://github.com/lelandrichardson/react-native-parallax-view",
-        "clone": "https://github.com/lelandrichardson/react-native-parallax-view.git",
-        "homepage": null
+        "repo": "https://github.com/adobe/react-native-acpmedia",
+        "clone": "https://github.com/adobe/react-native-acpmedia.git",
+        "homepage": ""
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
         "hasPages": false,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-24T09:29:38Z",
-        "createdAt": "2015-05-08T03:47:19Z",
-        "pushedAt": "2017-11-20T17:03:54Z",
-        "issues": 29,
-        "subscribers": 24,
-        "stars": 1286,
-        "forks": 174
+        "hasTopics": true,
+        "updatedAt": "2023-08-07T22:15:28Z",
+        "createdAt": "2019-10-24T14:30:54Z",
+        "pushedAt": "2023-08-07T22:15:28Z",
+        "forks": 6,
+        "issues": 0,
+        "subscribers": 18,
+        "stars": 5
       },
-      "name": "react-native-parallax-view",
-      "fullName": "lelandrichardson/react-native-parallax-view",
-      "description": "Parallax view for vertical scrollview/listviews with a header image and header content",
-      "topics": [],
+      "name": "react-native-acpmedia",
+      "fullName": "adobe/react-native-acpmedia",
+      "description": "A wrapper around the iOS and Android AEP Media Analytics SDK to allow for integration with React Native applications",
+      "topics": [
+        "react-native",
+        "adobe",
+        "adobe-experience-platform",
+        "media",
+        "ios",
+        "android",
+        "adobe-analytics"
+      ],
       "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
       },
-      "lastRelease": null,
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "v3.0.1",
+        "createdAt": "2022-04-28T20:32:16Z",
+        "publishedAt": "2022-04-28T20:49:33Z",
+        "isPrerelease": false
+      },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 179,
-      "weekDownloads": 25,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
+      "downloads": 800,
+      "weekDownloads": 126,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
       "period": "month"
     },
-    "topicSearchString": "",
-    "score": 63,
+    "score": 38,
     "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
+      "Not updated recently"
     ],
-    "popularity": -0.806
+    "popularity": -0.193,
+    "topicSearchString": "react-native adobe adobe-experience-platform media ios android adobe-analytics",
+    "matchScore": 11,
+    "category": [
+      "analytics"
+    ]
   },
   {
-    "githubUrl": "https://github.com/oblador/react-native-collapsible",
-    "examples": [
-      "https://github.com/oblador/react-native-collapsible/tree/master/Example"
-    ],
+    "githubUrl": "https://github.com/lwansbrough/react-native-google-analytics",
     "ios": true,
     "android": true,
     "expoGo": true,
-    "npmPkg": "react-native-collapsible",
+    "unmaintained": true,
     "github": {
       "urls": {
-        "repo": "https://github.com/oblador/react-native-collapsible",
-        "clone": "https://github.com/oblador/react-native-collapsible.git",
+        "repo": "https://github.com/rnc-archive/react-native-google-analytics",
+        "clone": "https://github.com/rnc-archive/react-native-google-analytics.git",
         "homepage": null
       },
       "stats": {
@@ -2381,178 +2746,426 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2024-05-24T19:05:58Z",
-        "createdAt": "2015-06-07T13:36:23Z",
-        "pushedAt": "2023-05-30T09:35:13Z",
-        "issues": 116,
-        "subscribers": 30,
-        "stars": 2417,
-        "forks": 453
+        "updatedAt": "2020-05-14T21:52:33Z",
+        "createdAt": "2015-04-23T11:30:28Z",
+        "pushedAt": "2020-05-14T21:52:33Z",
+        "forks": 52,
+        "issues": 16,
+        "subscribers": 11,
+        "stars": 383
       },
-      "name": "react-native-collapsible",
-      "fullName": "oblador/react-native-collapsible",
-      "description": "Animated collapsible component for React Native, good for accordions, toggles etc",
+      "name": "react-native-google-analytics",
+      "fullName": "rnc-archive/react-native-google-analytics",
+      "description": "Google Analytics for React Native! Compatible with react-native-ab",
       "topics": [
-        "react-native",
-        "accordion",
-        "collapsible",
-        "animation"
+        "react",
+        "native",
+        "ab",
+        "test",
+        "testing",
+        "analytics",
+        "metrics",
+        "events",
+        "google",
+        "experiment",
+        "variant"
       ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "1.6.1",
-        "tagName": "v1.6.1",
-        "createdAt": "2023-03-30T09:47:17Z",
-        "publishedAt": "2023-03-30T09:48:21Z",
-        "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-google-analytics",
     "npm": {
-      "downloads": 443924,
-      "weekDownloads": 100196,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 1628,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 450
     },
-    "topicSearchString": "react-native accordion collapsible animation",
-    "score": 75,
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.224,
+    "topicSearchString": "react native ab test testing analytics metrics events google experiment variant",
+    "matchScore": 0.111,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2023-02-01T20:57:16Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2023-02-01T20:57:16Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-firebase-analytics",
+    "npm": {
+      "downloads": 9347,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1164
+    },
+    "score": 56,
     "matchingScoreModifiers": [
       "Very popular",
       "Popular",
       "Lots of open issues",
-      "Recently updated"
+      "Not updated recently"
     ],
-    "popularity": -0.024,
+    "popularity": -0.375,
+    "topicSearchString": "",
+    "matchScore": 0.1,
     "category": [
-      "accordion",
-      "collapsible"
+      "analytics"
     ]
   },
   {
-    "githubUrl": "https://github.com/jeanregisser/react-native-popover",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-popover",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/jeanregisser/react-native-popover",
-        "clone": "https://github.com/jeanregisser/react-native-popover.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-24T19:05:52Z",
-        "createdAt": "2015-05-29T22:40:18Z",
-        "pushedAt": "2019-04-23T22:42:52Z",
-        "issues": 26,
-        "subscribers": 10,
-        "stars": 656,
-        "forks": 182
-      },
-      "name": "react-native-popover",
-      "fullName": "jeanregisser/react-native-popover",
-      "description": "A <Popover /> component for react-native",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 1481,
-      "weekDownloads": 396,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [
-      "Popular",
-      "No license",
-      "Recently updated"
+    "githubUrl": "https://github.com/ammarahm-ed/react-native-admob-native-ads",
+    "examples": [
+      "https://github.com/ammarahm-ed/react-native-admob-native-ads/tree/master/example"
     ],
-    "popularity": -0.232
-  },
-  {
-    "githubUrl": "https://github.com/MichaelCereda/react-native-form-generator",
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-form-generator",
     "github": {
       "urls": {
-        "repo": "https://github.com/MichaelCereda/react-native-form-generator",
-        "clone": "https://github.com/MichaelCereda/react-native-form-generator.git",
-        "homepage": null
+        "repo": "https://github.com/ammarahm-ed/react-native-admob-native-ads",
+        "clone": "https://github.com/ammarahm-ed/react-native-admob-native-ads.git",
+        "homepage": "https://ammarahm-ed.github.io/react-native-admob-native-ads/docs/introduction/"
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
-        "hasPages": false,
+        "hasPages": true,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-02-01T16:15:40Z",
-        "createdAt": "2016-01-20T06:56:26Z",
-        "pushedAt": "2020-02-21T03:30:04Z",
-        "issues": 69,
-        "subscribers": 17,
-        "stars": 377,
-        "forks": 105
+        "hasTopics": true,
+        "updatedAt": "2024-04-24T04:54:02Z",
+        "createdAt": "2020-03-17T05:29:33Z",
+        "pushedAt": "2024-04-24T04:54:02Z",
+        "forks": 117,
+        "issues": 47,
+        "subscribers": 3,
+        "stars": 380
       },
-      "name": "react-native-form-generator",
-      "fullName": "MichaelCereda/react-native-form-generator",
-      "description": "Generate forms with native look and feel in a breeze",
-      "topics": [],
+      "name": "react-native-admob-native-ads",
+      "fullName": "ammarahm-ed/react-native-admob-native-ads",
+      "description": "A simple and robust library for creating & displaying Admob Native Advanced Ads in your React Native App using Native Views.",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "admob",
+        "native-ads",
+        "admob-native-ads",
+        "admob-ads",
+        "react-native-admob",
+        "google-admob",
+        "react",
+        "native",
+        "advanced",
+        "ads",
+        "native-advanced-ads",
+        "admob-native-advanced-ads",
+        "objective-c",
+        "java"
+      ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
-      "lastRelease": null,
+      "lastRelease": {
+        "name": "v0.6.6",
+        "tagName": "v0.6.6",
+        "createdAt": "2023-07-05T03:44:44Z",
+        "publishedAt": "2023-07-05T03:47:00Z",
+        "isPrerelease": false
+      },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-admob-native-ads",
     "npm": {
-      "downloads": 53,
-      "weekDownloads": 5,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 3402,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 899
     },
-    "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.851
+    "popularity": 0.014,
+    "topicSearchString": "android ios react-native admob native-ads admob-native-ads admob-ads react-native-admob google-admob react native advanced ads native-advanced-ads admob-native-advanced-ads objective-c java",
+    "matchScore": 101,
+    "category": [
+      "react-native-admob"
+    ]
   },
   {
-    "githubUrl": "https://github.com/react-native-simple-router-community/react-native-simple-router",
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-ads-admob",
     "ios": true,
     "android": true,
     "expoGo": true,
     "unmaintained": true,
-    "npmPkg": "react-native-simple-router",
     "github": {
       "urls": {
-        "repo": "https://github.com/react-native-simple-router-community/react-native-simple-router",
-        "clone": "https://github.com/react-native-simple-router-community/react-native-simple-router.git",
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-07-12T00:16:42Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-07-12T00:16:42Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-ads-admob",
+    "npm": {
+      "downloads": 1713,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 433
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.247,
+    "topicSearchString": "",
+    "matchScore": 0.1,
+    "category": [
+      "admob"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/i18next/react-i18next",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/i18next/react-i18next",
+        "clone": "https://github.com/i18next/react-i18next.git",
+        "homepage": "https://react.i18next.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T16:21:19Z",
+        "createdAt": "2015-12-12T12:52:11Z",
+        "pushedAt": "2024-05-22T16:21:19Z",
+        "forks": 1015,
+        "issues": 11,
+        "subscribers": 47,
+        "stars": 8993
+      },
+      "name": "react-i18next",
+      "fullName": "i18next/react-i18next",
+      "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+      "topics": [
+        "i18next",
+        "internationalization",
+        "i18n",
+        "translation",
+        "localization",
+        "l10n",
+        "globalization",
+        "react",
+        "reactjs",
+        "react-native",
+        "ssr"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-i18next",
+    "npm": {
+      "downloads": 14439220,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3383462
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "i18next internationalization i18n translation localization l10n globalization react reactjs react-native ssr",
+    "matchScore": 111,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/joshswan/react-native-globalize",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/joshswan/react-native-globalize",
+        "clone": "https://github.com/joshswan/react-native-globalize.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-02-25T17:50:19Z",
+        "createdAt": "2015-09-25T01:43:32Z",
+        "pushedAt": "2022-02-25T17:50:19Z",
+        "forks": 65,
+        "issues": 2,
+        "subscribers": 6,
+        "stars": 255
+      },
+      "name": "react-native-globalize",
+      "fullName": "joshswan/react-native-globalize",
+      "description": "Internationalization (i18n) for React Native",
+      "topics": [
+        "react-native",
+        "internationalization",
+        "globalization",
+        "localization",
+        "i18n",
+        "l10n",
+        "currency",
+        "datetime",
+        "language"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.5.1",
+        "tagName": "v4.5.1",
+        "createdAt": "2021-01-03T19:34:17Z",
+        "publishedAt": "2021-01-03T19:34:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-globalize",
+    "npm": {
+      "downloads": 2166,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 530
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.005,
+    "topicSearchString": "react-native internationalization globalization localization i18n l10n currency datetime language",
+    "matchScore": 11,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zoontek/react-native-localize",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "windows": true,
+    "macos": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zoontek/react-native-localize",
+        "clone": "https://github.com/zoontek/react-native-localize.git",
         "homepage": ""
       },
       "stats": {
@@ -2561,74 +3174,79 @@
         "hasPages": false,
         "hasDownloads": true,
         "hasTopics": true,
-        "updatedAt": "2023-08-17T16:16:34Z",
-        "createdAt": "2016-01-20T16:04:38Z",
-        "pushedAt": "2021-05-06T17:35:14Z",
-        "issues": 28,
-        "subscribers": 15,
-        "stars": 269,
-        "forks": 56
+        "updatedAt": "2024-05-17T07:58:24Z",
+        "createdAt": "2017-08-01T16:38:22Z",
+        "pushedAt": "2024-05-17T07:58:24Z",
+        "forks": 202,
+        "issues": 4,
+        "subscribers": 17,
+        "stars": 2217
       },
-      "name": "react-native-simple-router",
-      "fullName": "react-native-simple-router-community/react-native-simple-router",
-      "description": "A community maintained router component for React Native",
+      "name": "react-native-localize",
+      "fullName": "zoontek/react-native-localize",
+      "description": "🌍 A toolbox for your React Native app localization",
       "topics": [
+        "react-native-localize",
         "react-native",
-        "react-router",
-        "router",
-        "navigation",
-        "react-native-navigation",
-        "react-navigation"
+        "react-native-macos",
+        "localize",
+        "localization",
+        "l20n",
+        "globalization",
+        "internationalization",
+        "i18n",
+        "language-detection",
+        "ios",
+        "android"
       ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
       "lastRelease": {
-        "name": "Improve better support for Android",
-        "tagName": "0.12.1",
-        "createdAt": "2019-05-31T16:29:19Z",
-        "publishedAt": "2019-06-20T16:46:27Z",
+        "name": "3.1.0",
+        "tagName": "3.1.0",
+        "createdAt": "2024-04-05T08:26:55Z",
+        "publishedAt": "2024-04-05T08:32:45Z",
         "isPrerelease": false
       },
-      "hasTypes": false,
-      "newArchitecture": false
+      "hasTypes": true,
+      "newArchitecture": true
     },
+    "images": [],
+    "npmPkg": "react-native-localize",
     "npm": {
-      "downloads": 50,
-      "weekDownloads": 5,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 1196764,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 259064
     },
-    "topicSearchString": "react-native react-router router navigation react-native-navigation react-navigation",
-    "score": 38,
+    "score": 88,
     "matchingScoreModifiers": [
-      "Not updated recently"
+      "Very popular",
+      "Popular",
+      "Recently updated"
     ],
-    "popularity": -0.84,
+    "popularity": -0.034,
+    "topicSearchString": "react-native-localize react-native react-native-macos localize localization l20n globalization internationalization i18n language-detection ios android",
+    "matchScore": 1,
     "category": [
-      "router",
-      "navigation",
-      "react-native-navigation",
-      "react-navigation",
-      "react-router"
+      "i18n"
     ]
   },
   {
-    "githubUrl": "https://github.com/lwansbrough/react-native-markdown",
+    "githubUrl": "https://github.com/stefalda/ReactNativeLocalization",
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-markdown",
+    "npmPkg": "react-native-localization",
     "github": {
       "urls": {
-        "repo": "https://github.com/lwansbrough/react-native-markdown",
-        "clone": "https://github.com/lwansbrough/react-native-markdown.git",
+        "repo": "https://github.com/stefalda/ReactNativeLocalization",
+        "clone": "https://github.com/stefalda/ReactNativeLocalization.git",
         "homepage": null
       },
       "stats": {
@@ -2636,104 +3254,68 @@
         "hasWiki": true,
         "hasPages": false,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-16T20:34:00Z",
-        "createdAt": "2015-04-05T22:44:57Z",
-        "pushedAt": "2016-08-27T17:16:45Z",
-        "issues": 17,
-        "subscribers": 8,
-        "stars": 274,
-        "forks": 80
+        "hasTopics": true,
+        "updatedAt": "2023-07-03T11:46:39Z",
+        "createdAt": "2015-04-07T21:30:54Z",
+        "pushedAt": "2023-07-03T11:46:39Z",
+        "forks": 119,
+        "issues": 69,
+        "subscribers": 19,
+        "stars": 895
       },
-      "name": "react-native-markdown",
-      "fullName": "lwansbrough/react-native-markdown",
-      "description": "Markdown component for React Native",
-      "topics": [],
+      "name": "ReactNativeLocalization",
+      "fullName": "stefalda/ReactNativeLocalization",
+      "description": "Class to localize the ReactNative interface",
+      "topics": [
+        "localization",
+        "internationalization",
+        "javascript",
+        "typescript",
+        "ios",
+        "android",
+        "react",
+        "react-native",
+        "react-component"
+      ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
-      "lastRelease": null,
-      "hasTypes": false,
+      "hasTypes": true,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 43,
-      "weekDownloads": 1,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 51305,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 11619
     },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.909
-  },
-  {
-    "githubUrl": "https://github.com/superdami/react-native-custom-navigation",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-custom-navigation",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/SuperDami/react-native-custom-navigation",
-        "clone": "https://github.com/SuperDami/react-native-custom-navigation.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-13T06:44:55Z",
-        "createdAt": "2015-07-08T15:08:51Z",
-        "pushedAt": "2016-01-12T16:24:19Z",
-        "issues": 7,
-        "subscribers": 4,
-        "stars": 189,
-        "forks": 23
-      },
-      "name": "react-native-custom-navigation",
-      "fullName": "SuperDami/react-native-custom-navigation",
-      "description": "If you want to customize navbar content, or your navbar need a fade-in effect by scrolling. This is it.",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 12,
-      "weekDownloads": 1,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
     "score": 44,
     "matchingScoreModifiers": [
-      "No license",
-      "Recently updated"
+      "Popular",
+      "Not updated recently"
     ],
-    "popularity": -0.867
+    "popularity": -0.024,
+    "topicSearchString": "localization internationalization javascript typescript ios android react react-native react-component",
+    "matchScore": 1,
+    "category": [
+      "internationalization"
+    ]
   },
   {
-    "githubUrl": "https://github.com/johanneslumpe/react-native-gesture-recognizers",
+    "githubUrl": "https://github.com/zeljkoX/react-native-pseudo-localization",
     "ios": true,
     "android": true,
     "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-gesture-recognizers",
     "github": {
       "urls": {
-        "repo": "https://github.com/johanneslumpe/react-native-gesture-recognizers",
-        "clone": "https://github.com/johanneslumpe/react-native-gesture-recognizers.git",
+        "repo": "https://github.com/zeljkoX/react-native-pseudo-localization",
+        "clone": "https://github.com/zeljkoX/react-native-pseudo-localization.git",
         "homepage": ""
       },
       "stats": {
@@ -2741,224 +3323,147 @@
         "hasWiki": true,
         "hasPages": false,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-23T13:01:05Z",
-        "createdAt": "2015-06-21T20:01:28Z",
-        "pushedAt": "2020-05-04T18:00:14Z",
-        "issues": 7,
-        "subscribers": 13,
-        "stars": 366,
-        "forks": 54
+        "hasTopics": true,
+        "updatedAt": "2018-08-21T09:57:35Z",
+        "createdAt": "2018-08-19T21:28:06Z",
+        "pushedAt": "2018-08-21T09:57:35Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 6
       },
-      "name": "react-native-gesture-recognizers",
-      "fullName": "johanneslumpe/react-native-gesture-recognizers",
-      "description": "Gesture recognizer decorators for react-native",
-      "topics": [],
+      "name": "react-native-pseudo-localization",
+      "fullName": "zeljkoX/react-native-pseudo-localization",
+      "description": "React Native Pseudo Localization is small package that enables pseudolocalization",
+      "topics": [
+        "chaos-engineering",
+        "i18n",
+        "internationalization",
+        "l10n",
+        "language",
+        "localization",
+        "pseudo-localization",
+        "psuedo-localize",
+        "psuedo",
+        "react-native-pseudo-localization",
+        "translation",
+        "i10n",
+        "react-native",
+        "pseudo"
+      ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
-      "lastRelease": null,
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-pseudo-localization",
     "npm": {
       "downloads": 18,
-      "weekDownloads": 4,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1
     },
-    "topicSearchString": "",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.7
-  },
-  {
-    "githubUrl": "https://github.com/evblurbs/react-native-md-textinput",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-md-textinput",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/evblurbs/react-native-md-textinput",
-        "clone": "https://github.com/evblurbs/react-native-md-textinput.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-01-25T10:07:01Z",
-        "createdAt": "2016-01-29T09:22:44Z",
-        "pushedAt": "2018-10-16T14:47:51Z",
-        "issues": 45,
-        "subscribers": 9,
-        "stars": 321,
-        "forks": 123
-      },
-      "name": "react-native-md-textinput",
-      "fullName": "evblurbs/react-native-md-textinput",
-      "description": "React Native TextInput styled with Material Design.",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 137,
-      "weekDownloads": 14,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 38,
-    "matchingScoreModifiers": [
-      "No license"
-    ],
-    "popularity": -0.846
-  },
-  {
-    "githubUrl": "https://github.com/eyaleizenberg/react-native-custom-action-sheet",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-custom-action-sheet",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/eyaleizenberg/react-native-custom-action-sheet",
-        "clone": "https://github.com/eyaleizenberg/react-native-custom-action-sheet.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-11-03T02:57:29Z",
-        "createdAt": "2015-10-08T06:38:43Z",
-        "pushedAt": "2018-11-24T07:06:39Z",
-        "issues": 6,
-        "subscribers": 3,
-        "stars": 179,
-        "forks": 39
-      },
-      "name": "react-native-custom-action-sheet",
-      "fullName": "eyaleizenberg/react-native-custom-action-sheet",
-      "description": "React Native custom action sheet",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 44,
-      "weekDownloads": 17,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
     "score": 38,
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.564
+    "popularity": -0.717,
+    "topicSearchString": "chaos-engineering i18n internationalization l10n language localization pseudo-localization psuedo-localize psuedo react-native-pseudo-localization translation i10n react-native pseudo",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
   },
   {
-    "githubUrl": "https://github.com/wix/react-native-keyboard-aware-scrollview",
+    "githubUrl": "https://github.com/fabriciovergara/react-native-localizable",
     "ios": true,
     "android": true,
-    "expoGo": true,
     "unmaintained": true,
-    "npmPkg": "react-native-keyboard-aware-scrollview",
     "github": {
       "urls": {
-        "repo": "https://github.com/wix-incubator/react-native-keyboard-aware-scrollview",
-        "clone": "https://github.com/wix-incubator/react-native-keyboard-aware-scrollview.git",
-        "homepage": null
+        "repo": "https://github.com/fabriciovergara/react-native-localizable",
+        "clone": "https://github.com/fabriciovergara/react-native-localizable.git",
+        "homepage": ""
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
         "hasPages": false,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-21T15:28:33Z",
-        "createdAt": "2016-04-05T21:37:44Z",
-        "pushedAt": "2023-10-20T23:10:03Z",
-        "issues": 51,
-        "subscribers": 45,
-        "stars": 487,
-        "forks": 97
+        "hasTopics": true,
+        "updatedAt": "2018-08-21T06:57:59Z",
+        "createdAt": "2018-01-08T23:28:35Z",
+        "pushedAt": "2018-08-21T06:57:59Z",
+        "forks": 0,
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 4
       },
-      "name": "react-native-keyboard-aware-scrollview",
-      "fullName": "wix-incubator/react-native-keyboard-aware-scrollview",
-      "description": "Created by artald",
-      "topics": [],
+      "name": "react-native-localizable",
+      "fullName": "fabriciovergara/react-native-localizable",
+      "description": "Let the platform take care of internationalization! ...and reduce your bundle.js",
+      "topics": [
+        "react-native",
+        "react-component",
+        "localizable",
+        "ios",
+        "android",
+        "localization",
+        "native",
+        "javascript"
+      ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
       "lastRelease": {
-        "name": "",
-        "tagName": "2.1.0",
-        "createdAt": "2019-11-13T10:02:58Z",
-        "publishedAt": "2019-11-13T10:03:50Z",
+        "name": "1.0.0",
+        "tagName": "1.0.0",
+        "createdAt": "2018-01-08T23:45:31Z",
+        "publishedAt": "2018-01-09T18:08:03Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-localizable",
     "npm": {
-      "downloads": 24168,
-      "weekDownloads": 5689,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 14,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3
     },
-    "topicSearchString": "",
-    "score": 63,
+    "score": 38,
     "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
+      "Not updated recently"
     ],
-    "popularity": -0.265
+    "popularity": -0.8,
+    "topicSearchString": "react-native react-component localizable ios android localization native javascript",
+    "matchScore": 0.01,
+    "category": [
+      "internationalization"
+    ]
   },
   {
-    "githubUrl": "https://github.com/kiddkai/react-native-gestures",
+    "githubUrl": "https://github.com/AlexanderZaytsev/react-native-i18n",
     "ios": true,
     "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-gestures",
     "github": {
       "urls": {
-        "repo": "https://github.com/kiddkai/react-native-gestures",
-        "clone": "https://github.com/kiddkai/react-native-gestures.git",
+        "repo": "https://github.com/AlexanderZaytsev/react-native-i18n",
+        "clone": "https://github.com/AlexanderZaytsev/react-native-i18n.git",
         "homepage": null
       },
       "stats": {
@@ -2966,103 +3471,220 @@
         "hasWiki": true,
         "hasPages": false,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-11T05:27:01Z",
-        "createdAt": "2015-10-26T10:39:47Z",
-        "pushedAt": "2017-09-15T09:41:36Z",
-        "issues": 11,
-        "subscribers": 3,
-        "stars": 176,
-        "forks": 40
+        "hasTopics": true,
+        "updatedAt": "2021-03-18T20:47:21Z",
+        "createdAt": "2015-06-14T10:48:33Z",
+        "pushedAt": "2021-03-18T20:47:21Z",
+        "forks": 431,
+        "issues": 58,
+        "subscribers": 30,
+        "stars": 2174
       },
-      "name": "react-native-gestures",
-      "fullName": "kiddkai/react-native-gestures",
-      "description": "Composable React Native Gestures",
-      "topics": [],
-      "license": null,
+      "name": "react-native-i18n",
+      "fullName": "AlexanderZaytsev/react-native-i18n",
+      "description": "React Native + i18n.js",
+      "topics": [
+        "react-native",
+        "react-component",
+        "ios",
+        "i18n"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
       "lastRelease": {
-        "name": "v0.3.0",
-        "tagName": "v0.3.0",
-        "createdAt": "2016-06-15T05:58:12Z",
-        "publishedAt": "2016-06-15T06:00:19Z",
+        "name": "v2.0.14",
+        "tagName": "v2.0.14",
+        "createdAt": "2018-07-12T15:38:23Z",
+        "publishedAt": "2018-07-12T15:39:38Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
+    "npmPkg": "react-native-i18n",
     "npm": {
-      "downloads": 81,
-      "weekDownloads": 14,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 53735,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 12251
     },
-    "topicSearchString": "",
     "score": 44,
     "matchingScoreModifiers": [
-      "No license",
-      "Recently updated"
+      "Popular",
+      "Not updated recently"
     ],
-    "popularity": -0.774
+    "popularity": -0.022,
+    "topicSearchString": "react-native react-component ios i18n",
+    "matchScore": 111,
+    "category": [
+      "i18n"
+    ]
   },
   {
-    "githubUrl": "https://github.com/evetstech/react-native-animated-ptr",
+    "githubUrl": "https://github.com/jakex7/react-native-localization-settings",
+    "examples": [
+      "https://github.com/jakex7/react-native-localization-settings/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jakex7/react-native-localization-settings",
+        "clone": "https://github.com/jakex7/react-native-localization-settings.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-01T06:15:19Z",
+        "createdAt": "2023-04-08T15:54:14Z",
+        "pushedAt": "2023-08-01T06:15:19Z",
+        "forks": 4,
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 55
+      },
+      "name": "react-native-localization-settings",
+      "fullName": "jakex7/react-native-localization-settings",
+      "description": "React Native module to expose per-app language preferences API on iOS and Android.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "i18n",
+        "i18next",
+        "i18n-react",
+        "l10n",
+        "language",
+        "per-app",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.0.2",
+        "tagName": "v1.0.2",
+        "createdAt": "2023-08-01T06:15:23Z",
+        "publishedAt": "2023-08-01T06:15:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npmPkg": "react-native-localization-settings",
+    "npm": {
+      "downloads": 5593,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1464
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.012,
+    "topicSearchString": "react-native ios android i18n i18next i18n-react l10n language per-app hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/galio-org/galio",
     "ios": true,
     "android": true,
     "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-animated-ptr",
+    "npmPkg": "galio-framework",
     "github": {
       "urls": {
-        "repo": "https://github.com/evetstech/react-native-animated-ptr",
-        "clone": "https://github.com/evetstech/react-native-animated-ptr.git",
-        "homepage": "https://evetstech.github.io/react-native-animated-ptr/"
+        "repo": "https://github.com/galio-org/galio",
+        "clone": "https://github.com/galio-org/galio.git",
+        "homepage": "https://galio.io/"
       },
       "stats": {
         "hasIssues": true,
         "hasWiki": true,
         "hasPages": true,
         "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-12-08T12:10:47Z",
-        "createdAt": "2016-08-16T18:06:29Z",
-        "pushedAt": "2018-04-10T13:24:38Z",
-        "issues": 4,
-        "subscribers": 4,
-        "stars": 150,
-        "forks": 17
+        "hasTopics": true,
+        "updatedAt": "2022-03-30T10:42:35Z",
+        "createdAt": "2018-06-17T16:14:11Z",
+        "pushedAt": "2022-03-30T10:42:35Z",
+        "forks": 315,
+        "issues": 44,
+        "subscribers": 55,
+        "stars": 3111
       },
-      "name": "react-native-animated-ptr",
-      "fullName": "evetstech/react-native-animated-ptr",
-      "description": "an easy-to-create custom animated pull to refresh component",
-      "topics": [],
+      "name": "galio",
+      "fullName": "galio-org/galio",
+      "description": "Galio is a beautifully designed, Free and Open Source React Native Framework",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "component-library",
+        "ui-kit",
+        "bootstrap",
+        "react",
+        "expo",
+        "galio",
+        "mobile-development",
+        "reactnative",
+        "react-native-app",
+        "react-native-ui"
+      ],
       "license": {
         "key": "mit",
         "name": "MIT License",
         "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
+        "url": "http://choosealicense.com/licenses/mit/",
         "id": "MDc6TGljZW5zZTEz"
       },
       "lastRelease": {
-        "name": "Listeners listeners",
-        "tagName": "1.1.0",
-        "createdAt": "2016-11-10T17:32:43Z",
-        "publishedAt": "2016-11-10T17:34:51Z",
+        "name": "v0.8.1",
+        "tagName": "v0.8.1",
+        "createdAt": "2022-03-30T11:06:58Z",
+        "publishedAt": "2022-03-30T11:08:29Z",
         "isPrerelease": false
       },
       "hasTypes": false,
       "newArchitecture": false
     },
+    "images": [],
     "npm": {
-      "downloads": 13,
-      "weekDownloads": 1,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
+      "downloads": 3429,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 680
     },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.854
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.052,
+    "topicSearchString": "android ios react-native component-library ui-kit bootstrap react expo galio mobile-development reactnative react-native-app react-native-ui",
+    "matchScore": 110,
+    "category": [
+      "framework"
+    ]
   }
 ]
