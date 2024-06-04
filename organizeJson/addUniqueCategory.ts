@@ -86,7 +86,7 @@ export const addUniqueCategory = async () => {
     const existingCategories = Object.keys(uniqueCategories);
     // Print existing categories in 6 columns
     console.log("Existing Categories:");
-    printColumns(existingCategories, 6);
+    printColumns(existingCategories, 5);
 
     console.log(`Library ${underline}${i + 1}/${libraries.length}${reset}:`);
     console.log(`GitHub URL: ${green}${underline}${library.githubUrl}${reset}`);

@@ -28,7 +28,8 @@
     "https://github.com/expo/expo/tree/main/packages/expo-app-auth",
     "https://github.com/expo/expo/tree/main/packages/expo-google-app-auth",
     "https://github.com/SectionTN/otp-input",
-    "https://github.com/jodybrewster/react-native-linkedin-login"
+    "https://github.com/jodybrewster/react-native-linkedin-login",
+    "https://github.com/sbycrosz/react-native-credit-card-input"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -63,7 +64,8 @@
   "form": [
     "https://github.com/CareLuLu/react-native-web-jsonschema-form",
     "https://github.com/MAKARD/react-native-formawesome",
-    "https://github.com/bietkul/react-reactive-form"
+    "https://github.com/bietkul/react-reactive-form",
+    "https://github.com/FaridSafi/react-native-gifted-form"
   ],
   "map": [
     "https://github.com/huextrat/react-native-maps-routes",
@@ -85,7 +87,8 @@
     "https://github.com/surialabs/react-native-geo-fencing",
     "https://github.com/homeeondemand/react-native-mapbox-navigation",
     "https://github.com/pavel-corsaghin/react-native-leaflet",
-    "https://github.com/tolu360/react-native-google-places"
+    "https://github.com/tolu360/react-native-google-places",
+    "https://github.com/FaridSafi/react-native-google-places-autocomplete"
   ],
   "camera": [
     "https://github.com/expo/expo/tree/main/packages/expo-camera",
@@ -198,7 +201,8 @@
     "https://github.com/expo/expo/tree/main/packages/expo-ads-admob"
   ],
   "header": [
-    "https://github.com/codeherence/react-native-header"
+    "https://github.com/codeherence/react-native-header",
+    "https://github.com/bamlab/react-native-image-header-scroll-view"
   ],
   "i18n": [
     "https://github.com/facebook/fbt",
@@ -215,7 +219,9 @@
   "popup-menu": [
     "https://github.com/react-native-menu/menu",
     "https://github.com/dominicstop/react-native-ios-context-menu",
-    "https://github.com/prscX/react-native-popover-menu"
+    "https://github.com/prscX/react-native-popover-menu",
+    "https://github.com/mastermoo/react-native-action-button",
+    "https://github.com/instea/react-native-popup-menu"
   ],
   "cloud": [
     "https://github.com/XHMM/react-native-cloud-store",
@@ -250,7 +256,8 @@
     "https://github.com/stephy/CalendarPicker",
     "https://github.com/maggialejandro/react-native-month",
     "https://github.com/vonovak/react-native-add-calendar-event",
-    "https://github.com/maggialejandro/react-native-calendario"
+    "https://github.com/maggialejandro/react-native-calendario",
+    "https://github.com/BugiDev/react-native-calendar-strip"
   ],
   "ratings": [
     "https://github.com/Monte9/react-native-ratings"
@@ -321,7 +328,9 @@
     "https://github.com/airbnb/native-navigation",
     "https://github.com/wix/react-native-navigation",
     "https://github.com/rnc-archive/react-native-drawer-layout",
-    "https://github.com/expo/ex-navigation"
+    "https://github.com/expo/ex-navigation",
+    "https://github.com/rnc-archive/react-native-side-menu",
+    "https://github.com/aksonov/react-native-router-flux"
   ],
   "store-review": [
     "https://github.com/expo/expo/tree/main/packages/expo-store-review"
@@ -415,7 +424,8 @@
     "https://github.com/flyerhq/react-native-chat-ui"
   ],
   "slider": [
-    "https://github.com/alantoa/react-native-awesome-slider"
+    "https://github.com/alantoa/react-native-awesome-slider",
+    "https://github.com/jeanregisser/react-native-slider"
   ],
   "bottom-sheet": [
     "https://github.com/StefanoMartella/react-native-simple-bottom-sheet",
@@ -431,7 +441,8 @@
     "https://github.com/PedroBern/react-native-collapsible-tab-view",
     "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view",
     "https://github.com/richardvclam/react-native-resegmented-control",
-    "https://github.com/timomeh/react-native-material-bottom-navigation"
+    "https://github.com/timomeh/react-native-material-bottom-navigation",
+    "https://github.com/skv-headless/react-native-scrollable-tab-view"
   ],
   "draggable-grid": [
     "https://github.com/SHISME/react-native-draggable-grid",
@@ -472,7 +483,10 @@
     "https://github.com/n4kz/react-native-material-textfield",
     "https://github.com/benhurott/react-native-masked-text",
     "https://github.com/wix/react-native-autogrow-textinput",
-    "https://github.com/halilb/react-native-textinput-effects"
+    "https://github.com/halilb/react-native-textinput-effects",
+    "https://github.com/joshswan/react-native-autolink",
+    "https://github.com/obipawan/react-native-hyperlink",
+    "https://github.com/expo/react-native-read-more-text"
   ],
   "text-editor": [
     "https://github.com/imnapo/react-native-cn-quill"
@@ -489,7 +503,9 @@
     "https://github.com/jacklam718/react-native-popup-dialog",
     "https://github.com/maxs15/react-native-modalbox",
     "https://github.com/react-native-modal/react-native-modal",
-    "https://github.com/aakashns/react-native-dialogs"
+    "https://github.com/aakashns/react-native-dialogs",
+    "https://github.com/testshallpass/react-native-dropdownalert",
+    "https://github.com/maxjvh/react-native-simple-modal"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -502,7 +518,10 @@
   ],
   "circular-progress-gauge": [
     "https://github.com/dimaportenko/react-native-liquid-gauge",
-    "https://github.com/bartgryszko/react-native-circular-slider"
+    "https://github.com/bartgryszko/react-native-circular-slider",
+    "https://github.com/oblador/react-native-progress",
+    "https://github.com/bartgryszko/react-native-circular-progress",
+    "https://github.com/JackPu/react-native-percentage-circle"
   ],
   "threeD-touch": [
     "https://github.com/jordanbyron/react-native-quick-actions"
@@ -539,7 +558,12 @@
     "https://github.com/n4kz/react-native-pages",
     "https://github.com/silentcloud/react-native-page-control",
     "https://github.com/archriss/react-native-snap-carousel",
-    "https://github.com/fuyaode/react-native-app-intro"
+    "https://github.com/fuyaode/react-native-app-intro",
+    "https://github.com/zbtang/React-Native-ViewPager",
+    "https://github.com/meteor-factory/react-native-tinder-swipe-cards",
+    "https://github.com/leecade/react-native-swiper",
+    "https://github.com/olivierlesnicki/react-native-switcher",
+    "https://github.com/appintheair/react-native-looped-carousel"
   ],
   "reader-mode": [
     "https://github.com/A11yWatch/react-native-reader"
@@ -569,7 +593,9 @@
     "https://github.com/vonovak/react-navigation-header-buttons"
   ],
   "chart-graph": [
-    "https://github.com/codesinghanoop/react-native-d3multiline-chart"
+    "https://github.com/codesinghanoop/react-native-d3multiline-chart",
+    "https://github.com/capitalone/react-native-pathjs-charts",
+    "https://github.com/FormidableLabs/victory-native"
   ],
   "bottom-toolbar": [
     "https://github.com/vonovak/react-native-bottom-toolbar"
@@ -580,7 +606,10 @@
   "button": [
     "https://github.com/prscX/react-native-shine-button",
     "https://github.com/prscX/react-native-download-button",
-    "https://github.com/Noitidart/react-native-buttonex"
+    "https://github.com/Noitidart/react-native-buttonex",
+    "https://github.com/jacklam718/react-native-button-component",
+    "https://github.com/dancormier/react-native-swipeout",
+    "https://github.com/APSL/react-native-button"
   ],
   "spruce": [
     "https://github.com/prscX/react-native-spruce"
@@ -635,6 +664,19 @@
     "https://github.com/Kerumen/react-native-awesome-card-io"
   ],
   "listview": [
-    "https://github.com/deanmcpherson/react-native-sortable-listview"
+    "https://github.com/deanmcpherson/react-native-sortable-listview",
+    "https://github.com/gitim/react-native-sortable-list"
+  ],
+  "fold-view": [
+    "https://github.com/jmurzy/react-native-foldview"
+  ],
+  "html-as-native": [
+    "https://github.com/Thomas101/react-native-fence-html"
+  ],
+  "checkbox": [
+    "https://github.com/crazycodeboy/react-native-check-box"
+  ],
+  "loader-spinner": [
+    "https://github.com/mohebifar/react-native-loader"
   ]
 }
