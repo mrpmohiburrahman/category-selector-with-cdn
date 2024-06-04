@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 import { Library } from "../types";
 import { fileURLToPath } from "url";
-import * as readline from "readline";
+import autocomplete from "inquirer-autocomplete-standalone";
 
 const green = "\x1b[32m";
 const underline = "\x1b[4m";
@@ -14,19 +14,30 @@ const getDirName = (metaUrl: string) => {
   return path.dirname(__filename);
 };
 
-// Function to prompt user for input
-const promptUser = (query: string): Promise<string> => {
-  const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout,
-  });
+// Define a type for the table rows
+type TableRow = {
+  [key: string]: string;
+};
 
-  return new Promise((resolve) =>
-    rl.question(query, (ans: string) => {
-      rl.close();
-      resolve(ans);
-    })
-  );
+// Function to format and print options in columns using console.table
+const printColumns = (options: string[], columns: number) => {
+  const rows = Math.ceil(options.length / columns);
+  const table: TableRow[] = [];
+
+  for (let i = 0; i < rows; i++) {
+    const row: TableRow = {};
+    for (let j = 0; j < columns; j++) {
+      const index = i + j * rows;
+      if (index < options.length) {
+        row[`Column ${j + 1}`] = options[index];
+      } else {
+        row[`Column ${j + 1}`] = "";
+      }
+    }
+    table.push(row);
+  }
+
+  console.table(table);
 };
 
 // Main function to process libraries and add unique category
@@ -80,27 +91,58 @@ export const addUniqueCategory = async () => {
       }${reset}`
     );
 
-    const uniqueCategory = await promptUser(
-      "Enter a unique category for this library: "
-    );
+    const existingCategories = Object.keys(uniqueCategories);
 
-    // Skip if the user pressed enter without typing anything
-    if (!uniqueCategory.trim()) {
+    // Print existing categories in 6 columns
+    console.log("Existing Categories:");
+    printColumns(existingCategories, 6);
+
+    const answer = await autocomplete({
+      message:
+        "Enter a unique category for this library (or type 'Skip' to skip):",
+      // pageSize: 100,
+      source: async (input: string | undefined) => {
+        input = input || "";
+        const filteredCategories = existingCategories.filter((category) =>
+          category.toLowerCase().includes(input.toLowerCase())
+        );
+        if (filteredCategories.length === 0 && input) {
+          return [{ value: input, name: `Add new option: "${input}"` }];
+        }
+        return [
+          { value: "Skip", name: "Skip" },
+          ...filteredCategories.map((category) => ({
+            value: category,
+            name: category,
+          })),
+        ];
+      },
+    });
+
+    const uniqueCategory =
+      answer === "Skip"
+        ? "Skip"
+        : answer.startsWith("Add new option:")
+        ? answer.match(/Add new option: "(.*)"/)[1]
+        : answer;
+
+    if (uniqueCategory === "Skip") {
       console.log(
-        `No unique category entered. Skipping library  ${underline}${i + 1}/${
+        `Skipping library ${underline}${i + 1}/${
           libraries.length
         }${reset}: ${underline}${library.githubUrl}${reset}`
       );
       continue;
     }
 
-    library["uniqueCategory"] = uniqueCategory;
-
-    if (uniqueCategories[uniqueCategory]) {
-      uniqueCategories[uniqueCategory].push(library.githubUrl);
-    } else {
-      uniqueCategories[uniqueCategory] = [library.githubUrl];
+    console.log(`🚀 ~ addUniqueCategory ~ answer:`, answer);
+    // If the category is not in the existing categories, add it as a new unique category
+    if (!uniqueCategories[uniqueCategory]) {
+      uniqueCategories[uniqueCategory] = [];
     }
+    uniqueCategories[uniqueCategory].push(library.githubUrl);
+
+    library["uniqueCategory"] = uniqueCategory;
 
     // Write updated unique categories to uniqueCategoryToLib.json
     fs.writeFileSync(

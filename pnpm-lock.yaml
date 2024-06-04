@@ -20,6 +20,9 @@ importers:
       inquirer:
         specifier: ^9.2.22
         version: 9.2.22
+      inquirer-autocomplete-standalone:
+        specifier: ^0.8.1
+        version: 0.8.1
       inquirer-select-pro:
         specifier: 1.0.0-alpha.4
         version: 1.0.0-alpha.4
@@ -190,6 +193,10 @@ packages:
     cpu: [x64]
     os: [win32]
 
+  '@inquirer/core@3.1.2':
+    resolution: {integrity: sha512-lR2GaqBkp42Ew9BOAOqf2pSp+ymVES1qN8OC90WWh45yeoYLl0Ty1GyCxmkKqBJtq/+Ea1MF12AdFcZcpRNFsw==}
+    engines: {node: '>=14.18.0'}
+
   '@inquirer/core@8.2.1':
     resolution: {integrity: sha512-TIcuQMn2qrtyYe0j136UpHeYpk7AcR/trKeT/7YY0vRgcS9YSfJuQ2+PudPhSofLLsHNnRYAHScQCcVZrJkMqA==}
     engines: {node: '>=18'}
@@ -282,6 +289,9 @@ packages:
 
   '@types/inquirer@9.0.7':
     resolution: {integrity: sha512-Q0zyBupO6NxGRZut/JdmqYKOnN95Eg5V8Csg3PGKkP+FnvsUZx1jAyK7fztIszxxMuoBA6E3KXWvdZVXIpx60g==}
+
+  '@types/mute-stream@0.0.1':
+    resolution: {integrity: sha512-0yQLzYhCqGz7CQPE3iDmYjhb7KMBFOP+tBkyw+/Y2YyDI5wpS7itXXxneN1zSsUwWx3Ji6YiVYrhAnpQGS/vkw==}
 
   '@types/mute-stream@0.0.4':
     resolution: {integrity: sha512-CPM9nzrCPPJHQNA9keH9CVkVI+WR5kMa+7XEs5jcGQ0VoAGnLv242w8lIVgwAEfmE4oufJRaTc9PNLQl0ioAow==}
@@ -428,6 +438,14 @@ packages:
     engines: {node: '>=12'}
     hasBin: true
 
+  escape-string-regexp@1.0.5:
+    resolution: {integrity: sha512-vbRorB5FUQWvla16U8R/qgaFIya2qGzwDrNmCZuYKrbdSUMG6I1ZCGQRefkRVhuOkIGVne7BQ35DSfo1qvJqFg==}
+    engines: {node: '>=0.8.0'}
+
+  escape-string-regexp@5.0.0:
+    resolution: {integrity: sha512-/veY75JbMK4j1yjvuUxuVsiS/hr/4iHs9FTT6cgTexxdE0Ly/glccBAkloH/DofkjRbZU3bnoj38mOmhkZ0lHw==}
+    engines: {node: '>=12'}
+
   external-editor@3.1.0:
     resolution: {integrity: sha512-hMQ4CX1p1izmuLYyZqLMO/qGNw10wSv9QDCPfzXfyFrOaCSSoRfqE1Kf1s5an66J5JZC62NewG+mK49jOCtQew==}
     engines: {node: '>=4'}
@@ -435,6 +453,14 @@ packages:
   fetch-blob@3.2.0:
     resolution: {integrity: sha512-7yAQpD2UMJzLi1Dqv7qFYnPbaPx7ZfFK6PiIxQ4PfkGPyNyl2Ugx+a/umUonmKqjhM4DnfbMvdX6otXq83soQQ==}
     engines: {node: ^12.20 || >= 14.13}
+
+  figures@3.2.0:
+    resolution: {integrity: sha512-yaduQFRKLXYOGgEn6AZau90j3ggSOyiqXU0F9JZfeXYhNa+Jk4X+s45A2zg5jns87GAFa34BBm2kXw4XpNcbdg==}
+    engines: {node: '>=8'}
+
+  figures@5.0.0:
+    resolution: {integrity: sha512-ej8ksPF4x6e5wvK9yevct0UCXh8TTFlWGVLlgjZuoBH1HwjIfKE/IdL5mq89sFA7zELi1VhKpmtDnrs7zWyeyg==}
+    engines: {node: '>=14'}
 
   flexsearch@0.7.43:
     resolution: {integrity: sha512-c5o/+Um8aqCSOXGcZoqZOm+NqtVwNsvVpWv6lfmSclU954O3wvQKxxK8zj74fPaSJbXpSLTs4PRhh+wnoCXnKg==}
@@ -503,6 +529,10 @@ packages:
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
 
+  inquirer-autocomplete-standalone@0.8.1:
+    resolution: {integrity: sha512-mlzwCTiXDX1Cw4yJL5PCq32k23XYLTK8K6BDFoL1a76iJeFB5ul6IoMU9spgdDagl2SM7P6ZaCNjj8VNXRDPOQ==}
+    engines: {node: '>=16'}
+
   inquirer-select-pro@1.0.0-alpha.4:
     resolution: {integrity: sha512-Gu8PP8tZx0YMO6wNoBMo2kc0TEb8MMWjz3JhU7EgG3GoR2CDKCipTEcWh1AVxh3IJ0CNrivYbvTMpENjOzxoog==}
     engines: {node: '>=18.0.0', pnpm: '>=8.15.4'}
@@ -522,6 +552,10 @@ packages:
   is-unicode-supported@0.1.0:
     resolution: {integrity: sha512-knxG2q4UC3u8stRGyAVJCOdxFmv5DZiRcdlIaAQXAbSfJya+OhopNotLQrstBhququ4ZpuKbDc/8S6mgXgPFPw==}
     engines: {node: '>=10'}
+
+  is-unicode-supported@1.3.0:
+    resolution: {integrity: sha512-43r2mRvz+8JRIKnWJ+3j8JtjRKZ6GmjzfaE/qiBJnikNnYv/6bagRJ1kUhNk8R5EX/GkobD+r+sfxCPJsiKBLQ==}
+    engines: {node: '>=12'}
 
   lodash@4.17.21:
     resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
@@ -571,6 +605,9 @@ packages:
   os-tmpdir@1.0.2:
     resolution: {integrity: sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==}
     engines: {node: '>=0.10.0'}
+
+  picocolors@1.0.1:
+    resolution: {integrity: sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==}
 
   proxy-from-env@1.1.0:
     resolution: {integrity: sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==}
@@ -768,6 +805,22 @@ snapshots:
   '@esbuild/win32-x64@0.20.2':
     optional: true
 
+  '@inquirer/core@3.1.2':
+    dependencies:
+      '@inquirer/type': 1.3.2
+      '@types/mute-stream': 0.0.1
+      '@types/node': 20.12.12
+      '@types/wrap-ansi': 3.0.0
+      ansi-escapes: 4.3.2
+      chalk: 4.1.2
+      cli-spinners: 2.9.2
+      cli-width: 4.1.0
+      figures: 3.2.0
+      mute-stream: 1.0.0
+      run-async: 3.0.0
+      strip-ansi: 6.0.1
+      wrap-ansi: 6.2.0
+
   '@inquirer/core@8.2.1':
     dependencies:
       '@inquirer/figures': 1.0.2
@@ -876,6 +929,10 @@ snapshots:
     dependencies:
       '@types/through': 0.0.33
       rxjs: 7.8.1
+
+  '@types/mute-stream@0.0.1':
+    dependencies:
+      '@types/node': 20.12.12
 
   '@types/mute-stream@0.0.4':
     dependencies:
@@ -1029,6 +1086,10 @@ snapshots:
       '@esbuild/win32-ia32': 0.20.2
       '@esbuild/win32-x64': 0.20.2
 
+  escape-string-regexp@1.0.5: {}
+
+  escape-string-regexp@5.0.0: {}
+
   external-editor@3.1.0:
     dependencies:
       chardet: 0.7.0
@@ -1039,6 +1100,15 @@ snapshots:
     dependencies:
       node-domexception: 1.0.0
       web-streams-polyfill: 3.3.3
+
+  figures@3.2.0:
+    dependencies:
+      escape-string-regexp: 1.0.5
+
+  figures@5.0.0:
+    dependencies:
+      escape-string-regexp: 5.0.0
+      is-unicode-supported: 1.3.0
 
   flexsearch@0.7.43: {}
 
@@ -1097,6 +1167,13 @@ snapshots:
 
   inherits@2.0.4: {}
 
+  inquirer-autocomplete-standalone@0.8.1:
+    dependencies:
+      '@inquirer/core': 3.1.2
+      '@inquirer/type': 1.3.2
+      figures: 5.0.0
+      picocolors: 1.0.1
+
   inquirer-select-pro@1.0.0-alpha.4:
     dependencies:
       '@inquirer/core': 8.2.1
@@ -1128,6 +1205,8 @@ snapshots:
   is-interactive@1.0.0: {}
 
   is-unicode-supported@0.1.0: {}
+
+  is-unicode-supported@1.3.0: {}
 
   lodash@4.17.21: {}
 
@@ -1177,6 +1256,8 @@ snapshots:
       wcwidth: 1.0.1
 
   os-tmpdir@1.0.2: {}
+
+  picocolors@1.0.1: {}
 
   proxy-from-env@1.1.0: {}
 
