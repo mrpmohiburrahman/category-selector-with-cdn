@@ -27,7 +27,8 @@
     "https://github.com/auth0/react-native-auth0",
     "https://github.com/expo/expo/tree/main/packages/expo-app-auth",
     "https://github.com/expo/expo/tree/main/packages/expo-google-app-auth",
-    "https://github.com/SectionTN/otp-input"
+    "https://github.com/SectionTN/otp-input",
+    "https://github.com/jodybrewster/react-native-linkedin-login"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -61,7 +62,8 @@
   ],
   "form": [
     "https://github.com/CareLuLu/react-native-web-jsonschema-form",
-    "https://github.com/MAKARD/react-native-formawesome"
+    "https://github.com/MAKARD/react-native-formawesome",
+    "https://github.com/bietkul/react-reactive-form"
   ],
   "map": [
     "https://github.com/huextrat/react-native-maps-routes",
@@ -184,7 +186,8 @@
     "https://github.com/adobe/react-native-acpmedia",
     "https://github.com/lwansbrough/react-native-google-analytics",
     "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics",
-    "https://github.com/Instabug/instabug-reactnative"
+    "https://github.com/Instabug/instabug-reactnative",
+    "https://github.com/davodesign84/react-native-mixpanel"
   ],
   "babylonjs": [
     "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
@@ -211,7 +214,8 @@
   ],
   "popup-menu": [
     "https://github.com/react-native-menu/menu",
-    "https://github.com/dominicstop/react-native-ios-context-menu"
+    "https://github.com/dominicstop/react-native-ios-context-menu",
+    "https://github.com/prscX/react-native-popover-menu"
   ],
   "cloud": [
     "https://github.com/XHMM/react-native-cloud-store",
@@ -231,7 +235,8 @@
     "https://github.com/invertase/react-native-firebase/tree/main/packages/messaging"
   ],
   "push-notifications": [
-    "https://github.com/aws-amplify/amplify-js/tree/master/packages/pushnotification"
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/pushnotification",
+    "https://github.com/geektimecoil/react-native-onesignal"
   ],
   "payments": [
     "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments",
@@ -243,7 +248,9 @@
   "calendar": [
     "https://github.com/wix/react-native-calendars",
     "https://github.com/stephy/CalendarPicker",
-    "https://github.com/maggialejandro/react-native-month"
+    "https://github.com/maggialejandro/react-native-month",
+    "https://github.com/vonovak/react-native-add-calendar-event",
+    "https://github.com/maggialejandro/react-native-calendario"
   ],
   "ratings": [
     "https://github.com/Monte9/react-native-ratings"
@@ -264,7 +271,8 @@
     "https://github.com/microsoft/fluentui-react-native",
     "https://github.com/galio-org/galio",
     "https://github.com/OsmiCSX/osmicsx",
-    "https://github.com/prscX/react-native-material-shadows"
+    "https://github.com/prscX/react-native-material-shadows",
+    "https://github.com/callstack/react-native-paper"
   ],
   "image-video-file-picker": [
     "https://github.com/jeanpan/react-native-camera-roll-picker",
@@ -272,7 +280,8 @@
     "https://github.com/baronha/react-native-multiple-image-picker",
     "https://github.com/ivpusic/react-native-image-crop-picker",
     "https://github.com/shijingsh/react-native-customized-image-picker",
-    "https://github.com/prscX/react-native-file-selector"
+    "https://github.com/prscX/react-native-file-selector",
+    "https://github.com/react-native-image-picker/react-native-image-picker"
   ],
   "barcode-qrcode-scanner": [
     "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner"
@@ -291,19 +300,28 @@
     "https://github.com/expo/expo/tree/main/packages/expo-av",
     "https://github.com/hirbod/expo-video-metadata",
     "https://github.com/imgly/vesdk-react-native",
-    "https://github.com/wcisco17/react-native-animation-video"
+    "https://github.com/wcisco17/react-native-animation-video",
+    "https://github.com/react-native-video/react-native-video"
   ],
   "keep-awake": [
     "https://github.com/expo/expo/tree/main/packages/expo-keep-awake"
   ],
   "screen-orientation": [
-    "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation"
+    "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation",
+    "https://github.com/wonday/react-native-orientation-locker"
   ],
   "sceen-capture": [
     "https://github.com/expo/expo/tree/main/packages/expo-screen-capture"
   ],
   "navigation": [
-    "https://github.com/expo/expo/tree/main/packages/expo-router"
+    "https://github.com/expo/expo/tree/main/packages/expo-router",
+    "https://github.com/vonovak/react-navigation-props-mapper",
+    "https://github.com/root-two/react-native-drawer",
+    "https://github.com/react-navigation/react-navigation/tree/main/packages/native",
+    "https://github.com/airbnb/native-navigation",
+    "https://github.com/wix/react-native-navigation",
+    "https://github.com/rnc-archive/react-native-drawer-layout",
+    "https://github.com/expo/ex-navigation"
   ],
   "store-review": [
     "https://github.com/expo/expo/tree/main/packages/expo-store-review"
@@ -400,7 +418,8 @@
     "https://github.com/alantoa/react-native-awesome-slider"
   ],
   "bottom-sheet": [
-    "https://github.com/StefanoMartella/react-native-simple-bottom-sheet"
+    "https://github.com/StefanoMartella/react-native-simple-bottom-sheet",
+    "https://github.com/prscX/react-native-bottom-action-sheet"
   ],
   "animated-numbers": [
     "https://github.com/heyman333/react-native-animated-numbers"
@@ -411,7 +430,8 @@
   "tab-view": [
     "https://github.com/PedroBern/react-native-collapsible-tab-view",
     "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view",
-    "https://github.com/richardvclam/react-native-resegmented-control"
+    "https://github.com/richardvclam/react-native-resegmented-control",
+    "https://github.com/timomeh/react-native-material-bottom-navigation"
   ],
   "draggable-grid": [
     "https://github.com/SHISME/react-native-draggable-grid",
@@ -448,7 +468,11 @@
   ],
   "text": [
     "https://github.com/bluesky-social/react-native-uitextview",
-    "https://github.com/prscX/react-native-morphing-text"
+    "https://github.com/prscX/react-native-morphing-text",
+    "https://github.com/n4kz/react-native-material-textfield",
+    "https://github.com/benhurott/react-native-masked-text",
+    "https://github.com/wix/react-native-autogrow-textinput",
+    "https://github.com/halilb/react-native-textinput-effects"
   ],
   "text-editor": [
     "https://github.com/imnapo/react-native-cn-quill"
@@ -461,7 +485,11 @@
     "https://github.com/RafaelAugustoS/react-native-popup-ui",
     "https://github.com/MAKARD/react-native-toastboard",
     "https://github.com/prscX/react-native-styled-dialogs",
-    "https://github.com/vonovak/react-native-simple-toast"
+    "https://github.com/vonovak/react-native-simple-toast",
+    "https://github.com/jacklam718/react-native-popup-dialog",
+    "https://github.com/maxs15/react-native-modalbox",
+    "https://github.com/react-native-modal/react-native-modal",
+    "https://github.com/aakashns/react-native-dialogs"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -473,7 +501,8 @@
     "https://github.com/ExtrieveTechnologies/QuickCapture_react_native"
   ],
   "circular-progress-gauge": [
-    "https://github.com/dimaportenko/react-native-liquid-gauge"
+    "https://github.com/dimaportenko/react-native-liquid-gauge",
+    "https://github.com/bartgryszko/react-native-circular-slider"
   ],
   "threeD-touch": [
     "https://github.com/jordanbyron/react-native-quick-actions"
@@ -486,7 +515,8 @@
   ],
   "flex-grid": [
     "https://github.com/a-tokyo/react-native-flex-grid",
-    "https://github.com/alexfoxy/react-native-units"
+    "https://github.com/alexfoxy/react-native-units",
+    "https://github.com/idibidiart/react-native-responsive-grid"
   ],
   "debug": [
     "https://github.com/onubo/react-native-logs"
@@ -501,10 +531,15 @@
   "slash-screen": [
     "https://github.com/crazycodeboy/react-native-splash-screen"
   ],
-  "carousel-swiper-slider": [
+  "carousel-swiper": [
     "https://github.com/intellidev1991/react-native-image-slider-box",
     "https://github.com/kristerkari/pinar",
-    "https://github.com/kkemple/react-native-sideswipe"
+    "https://github.com/kkemple/react-native-sideswipe",
+    "https://github.com/meinto/react-native-viewpager-carousel",
+    "https://github.com/n4kz/react-native-pages",
+    "https://github.com/silentcloud/react-native-page-control",
+    "https://github.com/archriss/react-native-snap-carousel",
+    "https://github.com/fuyaode/react-native-app-intro"
   ],
   "reader-mode": [
     "https://github.com/A11yWatch/react-native-reader"
@@ -529,5 +564,77 @@
   ],
   "fbsdk": [
     "https://github.com/facebook/react-native-fbsdk"
+  ],
+  "react-navigation-header": [
+    "https://github.com/vonovak/react-navigation-header-buttons"
+  ],
+  "chart-graph": [
+    "https://github.com/codesinghanoop/react-native-d3multiline-chart"
+  ],
+  "bottom-toolbar": [
+    "https://github.com/vonovak/react-native-bottom-toolbar"
+  ],
+  "facepile-ui": [
+    "https://github.com/peterpme/react-native-face-pile"
+  ],
+  "button": [
+    "https://github.com/prscX/react-native-shine-button",
+    "https://github.com/prscX/react-native-download-button",
+    "https://github.com/Noitidart/react-native-buttonex"
+  ],
+  "spruce": [
+    "https://github.com/prscX/react-native-spruce"
+  ],
+  "typography-font": [
+    "https://github.com/hectahertz/react-native-typography"
+  ],
+  "event-listener": [
+    "https://github.com/meinto/react-native-event-listeners"
+  ],
+  "capture-signature": [
+    "https://github.com/RepairShopr/react-native-signature-capture"
+  ],
+  "pdf": [
+    "https://github.com/wonday/react-native-pdf",
+    "https://github.com/cnjon/react-native-pdf-view"
+  ],
+  "select-multiselect": [
+    "https://github.com/toystars/react-native-multiple-select"
+  ],
+  "keyboard": [
+    "https://github.com/Andr3wHur5t/react-native-keyboard-spacer"
+  ],
+  "webgl-shaders": [
+    "https://github.com/gre/gl-react"
+  ],
+  "animated-libraries": [
+    "https://github.com/lottie-react-native/lottie-react-native",
+    "https://github.com/oblador/react-native-animatable",
+    "https://github.com/mosesoak/react-native-conductor"
+  ],
+  "linear-progress-view": [
+    "https://github.com/24ark/react-native-step-indicator"
+  ],
+  "option-picker": [
+    "https://github.com/jkomyno/react-native-universal-picker"
+  ],
+  "sibling-element-manager": [
+    "https://github.com/magicismight/react-native-root-siblings"
+  ],
+  "tcp": [
+    "https://github.com/PeelTechnologies/react-native-tcp"
+  ],
+  "bluetooth": [
+    "https://github.com/innoveit/react-native-ble-manager"
+  ],
+  "mail": [
+    "https://github.com/chirag04/react-native-mail"
+  ],
+  "cardio": [
+    "https://github.com/kayla-tech/react-native-card-io",
+    "https://github.com/Kerumen/react-native-awesome-card-io"
+  ],
+  "listview": [
+    "https://github.com/deanmcpherson/react-native-sortable-listview"
   ]
 }

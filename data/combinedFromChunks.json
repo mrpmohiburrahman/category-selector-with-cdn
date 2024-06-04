@@ -11537,7 +11537,7 @@
     "category": [
       "react-native-component"
     ],
-    "uniqueCategory": "carousel-swiper-slider"
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
@@ -24309,7 +24309,7 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.02,
-    "uniqueCategory": "carousel-swiper-slider"
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/everdrone/react-native-super-ellipse-mask",
@@ -25254,7 +25254,8 @@
       "Recently updated"
     ],
     "popularity": -0.018,
-    "category": []
+    "category": [],
+    "uniqueCategory": "react-navigation-header"
   },
   {
     "githubUrl": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
@@ -25336,7 +25337,8 @@
       "running-line-animation",
       "d3js",
       "d3v4"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   {
     "githubUrl": "https://github.com/vonovak/react-native-bottom-toolbar",
@@ -25403,7 +25405,8 @@
     "category": [
       "tabbar",
       "tabs"
-    ]
+    ],
+    "uniqueCategory": "bottom-toolbar"
   },
   {
     "githubUrl": "https://github.com/vonovak/react-navigation-props-mapper",
@@ -25462,7 +25465,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.042
+    "popularity": -0.042,
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/vonovak/react-native-add-calendar-event",
@@ -25530,7 +25534,8 @@
       "event",
       "calendar",
       "events"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-bottom-action-sheet",
@@ -25595,7 +25600,8 @@
       "Recently updated"
     ],
     "popularity": -0.031,
-    "category": []
+    "category": [],
+    "uniqueCategory": "bottom-sheet"
   },
   {
     "githubUrl": "https://github.com/callstack/react-native-paper",
@@ -25674,7 +25680,8 @@
     "popularity": -0.028,
     "category": [
       "ui-kit"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-popover-menu",
@@ -25737,7 +25744,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.457,
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-menu"
   },
   {
     "githubUrl": "https://github.com/peterpme/react-native-face-pile",
@@ -25797,7 +25805,8 @@
       "No license"
     ],
     "popularity": 0.006,
-    "category": []
+    "category": [],
+    "uniqueCategory": "facepile-ui"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-shine-button",
@@ -25862,7 +25871,8 @@
       "Recently updated"
     ],
     "popularity": -0.395,
-    "category": []
+    "category": [],
+    "uniqueCategory": "button"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-download-button",
@@ -25920,7 +25930,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.421
+    "popularity": -0.421,
+    "uniqueCategory": "button"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-spruce",
@@ -25983,7 +25994,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.146,
-    "category": []
+    "category": [],
+    "uniqueCategory": "spruce"
   },
   {
     "githubUrl": "https://github.com/bietkul/react-reactive-form",
@@ -26069,7 +26081,8 @@
       "form-generator",
       "form-controls",
       "form-fields"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   {
     "githubUrl": "https://github.com/hectahertz/react-native-typography",
@@ -26143,7 +26156,8 @@
     "category": [
       "typography",
       "typography-themes"
-    ]
+    ],
+    "uniqueCategory": "typography-font"
   },
   {
     "githubUrl": "https://github.com/Noitidart/react-native-buttonex",
@@ -26200,7 +26214,8 @@
       "Not updated recently"
     ],
     "popularity": -1.006,
-    "category": []
+    "category": [],
+    "uniqueCategory": "button"
   },
   {
     "githubUrl": "https://github.com/meinto/react-native-mirror",
@@ -26333,7 +26348,8 @@
       "swipe",
       "swipeview",
       "viewpager"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/meinto/react-native-event-listeners",
@@ -26396,7 +26412,8 @@
     "popularity": -0.022,
     "category": [
       "event-listener"
-    ]
+    ],
+    "uniqueCategory": "event-listener"
   },
   {
     "githubUrl": "https://github.com/RepairShopr/react-native-signature-capture",
@@ -26452,7 +26469,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "uniqueCategory": "capture-signature"
   },
   {
     "githubUrl": "https://github.com/wonday/react-native-pdf",
@@ -26526,7 +26544,8 @@
     "popularity": -0.022,
     "category": [
       "pdf"
-    ]
+    ],
+    "uniqueCategory": "pdf"
   },
   {
     "githubUrl": "https://github.com/toystars/react-native-multiple-select",
@@ -26588,7 +26607,8 @@
       "Popular",
       "Lots of open issues"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "uniqueCategory": "select-multiselect"
   },
   {
     "githubUrl": "https://github.com/wonday/react-native-orientation-locker",
@@ -26661,7 +26681,8 @@
     "popularity": -0.015,
     "category": [
       "orientation"
-    ]
+    ],
+    "uniqueCategory": "screen-orientation"
   },
   {
     "githubUrl": "https://github.com/geektimecoil/react-native-onesignal",
@@ -26744,7 +26765,8 @@
       "push-notifications",
       "onesignal-notifications",
       "notifications"
-    ]
+    ],
+    "uniqueCategory": "push-notifications"
   },
   {
     "githubUrl": "https://github.com/jodybrewster/react-native-linkedin-login",
@@ -26812,7 +26834,8 @@
     "category": [
       "linkedin-sdk",
       "linkedin"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/root-two/react-native-drawer",
@@ -26876,7 +26899,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.312
+    "popularity": -0.312,
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/react-native-image-picker/react-native-image-picker",
@@ -26951,7 +26975,8 @@
     "category": [
       "image-picker",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
@@ -27026,7 +27051,8 @@
     "popularity": -0.288,
     "category": [
       "keyboard"
-    ]
+    ],
+    "uniqueCategory": "keyboard"
   },
   {
     "githubUrl": "https://github.com/davodesign84/react-native-mixpanel",
@@ -27095,7 +27121,8 @@
     "category": [
       "mixpanel-sdk",
       "mixpanel-ios-sdk"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "nameOverride": "react-navigation",
@@ -27177,7 +27204,8 @@
     "category": [
       "react-navigation",
       "navigation"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/airbnb/native-navigation",
@@ -27242,7 +27270,8 @@
     "category": [
       "navigation",
       "navigator"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/wix/react-native-navigation",
@@ -27319,7 +27348,8 @@
       "navigation",
       "navigator",
       "react-native-navigation"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/gre/gl-react",
@@ -27389,7 +27419,8 @@
       "Recently updated"
     ],
     "popularity": -0.063,
-    "category": []
+    "category": [],
+    "uniqueCategory": "webgl-shaders"
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-pages",
@@ -27448,7 +27479,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.043,
-    "category": []
+    "category": [],
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/silentcloud/react-native-page-control",
@@ -27501,7 +27533,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.067
+    "popularity": -0.067,
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/lottie-react-native/lottie-react-native",
@@ -27582,7 +27615,8 @@
       "Recently updated"
     ],
     "popularity": -0.027,
-    "category": []
+    "category": [],
+    "uniqueCategory": "animated-libraries"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-animatable",
@@ -27656,7 +27690,8 @@
       "Recently updated"
     ],
     "popularity": -0.029,
-    "category": []
+    "category": [],
+    "uniqueCategory": "animated-libraries"
   },
   {
     "githubUrl": "https://github.com/maggialejandro/react-native-calendario",
@@ -27729,7 +27764,8 @@
     "popularity": -0.072,
     "category": [
       "calendar"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   {
     "githubUrl": "https://github.com/idibidiart/react-native-responsive-grid",
@@ -27804,7 +27840,8 @@
       "orientation-changes",
       "responsive-design",
       "flexbox"
-    ]
+    ],
+    "uniqueCategory": "flex-grid"
   },
   {
     "githubUrl": "https://github.com/24ark/react-native-step-indicator",
@@ -27878,7 +27915,8 @@
       "step",
       "progress-view",
       "listview"
-    ]
+    ],
+    "uniqueCategory": "linear-progress-view"
   },
   {
     "githubUrl": "https://github.com/jacklam718/react-native-popup-dialog",
@@ -27950,7 +27988,8 @@
       "Recently updated"
     ],
     "popularity": -0.031,
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/rnc-archive/react-native-drawer-layout",
@@ -28008,7 +28047,8 @@
     "popularity": -0.288,
     "category": [
       "drawer"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/n4kz/react-native-material-textfield",
@@ -28083,7 +28123,8 @@
       "Recently updated"
     ],
     "popularity": -0.038,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/maxs15/react-native-modalbox",
@@ -28150,7 +28191,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/react-native-modal/react-native-modal",
@@ -28229,7 +28271,8 @@
     "popularity": -0.034,
     "category": [
       "modal"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/bartgryszko/react-native-circular-slider",
@@ -28296,7 +28339,8 @@
     "popularity": -0.083,
     "category": [
       "slider"
-    ]
+    ],
+    "uniqueCategory": "circular-progress-gauge"
   },
   {
     "githubUrl": "https://github.com/archriss/react-native-snap-carousel",
@@ -28379,7 +28423,8 @@
     "category": [
       "carousel",
       "swiper"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/jkomyno/react-native-universal-picker",
@@ -28445,7 +28490,8 @@
       "picker",
       "dropdown",
       "select"
-    ]
+    ],
+    "uniqueCategory": "option-picker"
   },
   {
     "githubUrl": "https://github.com/magicismight/react-native-root-siblings",
@@ -28509,7 +28555,8 @@
       "Recommended",
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "uniqueCategory": "sibling-element-manager"
   },
   {
     "githubUrl": "https://github.com/PeelTechnologies/react-native-tcp",
@@ -28564,7 +28611,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "uniqueCategory": "tcp"
   },
   {
     "githubUrl": "https://github.com/react-native-video/react-native-video",
@@ -28634,7 +28682,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.028
+    "popularity": -0.028,
+    "uniqueCategory": "video"
   },
   {
     "githubUrl": "https://github.com/aakashns/react-native-dialogs",
@@ -28699,7 +28748,8 @@
       "Recently updated"
     ],
     "popularity": 0.036,
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/innoveit/react-native-ble-manager",
@@ -28771,7 +28821,8 @@
     "category": [
       "ble",
       "bluetooth-low-energy"
-    ]
+    ],
+    "uniqueCategory": "bluetooth"
   },
   {
     "githubUrl": "https://github.com/chirag04/react-native-mail",
@@ -28827,7 +28878,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.049
+    "popularity": -0.049,
+    "uniqueCategory": "mail"
   },
   {
     "githubUrl": "https://github.com/cnjon/react-native-pdf-view",
@@ -28879,7 +28931,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.507
+    "popularity": -0.507,
+    "uniqueCategory": "pdf"
   },
   {
     "githubUrl": "https://github.com/kayla-tech/react-native-card-io",
@@ -28929,7 +28982,8 @@
       "No license",
       "Not updated recently"
     ],
-    "popularity": -0.273
+    "popularity": -0.273,
+    "uniqueCategory": "cardio"
   },
   {
     "githubUrl": "https://github.com/Kerumen/react-native-awesome-card-io",
@@ -28989,7 +29043,8 @@
     "popularity": -0.334,
     "category": [
       "card-io"
-    ]
+    ],
+    "uniqueCategory": "cardio"
   },
   {
     "githubUrl": "https://github.com/expo/ex-navigation",
@@ -29042,7 +29097,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.648
+    "popularity": -0.648,
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/benhurott/react-native-masked-text",
@@ -29109,7 +29165,8 @@
       "Lots of open issues"
     ],
     "popularity": -0.021,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/timomeh/react-native-material-bottom-navigation",
@@ -29176,7 +29233,8 @@
       "Recently updated"
     ],
     "popularity": -0.114,
-    "category": []
+    "category": [],
+    "uniqueCategory": "tab-view"
   },
   {
     "githubUrl": "https://github.com/wix/react-native-autogrow-textinput",
@@ -29237,7 +29295,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.064
+    "popularity": -0.064,
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/mosesoak/react-native-conductor",
@@ -29291,7 +29350,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.836
+    "popularity": -0.836,
+    "uniqueCategory": "animated-libraries"
   },
   {
     "githubUrl": "https://github.com/fuyaode/react-native-app-intro",
@@ -29363,7 +29423,8 @@
       "Recently updated"
     ],
     "popularity": -0.759,
-    "category": []
+    "category": [],
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/halilb/react-native-textinput-effects",
@@ -29428,7 +29489,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.045
+    "popularity": -0.045,
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/deanmcpherson/react-native-sortable-listview",
@@ -29484,7 +29546,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.151
+    "popularity": -0.151,
+    "uniqueCategory": "listview"
   },
   {
     "githubUrl": "https://github.com/jmurzy/react-native-foldview",
