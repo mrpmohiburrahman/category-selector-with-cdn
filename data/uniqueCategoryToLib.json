@@ -20,7 +20,8 @@
     "https://github.com/naoufal/react-native-touch-id",
     "https://github.com/fixt/react-native-digits",
     "https://github.com/aws-amplify/amplify-js/tree/master/packages/auth",
-    "https://github.com/dcangulo/react-native-pkce-challenge"
+    "https://github.com/dcangulo/react-native-pkce-challenge",
+    "https://github.com/anday013/react-native-otp-entry"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -121,7 +122,8 @@
     "https://github.com/ihor/react-native-scalable-image"
   ],
   "mongodb": [
-    "https://github.com/realm/realm-js/tree/main/packages/realm"
+    "https://github.com/realm/realm-js/tree/main/packages/realm",
+    "https://github.com/mongodb/stitch-js-sdk"
   ],
   "social-share": [
     "https://github.com/react-native-share/react-native-share",
@@ -129,14 +131,16 @@
   ],
   "icon": [
     "https://github.com/oktaysenkan/react-native-iconify",
-    "https://github.com/expo/vector-icons"
+    "https://github.com/expo/vector-icons",
+    "https://github.com/oblador/react-native-vector-icons"
   ],
   "drag-and-drop": [
     "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view"
   ],
   "analytics": [
     "https://github.com/DataDog/dd-sdk-reactnative",
-    "https://github.com/ximxim/react-native-feedback-reporter"
+    "https://github.com/ximxim/react-native-feedback-reporter",
+    "https://github.com/MetaLabs-inc/react-native-components-tracking"
   ],
   "babylonjs": [
     "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
@@ -151,7 +155,8 @@
     "https://github.com/facebook/fbt"
   ],
   "popup-menu": [
-    "https://github.com/react-native-menu/menu"
+    "https://github.com/react-native-menu/menu",
+    "https://github.com/dominicstop/react-native-ios-context-menu"
   ],
   "cloud": [
     "https://github.com/XHMM/react-native-cloud-store",
@@ -164,7 +169,8 @@
   "db": [
     "https://github.com/invertase/react-native-firebase/tree/main/packages/firestore",
     "https://github.com/invertase/react-native-firebase/tree/main/packages/storage",
-    "https://github.com/invertase/react-native-firebase/tree/main/packages/database"
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/database",
+    "https://github.com/darkrishabh/react-native-db-models"
   ],
   "cloud-messaging": [
     "https://github.com/invertase/react-native-firebase/tree/main/packages/messaging"
@@ -180,7 +186,8 @@
     "https://github.com/ekreative/react-native-braintree"
   ],
   "calendar": [
-    "https://github.com/wix/react-native-calendars"
+    "https://github.com/wix/react-native-calendars",
+    "https://github.com/stephy/CalendarPicker"
   ],
   "ratings": [
     "https://github.com/Monte9/react-native-ratings"
@@ -282,5 +289,48 @@
   ],
   "compress": [
     "https://github.com/iChengbo/react-native-imagemin-asset-plugin"
+  ],
+  "watermelondb": [
+    "https://github.com/Nozbe/WatermelonDB"
+  ],
+  "local-storage": [
+    "https://github.com/ammarahm-ed/react-native-mmkv-storage",
+    "https://github.com/emeraldsanto/react-native-encrypted-storage",
+    "https://github.com/react-native-async-storage/async-storage",
+    "https://github.com/talut/rn-secure-storage",
+    "https://github.com/ahmedrowaihi/react-native-i18n-storage",
+    "https://github.com/apperside/cross-local-storage",
+    "https://github.com/andpor/react-native-sqlite-storage",
+    "https://github.com/jasonmerino/react-native-simple-store",
+    "https://github.com/mrousavy/react-native-mmkv",
+    "https://github.com/timfpark/react-native-cache",
+    "https://github.com/peterpme/react-native-asyncstorage",
+    "https://github.com/sunnylqm/react-native-storage",
+    "https://github.com/artxty/typed-async-storage"
+  ],
+  "shared-group-preferences": [
+    "https://github.com/KjellConnelly/react-native-shared-group-preferences"
+  ],
+  "state-management": [
+    "https://github.com/rt2zz/redux-persist"
+  ],
+  "chat-component": [
+    "https://github.com/GetStream/stream-chat-react-native"
+  ],
+  "slider": [
+    "https://github.com/alantoa/react-native-awesome-slider"
+  ],
+  "bottom-sheet": [
+    "https://github.com/StefanoMartella/react-native-simple-bottom-sheet"
+  ],
+  "animated-numbers": [
+    "https://github.com/heyman333/react-native-animated-numbers"
+  ],
+  "story-view": [
+    "https://github.com/simformSolutionsPvtLtd/react-native-story-view"
+  ],
+  "tab-view": [
+    "https://github.com/PedroBern/react-native-collapsible-tab-view",
+    "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view"
   ]
 }

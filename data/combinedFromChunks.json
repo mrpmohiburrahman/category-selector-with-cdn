@@ -13285,7 +13285,8 @@
     "matchScore": 101,
     "category": [
       "db"
-    ]
+    ],
+    "uniqueCategory": "watermelondb"
   },
   {
     "githubUrl": "https://github.com/darkrishabh/react-native-db-models",
@@ -13356,7 +13357,8 @@
     "matchScore": 0.111,
     "category": [
       "db"
-    ]
+    ],
+    "uniqueCategory": "db"
   },
   {
     "githubUrl": "https://github.com/mongodb/stitch-js-sdk",
@@ -13423,7 +13425,8 @@
     "matchScore": 110,
     "category": [
       "mongodb"
-    ]
+    ],
+    "uniqueCategory": "mongodb"
   },
   {
     "githubUrl": "https://github.com/ammarahm-ed/react-native-mmkv-storage",
@@ -13512,7 +13515,8 @@
     "matchScore": 111,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/emeraldsanto/react-native-encrypted-storage",
@@ -13592,7 +13596,8 @@
     "matchScore": 111,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/react-native-async-storage/async-storage",
@@ -13664,7 +13669,8 @@
     "matchScore": 110,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/talut/rn-secure-storage",
@@ -13741,7 +13747,8 @@
     "matchScore": 110,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
@@ -13813,7 +13820,8 @@
     "matchScore": 110,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/apperside/cross-local-storage",
@@ -13880,7 +13888,8 @@
     "matchScore": 110,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/andpor/react-native-sqlite-storage",
@@ -13960,7 +13969,8 @@
     "matchScore": 101,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/jasonmerino/react-native-simple-store",
@@ -14026,7 +14036,8 @@
     "matchScore": 11,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/mrousavy/react-native-mmkv",
@@ -14094,7 +14105,8 @@
     "matchScore": 10,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/timfpark/react-native-cache",
@@ -14152,7 +14164,8 @@
     "matchScore": 10,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/peterpme/react-native-asyncstorage",
@@ -14217,7 +14230,8 @@
     "matchScore": 0.111,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/sunnylqm/react-native-storage",
@@ -14282,7 +14296,8 @@
     "matchScore": 111,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/artxty/typed-async-storage",
@@ -14355,7 +14370,8 @@
     "matchScore": 111,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   {
     "githubUrl": "https://github.com/KjellConnelly/react-native-shared-group-preferences",
@@ -14415,7 +14431,8 @@
     "matchScore": 10,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "shared-group-preferences"
   },
   {
     "githubUrl": "https://github.com/rt2zz/redux-persist",
@@ -14489,7 +14506,8 @@
     "matchScore": 1,
     "category": [
       "storage"
-    ]
+    ],
+    "uniqueCategory": "state-management"
   },
   {
     "githubUrl": "https://github.com/MetaLabs-inc/react-native-components-tracking",
@@ -14562,7 +14580,8 @@
     "matchScore": 100,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/GetStream/stream-chat-react-native",
@@ -14645,7 +14664,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "chat-component"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-vector-icons",
@@ -14737,7 +14757,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/alantoa/react-native-awesome-slider",
@@ -14820,7 +14841,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "slider"
   },
   {
     "githubUrl": "https://github.com/stephy/CalendarPicker",
@@ -14897,7 +14919,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   {
     "githubUrl": "https://github.com/StefanoMartella/react-native-simple-bottom-sheet",
@@ -14975,7 +14998,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   {
     "githubUrl": "https://github.com/heyman333/react-native-animated-numbers",
@@ -15056,7 +15080,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "animated-numbers"
   },
   {
     "githubUrl": "https://github.com/simformSolutionsPvtLtd/react-native-story-view",
@@ -15156,7 +15181,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "story-view"
   },
   {
     "githubUrl": "https://github.com/dominicstop/react-native-ios-context-menu",
@@ -15261,7 +15287,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "popup-menu"
   },
   {
     "githubUrl": "https://github.com/anday013/react-native-otp-entry",
@@ -15347,7 +15374,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/PedroBern/react-native-collapsible-tab-view",
@@ -15428,7 +15456,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   {
     "githubUrl": "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view",
@@ -15508,7 +15537,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   {
     "githubUrl": "https://github.com/SHISME/react-native-draggable-grid",
