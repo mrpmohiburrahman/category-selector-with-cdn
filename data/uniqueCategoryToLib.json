@@ -19,7 +19,8 @@
     "https://github.com/Bruno-Furtado/react-native-sms-retriever",
     "https://github.com/naoufal/react-native-touch-id",
     "https://github.com/fixt/react-native-digits",
-    "https://github.com/aws-amplify/amplify-js/tree/master/packages/auth"
+    "https://github.com/aws-amplify/amplify-js/tree/master/packages/auth",
+    "https://github.com/dcangulo/react-native-pkce-challenge"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -77,36 +78,65 @@
     "https://github.com/xulihang/vision-camera-dynamsoft-barcode-reader",
     "https://github.com/rodgomesc/vision-camera-qrcode-scanner",
     "https://github.com/rodgomesc/vision-camera-code-scanner",
-    "https://github.com/rodgomesc/vision-camera-face-detector"
+    "https://github.com/rodgomesc/vision-camera-face-detector",
+    "https://github.com/react-native-camera/react-native-camera"
   ],
   "testing": [
-    "https://github.com/callstack/react-native-testing-library"
+    "https://github.com/callstack/react-native-testing-library",
+    "https://github.com/mutualmobile/react-native-barricade",
+    "https://github.com/expo/expo/tree/main/packages/jest-expo",
+    "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer"
   ],
   "expo-updates": [
     "https://github.com/expo/expo/tree/main/packages/expo-updates"
   ],
   "image-editor": [
-    "https://github.com/callstack/react-native-image-editor"
+    "https://github.com/callstack/react-native-image-editor",
+    "https://github.com/brunon80/expo-image-crop",
+    "https://github.com/thomas-coldwell/expo-image-editor",
+    "https://github.com/guhungry/react-native-photo-manipulator",
+    "https://github.com/imgly/pesdk-react-native",
+    "https://github.com/baronha/react-native-photo-editor",
+    "https://github.com/expo/expo/tree/main/packages/expo-image-manipulator",
+    "https://github.com/bamlab/react-native-image-resizer",
+    "https://github.com/JimmyDaddy/react-native-image-marker",
+    "https://github.com/osamaqarem/react-native-image-colors",
+    "https://github.com/GregoryNative/react-native-gl-image-filters"
   ],
   "image": [
     "https://github.com/wKovacs64/react-native-responsive-image-view",
     "https://github.com/dev-yakuza/react-native-image-modal",
-    "https://github.com/vivaxy/react-native-auto-height-image"
+    "https://github.com/vivaxy/react-native-auto-height-image",
+    "https://github.com/candlefinance/faster-image",
+    "https://github.com/likashefqet/react-native-image-zoom",
+    "https://github.com/sbaiahmed1/react-native-image-preview",
+    "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
+    "https://github.com/georstat/react-native-image-cache",
+    "https://github.com/WrathChaos/react-native-progressive-fast-image",
+    "https://github.com/DylanVann/react-native-fast-image",
+    "https://github.com/AndreYonadam/react-native-scrolling-images",
+    "https://github.com/jobtoday/react-native-image-viewing",
+    "https://github.com/wonday/react-native-image-cache-wrapper",
+    "https://github.com/oblador/react-native-image-progress",
+    "https://github.com/ihor/react-native-scalable-image"
   ],
   "mongodb": [
     "https://github.com/realm/realm-js/tree/main/packages/realm"
   ],
   "social-share": [
-    "https://github.com/react-native-share/react-native-share"
+    "https://github.com/react-native-share/react-native-share",
+    "https://github.com/expo/expo/tree/main/packages/expo-sharing"
   ],
   "icon": [
-    "https://github.com/oktaysenkan/react-native-iconify"
+    "https://github.com/oktaysenkan/react-native-iconify",
+    "https://github.com/expo/vector-icons"
   ],
   "drag-and-drop": [
     "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view"
   ],
   "analytics": [
-    "https://github.com/DataDog/dd-sdk-reactnative"
+    "https://github.com/DataDog/dd-sdk-reactnative",
+    "https://github.com/ximxim/react-native-feedback-reporter"
   ],
   "babylonjs": [
     "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
@@ -161,9 +191,96 @@
     "https://github.com/jsartisan/react-native-magnus"
   ],
   "image-video-file-picker": [
-    "https://github.com/jeanpan/react-native-camera-roll-picker"
+    "https://github.com/jeanpan/react-native-camera-roll-picker",
+    "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
+    "https://github.com/baronha/react-native-multiple-image-picker",
+    "https://github.com/ivpusic/react-native-image-crop-picker",
+    "https://github.com/shijingsh/react-native-customized-image-picker"
   ],
   "barcode-qrcode-scanner": [
     "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner"
+  ],
+  "license-plate-recognition": [
+    "https://github.com/RobertSasak/react-native-openalpr"
+  ],
+  "background-task": [
+    "https://github.com/expo/expo/tree/main/packages/expo-task-manager",
+    "https://github.com/expo/expo/tree/main/packages/expo-background-fetch"
+  ],
+  "audio": [
+    "https://github.com/expo/expo/tree/main/packages/expo-av"
+  ],
+  "video": [
+    "https://github.com/expo/expo/tree/main/packages/expo-av",
+    "https://github.com/hirbod/expo-video-metadata"
+  ],
+  "keep-awake": [
+    "https://github.com/expo/expo/tree/main/packages/expo-keep-awake"
+  ],
+  "screen-orientation": [
+    "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation"
+  ],
+  "sceen-capture": [
+    "https://github.com/expo/expo/tree/main/packages/expo-screen-capture"
+  ],
+  "navigation": [
+    "https://github.com/expo/expo/tree/main/packages/expo-router"
+  ],
+  "store-review": [
+    "https://github.com/expo/expo/tree/main/packages/expo-store-review"
+  ],
+  "three-js": [
+    "https://github.com/expo/expo-three"
+  ],
+  "processing-js": [
+    "https://github.com/expo/expo/tree/main/packages/expo-processing"
+  ],
+  "hashing": [
+    "https://github.com/expo/expo/tree/main/packages/expo-crypto"
+  ],
+  "status-bar": [
+    "https://github.com/expo/expo/tree/main/packages/expo-status-bar"
+  ],
+  "squircle": [
+    "https://github.com/Malaa-tech/expo-squircle-view"
+  ],
+  "stable-diffusion": [
+    "https://github.com/andrei-zgirvaci/expo-stable-diffusion"
+  ],
+  "app-icon": [
+    "https://github.com/outsung/expo-dynamic-app-icon"
+  ],
+  "store-version-check": [
+    "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check-expo"
+  ],
+  "split-pane": [
+    "https://github.com/nikochan2k/expo-split-pane"
+  ],
+  "match-media-polyfill": [
+    "https://github.com/expo/match-media"
+  ],
+  "e2e-testing": [
+    "https://github.com/wix/Detox",
+    "https://github.com/iamolegga/react-native-launch-arguments",
+    "https://github.com/jpudysz/react-native-is-maestro"
+  ],
+  "performance-testing": [
+    "https://github.com/callstack/reassure"
+  ],
+  "visual-diff-testing": [
+    "https://github.com/FormidableLabs/react-native-owl",
+    "https://github.com/rumax/react-native-PixelsCatcher"
+  ],
+  "ab-testing": [
+    "https://github.com/lwansbrough/react-native-ab"
+  ],
+  "testfairy-sdk": [
+    "https://github.com/testfairy/react-native-testfairy"
+  ],
+  "onboarding": [
+    "https://github.com/intellidev1991/react-native-image-slider-box"
+  ],
+  "compress": [
+    "https://github.com/iChengbo/react-native-imagemin-asset-plugin"
   ]
 }

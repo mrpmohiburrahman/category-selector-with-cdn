@@ -7966,7 +7966,8 @@
     "matchScore": 1,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "license-plate-recognition"
   },
   {
     "githubUrl": "https://github.com/react-native-camera/react-native-camera",
@@ -8026,7 +8027,8 @@
     "matchScore": 0.11,
     "category": [
       "camera"
-    ]
+    ],
+    "uniqueCategory": "camera"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-video-thumbnails",
@@ -8160,7 +8162,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "background-task"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-av",
@@ -8228,7 +8231,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "audio"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-keep-awake",
@@ -8297,7 +8301,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "keep-awake"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation",
@@ -8368,7 +8373,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "screen-orientation"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-screen-capture",
@@ -8435,7 +8441,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "sceen-capture"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-router",
@@ -8506,7 +8513,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   {
     "githubUrl": "https://github.com/expo/vector-icons",
@@ -8578,7 +8586,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/Malaa-tech/expo-custom-assets",
@@ -8781,7 +8790,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "store-review"
   },
   {
     "githubUrl": "https://github.com/expo/expo-three",
@@ -8859,7 +8869,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "three-js"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-processing",
@@ -8928,7 +8939,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "processing-js"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-crypto",
@@ -9001,7 +9013,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-background-fetch",
@@ -9068,7 +9081,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "background-task"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sharing",
@@ -9134,7 +9148,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "social-share"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-status-bar",
@@ -9199,7 +9214,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "status-bar"
   },
   {
     "githubUrl": "https://github.com/hirbod/expo-video-metadata",
@@ -9276,7 +9292,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   {
     "githubUrl": "https://github.com/Malaa-tech/expo-squircle-view",
@@ -9347,7 +9364,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "squircle"
   },
   {
     "githubUrl": "https://github.com/andrei-zgirvaci/expo-stable-diffusion",
@@ -9429,7 +9447,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "stable-diffusion"
   },
   {
     "githubUrl": "https://github.com/outsung/expo-dynamic-app-icon",
@@ -9502,7 +9521,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "app-icon"
   },
   {
     "githubUrl": "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check-expo",
@@ -9572,7 +9592,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "store-version-check"
   },
   {
     "githubUrl": "https://github.com/nikochan2k/expo-split-pane",
@@ -9642,7 +9663,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "split-pane"
   },
   {
     "githubUrl": "https://github.com/brunon80/expo-image-crop",
@@ -9712,7 +9734,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/expo/match-media",
@@ -9783,7 +9806,8 @@
     "matchScore": 111,
     "category": [
       "expo"
-    ]
+    ],
+    "uniqueCategory": "match-media-polyfill"
   },
   {
     "githubUrl": "https://github.com/wix/Detox",
@@ -9868,7 +9892,8 @@
     "matchScore": 10,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "e2e-testing"
   },
   {
     "githubUrl": "https://github.com/callstack/reassure",
@@ -9948,7 +9973,8 @@
     "matchScore": 11,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "performance-testing"
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/react-native-owl",
@@ -10028,7 +10054,8 @@
     "matchScore": 11,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "visual-diff-testing"
   },
   {
     "githubUrl": "https://github.com/rumax/react-native-PixelsCatcher",
@@ -10095,7 +10122,8 @@
     "matchScore": 11,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "visual-diff-testing"
   },
   {
     "githubUrl": "https://github.com/iamolegga/react-native-launch-arguments",
@@ -10163,7 +10191,8 @@
     "matchScore": 11,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "e2e-testing"
   },
   {
     "githubUrl": "https://github.com/mutualmobile/react-native-barricade",
@@ -10248,7 +10277,8 @@
     "matchScore": 11,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "testing"
   },
   {
     "githubUrl": "https://github.com/aryella-lacerda/react-native-accessibility-engine",
@@ -10459,7 +10489,8 @@
     "matchScore": 0.011,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "ab-testing"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo",
@@ -10523,7 +10554,8 @@
     "matchScore": 10,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "testing"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-enzyme",
@@ -10643,7 +10675,8 @@
     "matchScore": 100,
     "category": [
       "jest"
-    ]
+    ],
+    "uniqueCategory": "testing"
   },
   {
     "githubUrl": "https://github.com/testfairy/react-native-testfairy",
@@ -10716,7 +10749,8 @@
     "matchScore": 111,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "testfairy-sdk"
   },
   {
     "githubUrl": "https://github.com/jpudysz/react-native-is-maestro",
@@ -10789,7 +10823,8 @@
     "matchScore": 10,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "e2e-testing"
   },
   {
     "githubUrl": "https://github.com/ximxim/react-native-feedback-reporter",
@@ -10865,7 +10900,8 @@
     "matchScore": 10,
     "category": [
       "test"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/thomas-coldwell/expo-image-editor",
@@ -10949,7 +10985,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/guhungry/react-native-photo-manipulator",
@@ -11030,7 +11067,8 @@
     "matchScore": 1,
     "category": [
       "image-editor"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/imgly/pesdk-react-native",
@@ -11112,7 +11150,8 @@
     "matchScore": 1,
     "category": [
       "imageeditor"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/baronha/react-native-photo-editor",
@@ -11190,7 +11229,8 @@
     "matchScore": 11,
     "category": [
       "imageeditor"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-google-sign-in",
@@ -11332,7 +11372,8 @@
     "matchScore": 1,
     "category": [
       "oauth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/candlefinance/faster-image",
@@ -11411,7 +11452,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/intellidev1991/react-native-image-slider-box",
@@ -11494,7 +11536,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "onboarding"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
@@ -11565,7 +11608,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-manipulator",
@@ -11632,7 +11676,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/baronha/react-native-multiple-image-picker",
@@ -11714,7 +11759,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/ivpusic/react-native-image-crop-picker",
@@ -11796,7 +11842,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/bamlab/react-native-image-resizer",
@@ -11874,7 +11921,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/likashefqet/react-native-image-zoom",
@@ -11966,7 +12014,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/sbaiahmed1/react-native-image-preview",
@@ -12043,7 +12092,8 @@
     "matchScore": 1,
     "category": [
       "image-modal"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/JimmyDaddy/react-native-image-marker",
@@ -12131,7 +12181,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/iChengbo/react-native-imagemin-asset-plugin",
@@ -12209,7 +12260,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "compress"
   },
   {
     "githubUrl": "https://github.com/osamaqarem/react-native-image-colors",
@@ -12293,7 +12345,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
@@ -12366,7 +12419,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/georstat/react-native-image-cache",
@@ -12445,7 +12499,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/WrathChaos/react-native-progressive-fast-image",
@@ -12532,7 +12587,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/DylanVann/react-native-fast-image",
@@ -12615,7 +12671,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/AndreYonadam/react-native-scrolling-images",
@@ -12680,7 +12737,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/jobtoday/react-native-image-viewing",
@@ -12762,7 +12820,8 @@
     "matchScore": 1,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/GregoryNative/react-native-gl-image-filters",
@@ -12836,7 +12895,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   {
     "githubUrl": "https://github.com/shijingsh/react-native-customized-image-picker",
@@ -12907,7 +12967,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/wonday/react-native-image-cache-wrapper",
@@ -12983,7 +13044,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-image-progress",
@@ -13066,7 +13128,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/ihor/react-native-scalable-image",
@@ -13141,7 +13204,8 @@
     "matchScore": 111,
     "category": [
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/Nozbe/WatermelonDB",
