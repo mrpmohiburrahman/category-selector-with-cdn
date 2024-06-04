@@ -11537,7 +11537,7 @@
     "category": [
       "react-native-component"
     ],
-    "uniqueCategory": "onboarding"
+    "uniqueCategory": "carousel-swiper-slider"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
@@ -20262,7 +20262,8 @@
     "matchScore": 11,
     "category": [
       "share"
-    ]
+    ],
+    "uniqueCategory": "send-intent"
   },
   {
     "githubUrl": "https://github.com/doefler/react-native-social-share",
@@ -20336,7 +20337,8 @@
     "matchScore": 0.111,
     "category": [
       "share"
-    ]
+    ],
+    "uniqueCategory": "social-share"
   },
   {
     "githubUrl": "https://github.com/naoufal/react-native-activity-view",
@@ -20412,7 +20414,8 @@
     "matchScore": 0.011,
     "category": [
       "share"
-    ]
+    ],
+    "uniqueCategory": "social-share"
   },
   {
     "githubUrl": "https://github.com/svgr-iconkit/svgr-iconkit",
@@ -20556,7 +20559,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/candlefinance/app-icon",
@@ -20629,7 +20633,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "app-icon"
   },
   {
     "githubUrl": "https://github.com/pcamarajr/react-native-ultimate-icons",
@@ -20704,7 +20709,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/artyorsh/react-native-eva-icons",
@@ -20779,7 +20785,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/Iconscout/react-native-unicons",
@@ -20858,7 +20865,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/SrBrahma/react-native-payment-icons",
@@ -20935,7 +20943,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/aeirola/react-native-svg-app-icon",
@@ -21005,7 +21014,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "app-icon"
   },
   {
     "githubUrl": "https://github.com/dstaley/react-native-bootstrap-icons",
@@ -21072,7 +21082,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/arniu/react-native-ionicons",
@@ -21145,7 +21156,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/uxxman/react-native-fa-icons",
@@ -21212,7 +21224,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/skb1129/react-native-change-icon",
@@ -21281,7 +21294,8 @@
     "matchScore": 110,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "app-icon"
   },
   {
     "githubUrl": "https://github.com/aykutkardas/react-icomoon",
@@ -21362,7 +21376,8 @@
     "matchScore": 11,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/birkir/react-native-sfsymbols",
@@ -21438,7 +21453,8 @@
     "matchScore": 1,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-iconic",
@@ -21508,7 +21524,8 @@
     "matchScore": 0.11,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   {
     "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/analytics",
@@ -21572,7 +21589,8 @@
     "matchScore": 111,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/mixpanel/mixpanel-react-native",
@@ -21655,7 +21673,8 @@
     "matchScore": 11,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/adobe/react-native-acpmedia",
@@ -21732,7 +21751,8 @@
     "matchScore": 11,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/lwansbrough/react-native-google-analytics",
@@ -21804,7 +21824,8 @@
     "matchScore": 0.111,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics",
@@ -21865,7 +21886,8 @@
     "matchScore": 0.1,
     "category": [
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/ammarahm-ed/react-native-admob-native-ads",
@@ -21949,7 +21971,8 @@
     "matchScore": 101,
     "category": [
       "react-native-admob"
-    ]
+    ],
+    "uniqueCategory": "google-ads"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-ads-admob",
@@ -22009,7 +22032,8 @@
     "matchScore": 0.1,
     "category": [
       "admob"
-    ]
+    ],
+    "uniqueCategory": "google-ads"
   },
   {
     "githubUrl": "https://github.com/i18next/react-i18next",
@@ -22083,7 +22107,8 @@
     "matchScore": 111,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/joshswan/react-native-globalize",
@@ -22159,7 +22184,8 @@
     "matchScore": 11,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/zoontek/react-native-localize",
@@ -22242,7 +22268,8 @@
     "matchScore": 1,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/stefalda/ReactNativeLocalization",
@@ -22311,7 +22338,8 @@
     "matchScore": 1,
     "category": [
       "internationalization"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/zeljkoX/react-native-pseudo-localization",
@@ -22385,7 +22413,8 @@
     "matchScore": 1,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/fabriciovergara/react-native-localizable",
@@ -22460,7 +22489,8 @@
     "matchScore": 0.01,
     "category": [
       "internationalization"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/AlexanderZaytsev/react-native-i18n",
@@ -22531,7 +22561,8 @@
     "matchScore": 111,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/jakex7/react-native-localization-settings",
@@ -22610,7 +22641,8 @@
     "matchScore": 1,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/galio-org/galio",
@@ -22691,7 +22723,8 @@
     "matchScore": 110,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/OsmiCSX/osmicsx",
@@ -22768,7 +22801,8 @@
     "matchScore": 11,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/react-native-webrtc/react-native-callkeep",
@@ -22850,7 +22884,8 @@
     "matchScore": 10,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "voip"
   },
   {
     "githubUrl": "https://github.com/a-tokyo/react-native-flex-grid",
@@ -22939,7 +22974,8 @@
     "matchScore": 1,
     "category": [
       "framework"
-    ]
+    ],
+    "uniqueCategory": "flex-grid"
   },
   {
     "githubUrl": "https://github.com/onubo/react-native-logs",
@@ -23027,7 +23063,8 @@
       "debug",
       "logging-library",
       "log"
-    ]
+    ],
+    "uniqueCategory": "debug"
   },
   {
     "githubUrl": "https://github.com/imgly/vesdk-react-native",
@@ -23116,7 +23153,8 @@
       "video-editing",
       "video-manipulation",
       "video-edit-sdk"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   {
     "githubUrl": "https://github.com/richardvclam/react-native-resegmented-control",
@@ -23179,7 +23217,8 @@
     "popularity": -0.135,
     "category": [
       "segmented-control"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   {
     "githubUrl": "https://github.com/Yasser-G/react-native-scales",
@@ -23235,7 +23274,8 @@
       "Not updated recently"
     ],
     "popularity": -0.49,
-    "category": []
+    "category": [],
+    "uniqueCategory": "dynamic-scale"
   },
   {
     "githubUrl": "https://github.com/Yasser-G/react-native-redux",
@@ -23309,7 +23349,8 @@
       "redux-thunk",
       "redux-store",
       "redux-actions"
-    ]
+    ],
+    "uniqueCategory": "state-management"
   },
   {
     "githubUrl": "https://github.com/wcisco17/react-native-animation-video",
@@ -23359,7 +23400,8 @@
       "Not updated recently"
     ],
     "popularity": -0.637,
-    "category": []
+    "category": [],
+    "uniqueCategory": "video"
   },
   {
     "githubUrl": "https://github.com/MAKARD/react-native-toastboard",
@@ -23432,7 +23474,8 @@
       "toast",
       "toaster",
       "toastboard"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/alexfoxy/react-native-units",
@@ -23493,7 +23536,8 @@
       "units",
       "pixels",
       "responsive"
-    ]
+    ],
+    "uniqueCategory": "flex-grid"
   },
   {
     "githubUrl": "https://github.com/SudoPlz/react-native-shake-event",
@@ -23543,7 +23587,8 @@
       "Not updated recently"
     ],
     "popularity": -0.489,
-    "category": []
+    "category": [],
+    "uniqueCategory": "sensor"
   },
   {
     "githubUrl": "https://github.com/crazycodeboy/react-native-splash-screen",
@@ -23620,7 +23665,8 @@
       "splashscreen",
       "react-native-splashscreen",
       "launchimage"
-    ]
+    ],
+    "uniqueCategory": "slash-screen"
   },
   {
     "githubUrl": "https://github.com/kristerkari/pinar",
@@ -23696,7 +23742,8 @@
       "carousel",
       "carousel-component",
       "swiper"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   {
     "githubUrl": "https://github.com/khalisafkari/react-native-google-photos",
@@ -23763,7 +23810,8 @@
       "google-photos",
       "downloader",
       "video"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/EAT-CODE-KITE-REPEAT/expo-super-image",
@@ -23815,7 +23863,8 @@
       "Not updated recently"
     ],
     "popularity": -0.967,
-    "category": []
+    "category": [],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/A11yWatch/react-native-reader",

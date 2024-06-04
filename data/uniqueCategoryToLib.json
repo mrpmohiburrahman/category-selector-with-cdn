@@ -141,7 +141,9 @@
     "https://github.com/ihor/react-native-scalable-image",
     "https://github.com/oblador/react-native-vector-image",
     "https://github.com/alwx/react-native-photo-view",
-    "https://github.com/oblador/react-native-lightbox"
+    "https://github.com/oblador/react-native-lightbox",
+    "https://github.com/khalisafkari/react-native-google-photos",
+    "https://github.com/EAT-CODE-KITE-REPEAT/expo-super-image"
   ],
   "mongodb": [
     "https://github.com/realm/realm-js/tree/main/packages/realm",
@@ -149,12 +151,25 @@
   ],
   "social-share": [
     "https://github.com/react-native-share/react-native-share",
-    "https://github.com/expo/expo/tree/main/packages/expo-sharing"
+    "https://github.com/expo/expo/tree/main/packages/expo-sharing",
+    "https://github.com/doefler/react-native-social-share",
+    "https://github.com/naoufal/react-native-activity-view"
   ],
   "icon": [
     "https://github.com/oktaysenkan/react-native-iconify",
     "https://github.com/expo/vector-icons",
-    "https://github.com/oblador/react-native-vector-icons"
+    "https://github.com/oblador/react-native-vector-icons",
+    "https://github.com/ecklf/react-native-heroicons",
+    "https://github.com/pcamarajr/react-native-ultimate-icons",
+    "https://github.com/artyorsh/react-native-eva-icons",
+    "https://github.com/Iconscout/react-native-unicons",
+    "https://github.com/SrBrahma/react-native-payment-icons",
+    "https://github.com/dstaley/react-native-bootstrap-icons",
+    "https://github.com/arniu/react-native-ionicons",
+    "https://github.com/uxxman/react-native-fa-icons",
+    "https://github.com/aykutkardas/react-icomoon",
+    "https://github.com/birkir/react-native-sfsymbols",
+    "https://github.com/prscX/react-native-iconic"
   ],
   "drag-and-drop": [
     "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view"
@@ -162,20 +177,35 @@
   "analytics": [
     "https://github.com/DataDog/dd-sdk-reactnative",
     "https://github.com/ximxim/react-native-feedback-reporter",
-    "https://github.com/MetaLabs-inc/react-native-components-tracking"
+    "https://github.com/MetaLabs-inc/react-native-components-tracking",
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/analytics",
+    "https://github.com/mixpanel/mixpanel-react-native",
+    "https://github.com/adobe/react-native-acpmedia",
+    "https://github.com/lwansbrough/react-native-google-analytics",
+    "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics"
   ],
   "babylonjs": [
     "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
   ],
   "google-ads": [
-    "https://github.com/invertase/react-native-google-mobile-ads"
+    "https://github.com/invertase/react-native-google-mobile-ads",
+    "https://github.com/ammarahm-ed/react-native-admob-native-ads",
+    "https://github.com/expo/expo/tree/main/packages/expo-ads-admob"
   ],
   "header": [
     "https://github.com/codeherence/react-native-header"
   ],
   "i18n": [
     "https://github.com/facebook/fbt",
-    "https://github.com/lingui/js-lingui"
+    "https://github.com/lingui/js-lingui",
+    "https://github.com/i18next/react-i18next",
+    "https://github.com/joshswan/react-native-globalize",
+    "https://github.com/zoontek/react-native-localize",
+    "https://github.com/stefalda/ReactNativeLocalization",
+    "https://github.com/zeljkoX/react-native-pseudo-localization",
+    "https://github.com/fabriciovergara/react-native-localizable",
+    "https://github.com/AlexanderZaytsev/react-native-i18n",
+    "https://github.com/jakex7/react-native-localization-settings"
   ],
   "popup-menu": [
     "https://github.com/react-native-menu/menu",
@@ -229,7 +259,9 @@
     "https://github.com/avocode/nachos-ui",
     "https://github.com/shoutem/ui",
     "https://github.com/xotahal/react-native-material-ui",
-    "https://github.com/microsoft/fluentui-react-native"
+    "https://github.com/microsoft/fluentui-react-native",
+    "https://github.com/galio-org/galio",
+    "https://github.com/OsmiCSX/osmicsx"
   ],
   "image-video-file-picker": [
     "https://github.com/jeanpan/react-native-camera-roll-picker",
@@ -253,7 +285,9 @@
   ],
   "video": [
     "https://github.com/expo/expo/tree/main/packages/expo-av",
-    "https://github.com/hirbod/expo-video-metadata"
+    "https://github.com/hirbod/expo-video-metadata",
+    "https://github.com/imgly/vesdk-react-native",
+    "https://github.com/wcisco17/react-native-animation-video"
   ],
   "keep-awake": [
     "https://github.com/expo/expo/tree/main/packages/expo-keep-awake"
@@ -290,7 +324,10 @@
     "https://github.com/andrei-zgirvaci/expo-stable-diffusion"
   ],
   "app-icon": [
-    "https://github.com/outsung/expo-dynamic-app-icon"
+    "https://github.com/outsung/expo-dynamic-app-icon",
+    "https://github.com/candlefinance/app-icon",
+    "https://github.com/aeirola/react-native-svg-app-icon",
+    "https://github.com/skb1129/react-native-change-icon"
   ],
   "store-version-check": [
     "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check-expo"
@@ -320,9 +357,7 @@
   "testfairy-sdk": [
     "https://github.com/testfairy/react-native-testfairy"
   ],
-  "onboarding": [
-    "https://github.com/intellidev1991/react-native-image-slider-box"
-  ],
+  "onboarding": [],
   "compress": [
     "https://github.com/iChengbo/react-native-imagemin-asset-plugin"
   ],
@@ -348,7 +383,8 @@
     "https://github.com/KjellConnelly/react-native-shared-group-preferences"
   ],
   "state-management": [
-    "https://github.com/rt2zz/redux-persist"
+    "https://github.com/rt2zz/redux-persist",
+    "https://github.com/Yasser-G/react-native-redux"
   ],
   "chat-component": [
     "https://github.com/GetStream/stream-chat-react-native",
@@ -369,7 +405,8 @@
   ],
   "tab-view": [
     "https://github.com/PedroBern/react-native-collapsible-tab-view",
-    "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view"
+    "https://github.com/react-navigation/react-navigation/tree/main/packages/react-native-tab-view",
+    "https://github.com/richardvclam/react-native-resegmented-control"
   ],
   "draggable-grid": [
     "https://github.com/SHISME/react-native-draggable-grid"
@@ -412,7 +449,8 @@
     "https://github.com/stackbuilders/react-native-spotlight-tour"
   ],
   "popup-modal-inAppNotifications": [
-    "https://github.com/RafaelAugustoS/react-native-popup-ui"
+    "https://github.com/RafaelAugustoS/react-native-popup-ui",
+    "https://github.com/MAKARD/react-native-toastboard"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -428,5 +466,32 @@
   ],
   "threeD-touch": [
     "https://github.com/jordanbyron/react-native-quick-actions"
+  ],
+  "send-intent": [
+    "https://github.com/lucasferreira/react-native-send-intent"
+  ],
+  "voip": [
+    "https://github.com/react-native-webrtc/react-native-callkeep"
+  ],
+  "flex-grid": [
+    "https://github.com/a-tokyo/react-native-flex-grid",
+    "https://github.com/alexfoxy/react-native-units"
+  ],
+  "debug": [
+    "https://github.com/onubo/react-native-logs"
+  ],
+  "dynamic-scale": [
+    "https://github.com/Yasser-G/react-native-scales",
+    "https://github.com/alexfoxy/react-native-units"
+  ],
+  "sensor": [
+    "https://github.com/SudoPlz/react-native-shake-event"
+  ],
+  "slash-screen": [
+    "https://github.com/crazycodeboy/react-native-splash-screen"
+  ],
+  "carousel-swiper-slider": [
+    "https://github.com/intellidev1991/react-native-image-slider-box",
+    "https://github.com/kristerkari/pinar"
   ]
 }
