@@ -15597,7 +15597,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "draggable-grid"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-keychain",
@@ -15674,7 +15675,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "keychain"
   },
   {
     "githubUrl": "https://github.com/retyui/react-native-confirmation-code-field",
@@ -15767,7 +15769,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/ThakurBallary/react-native-radio-buttons-group",
@@ -15847,7 +15850,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "radio-button"
   },
   {
     "githubUrl": "https://github.com/danilowoz/react-content-loader",
@@ -15928,7 +15932,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "skeleton-loading"
   },
   {
     "githubUrl": "https://github.com/maggialejandro/react-native-month",
@@ -16003,7 +16008,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   {
     "githubUrl": "https://github.com/Mhp23/react-native-fast-base",
@@ -16087,7 +16093,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/retyui/react-native-detect-maestro",
@@ -16161,7 +16168,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "e2e-testing"
   },
   {
     "githubUrl": "https://github.com/retyui/react-native-widget-picker",
@@ -16232,7 +16240,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "widget"
   },
   {
     "githubUrl": "https://github.com/rt2zz/react-native-contacts",
@@ -16310,7 +16319,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "contacts"
   },
   {
     "githubUrl": "https://github.com/klarna-incubator/react-native-vector-drawable",
@@ -16379,7 +16389,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "svg"
   },
   {
     "githubUrl": "https://github.com/ibitcy/react-native-hole-view",
@@ -16462,7 +16473,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "hole-view"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-vector-image",
@@ -16532,7 +16544,8 @@
     "matchScore": 1,
     "category": [
       "react-native-component"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/Flair-Dev/react-native-awesome-gallery",
@@ -16612,7 +16625,8 @@
     "matchScore": 111,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "gallery"
   },
   {
     "githubUrl": "https://github.com/terrysahaidak/react-native-gallery-toolkit",
@@ -16694,7 +16708,8 @@
     "matchScore": 111,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "gallery"
   },
   {
     "githubUrl": "https://github.com/halilb/react-native-photo-browser",
@@ -16774,7 +16789,8 @@
     "matchScore": 11,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "gallery"
   },
   {
     "githubUrl": "https://github.com/alwx/react-native-photo-view",
@@ -16844,7 +16860,8 @@
     "matchScore": 1,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/ldn0x7dc/react-native-gallery",
@@ -16898,7 +16915,8 @@
     "matchScore": 0.11,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "gallery"
   },
   {
     "githubUrl": "https://github.com/oblador/react-native-lightbox",
@@ -16981,7 +16999,8 @@
     "matchScore": 0.001,
     "category": [
       "gallery"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   {
     "githubUrl": "https://github.com/wix/react-native-ui-lib",
@@ -17066,7 +17085,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/andrew-levy/swiftui-react-native",
@@ -17133,7 +17153,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/sendbird/sendbird-uikit-react-native",
@@ -17207,7 +17228,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "chat-component"
   },
   {
     "githubUrl": "https://github.com/bluesky-social/react-native-uitextview",
@@ -17282,7 +17304,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/imnapo/react-native-cn-quill",
@@ -17358,7 +17381,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "text-editor"
   },
   {
     "githubUrl": "https://github.com/akveo/react-native-ui-kitten",
@@ -17434,7 +17458,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/xcarpentier/rn-tourguide",
@@ -17520,7 +17545,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "tourguide"
   },
   {
     "githubUrl": "https://github.com/flyerhq/react-native-chat-ui",
@@ -17599,7 +17625,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "chat-component"
   },
   {
     "githubUrl": "https://github.com/tienphaw/react-native-figma-squircle",
@@ -17676,7 +17703,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "squircle"
   },
   {
     "githubUrl": "https://github.com/pettiboy/react-native-ui-buttons",
@@ -17842,7 +17870,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/react-ui-kit/expo-ui-kit",
@@ -17912,7 +17941,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/RafaelAugustoS/react-native-popup-ui",
@@ -17993,7 +18023,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/avocode/nachos-ui",
@@ -18061,7 +18092,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui",
@@ -18125,7 +18157,8 @@
     "matchScore": 110,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "draftbit"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-system-ui",
@@ -18194,7 +18227,8 @@
     "matchScore": 110,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "system-ui-outside-react-tree"
   },
   {
     "githubUrl": "https://github.com/ExtrieveTechnologies/QuickCapture_react_native",
@@ -18257,7 +18291,8 @@
     "matchScore": 110,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "quickcapture"
   },
   {
     "githubUrl": "https://github.com/dimaportenko/react-native-liquid-gauge",
@@ -18332,7 +18367,8 @@
     "matchScore": 110,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "circular-progress-gauge"
   },
   {
     "githubUrl": "https://github.com/jordanbyron/react-native-quick-actions",
@@ -18398,7 +18434,8 @@
     "matchScore": 110,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "threeD-touch"
   },
   {
     "githubUrl": "https://github.com/shoutem/ui",
@@ -18474,7 +18511,8 @@
     "matchScore": 101,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/stackbuilders/react-native-spotlight-tour",
@@ -18555,7 +18593,8 @@
     "matchScore": 101,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "tourguide"
   },
   {
     "githubUrl": "https://github.com/xotahal/react-native-material-ui",
@@ -18636,7 +18675,8 @@
     "matchScore": 101,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/microsoft/fluentui-react-native",
@@ -18697,7 +18737,8 @@
     "matchScore": 100,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/lingui/js-lingui",
@@ -18780,7 +18821,8 @@
     "matchScore": 1,
     "category": [
       "i18n"
-    ]
+    ],
+    "uniqueCategory": "i18n"
   },
   {
     "githubUrl": "https://github.com/brh55/react-native-open-maps",
@@ -18856,7 +18898,8 @@
     "matchScore": 1,
     "category": [
       "google-maps"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/rnmapbox/maps",
@@ -18943,7 +18986,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/teovillanueva/react-native-web-maps",
@@ -19016,7 +19060,8 @@
     "matchScore": 110,
     "category": [
       "maps"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/maplibre/maplibre-react-native",
@@ -19098,7 +19143,8 @@
     "matchScore": 111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/Splicer97/react-native-osmdroid",
@@ -19173,7 +19219,8 @@
     "matchScore": 11,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/qiuxiang/react-native-amap3d",
@@ -19253,7 +19300,8 @@
     "matchScore": 1,
     "category": [
       "mapview"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/venits/react-native-map-clustering",
@@ -19334,7 +19382,8 @@
     "matchScore": 1,
     "category": [
       "mapview"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/nitaliano/react-native-mapbox-gl",
@@ -19411,7 +19460,8 @@
     "matchScore": 0.111,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/yelled3/react-native-google-static-map",
@@ -19468,7 +19518,8 @@
     "matchScore": 0.11,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/surialabs/react-native-geo-fencing",
@@ -19534,7 +19585,8 @@
     "matchScore": 0.001,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/homeeondemand/react-native-mapbox-navigation",
@@ -19606,7 +19658,8 @@
     "matchScore": 101,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/pavel-corsaghin/react-native-leaflet",
@@ -19683,7 +19736,8 @@
     "matchScore": 11,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/tolu360/react-native-google-places",
@@ -19764,7 +19818,8 @@
     "matchScore": 0.001,
     "category": [
       "map"
-    ]
+    ],
+    "uniqueCategory": "map"
   },
   {
     "githubUrl": "https://github.com/xxsnakerxx/react-native-social-auth",
@@ -19838,7 +19893,8 @@
     "matchScore": 111,
     "category": [
       "auth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/auth0/react-native-auth0",
@@ -19912,7 +19968,8 @@
     "matchScore": 110,
     "category": [
       "auth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-app-auth",
@@ -19971,7 +20028,8 @@
     "matchScore": 100,
     "category": [
       "auth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-google-app-auth",
@@ -20030,7 +20088,8 @@
     "matchScore": 100,
     "category": [
       "auth"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/SectionTN/otp-input",
@@ -20126,7 +20185,8 @@
     "matchScore": 11,
     "category": [
       "authentication"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   {
     "githubUrl": "https://github.com/lucasferreira/react-native-send-intent",
