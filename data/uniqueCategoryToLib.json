@@ -60,7 +60,8 @@
     "https://github.com/lrettig/react-native-stripe"
   ],
   "form": [
-    "https://github.com/CareLuLu/react-native-web-jsonschema-form"
+    "https://github.com/CareLuLu/react-native-web-jsonschema-form",
+    "https://github.com/MAKARD/react-native-formawesome"
   ],
   "map": [
     "https://github.com/huextrat/react-native-maps-routes",
@@ -182,7 +183,8 @@
     "https://github.com/mixpanel/mixpanel-react-native",
     "https://github.com/adobe/react-native-acpmedia",
     "https://github.com/lwansbrough/react-native-google-analytics",
-    "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics"
+    "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics",
+    "https://github.com/Instabug/instabug-reactnative"
   ],
   "babylonjs": [
     "https://github.com/BabylonJS/BabylonReactNative/tree/master/Modules/@babylonjs/react-native"
@@ -261,14 +263,16 @@
     "https://github.com/xotahal/react-native-material-ui",
     "https://github.com/microsoft/fluentui-react-native",
     "https://github.com/galio-org/galio",
-    "https://github.com/OsmiCSX/osmicsx"
+    "https://github.com/OsmiCSX/osmicsx",
+    "https://github.com/prscX/react-native-material-shadows"
   ],
   "image-video-file-picker": [
     "https://github.com/jeanpan/react-native-camera-roll-picker",
     "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
     "https://github.com/baronha/react-native-multiple-image-picker",
     "https://github.com/ivpusic/react-native-image-crop-picker",
-    "https://github.com/shijingsh/react-native-customized-image-picker"
+    "https://github.com/shijingsh/react-native-customized-image-picker",
+    "https://github.com/prscX/react-native-file-selector"
   ],
   "barcode-qrcode-scanner": [
     "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner"
@@ -318,7 +322,8 @@
   ],
   "squircle": [
     "https://github.com/Malaa-tech/expo-squircle-view",
-    "https://github.com/tienphaw/react-native-figma-squircle"
+    "https://github.com/tienphaw/react-native-figma-squircle",
+    "https://github.com/everdrone/react-native-super-ellipse-mask"
   ],
   "stable-diffusion": [
     "https://github.com/andrei-zgirvaci/expo-stable-diffusion"
@@ -409,7 +414,8 @@
     "https://github.com/richardvclam/react-native-resegmented-control"
   ],
   "draggable-grid": [
-    "https://github.com/SHISME/react-native-draggable-grid"
+    "https://github.com/SHISME/react-native-draggable-grid",
+    "https://github.com/kenkotch/react-native-columns"
   ],
   "keychain": [
     "https://github.com/oblador/react-native-keychain"
@@ -427,7 +433,9 @@
     "https://github.com/rt2zz/react-native-contacts"
   ],
   "svg": [
-    "https://github.com/klarna-incubator/react-native-vector-drawable"
+    "https://github.com/klarna-incubator/react-native-vector-drawable",
+    "https://github.com/kristerkari/react-native-svg-transformer",
+    "https://github.com/aeirola/react-native-svg-asset-plugin"
   ],
   "hole-view": [
     "https://github.com/ibitcy/react-native-hole-view"
@@ -439,7 +447,8 @@
     "https://github.com/ldn0x7dc/react-native-gallery"
   ],
   "text": [
-    "https://github.com/bluesky-social/react-native-uitextview"
+    "https://github.com/bluesky-social/react-native-uitextview",
+    "https://github.com/prscX/react-native-morphing-text"
   ],
   "text-editor": [
     "https://github.com/imnapo/react-native-cn-quill"
@@ -448,9 +457,11 @@
     "https://github.com/xcarpentier/rn-tourguide",
     "https://github.com/stackbuilders/react-native-spotlight-tour"
   ],
-  "popup-modal-inAppNotifications": [
+  "popup-modal-toast-inAppNotifications": [
     "https://github.com/RafaelAugustoS/react-native-popup-ui",
-    "https://github.com/MAKARD/react-native-toastboard"
+    "https://github.com/MAKARD/react-native-toastboard",
+    "https://github.com/prscX/react-native-styled-dialogs",
+    "https://github.com/vonovak/react-native-simple-toast"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -492,6 +503,31 @@
   ],
   "carousel-swiper-slider": [
     "https://github.com/intellidev1991/react-native-image-slider-box",
-    "https://github.com/kristerkari/pinar"
+    "https://github.com/kristerkari/pinar",
+    "https://github.com/kkemple/react-native-sideswipe"
+  ],
+  "reader-mode": [
+    "https://github.com/A11yWatch/react-native-reader"
+  ],
+  "apple-ads": [
+    "https://github.com/kenmaca/react-native-apple-ads-attribution"
+  ],
+  "installed-lib-info": [
+    "https://github.com/prscX/react-native-about-libraries"
+  ],
+  "siri-wave-view": [
+    "https://github.com/prscX/react-native-siri-wave-view"
+  ],
+  "lock-screen": [
+    "https://github.com/prscX/react-native-lock-screen"
+  ],
+  "tag-chip-view": [
+    "https://github.com/prscX/react-native-chip-view"
+  ],
+  "table-view": [
+    "https://github.com/Purii/react-native-tableview-simple"
+  ],
+  "fbsdk": [
+    "https://github.com/facebook/react-native-fbsdk"
   ]
 }

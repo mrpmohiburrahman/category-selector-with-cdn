@@ -18024,7 +18024,7 @@
     "category": [
       "ui"
     ],
-    "uniqueCategory": "popup-modal-inAppNotifications"
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/avocode/nachos-ui",
@@ -23475,7 +23475,7 @@
       "toaster",
       "toastboard"
     ],
-    "uniqueCategory": "popup-modal-inAppNotifications"
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/alexfoxy/react-native-units",
@@ -23932,7 +23932,8 @@
       "react-native-reader",
       "safari-reader",
       "readability"
-    ]
+    ],
+    "uniqueCategory": "reader-mode"
   },
   {
     "githubUrl": "https://github.com/kenkotch/react-native-columns",
@@ -23984,7 +23985,8 @@
       "Not updated recently"
     ],
     "popularity": -0.911,
-    "category": []
+    "category": [],
+    "uniqueCategory": "draggable-grid"
   },
   {
     "githubUrl": "https://github.com/kristerkari/react-native-svg-transformer",
@@ -24059,7 +24061,8 @@
       "svg",
       "transformer",
       "loader"
-    ]
+    ],
+    "uniqueCategory": "svg"
   },
   {
     "githubUrl": "https://github.com/aeirola/react-native-svg-asset-plugin",
@@ -24126,7 +24129,8 @@
     "popularity": -0.101,
     "category": [
       "svg"
-    ]
+    ],
+    "uniqueCategory": "svg"
   },
   {
     "githubUrl": "https://github.com/kenmaca/react-native-apple-ads-attribution",
@@ -24174,7 +24178,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.985
+    "popularity": -0.985,
+    "uniqueCategory": "apple-ads"
   },
   {
     "githubUrl": "https://github.com/MAKARD/react-native-formawesome",
@@ -24249,7 +24254,8 @@
       "form",
       "react-formawesome-core",
       "validation"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   {
     "githubUrl": "https://github.com/kkemple/react-native-sideswipe",
@@ -24302,7 +24308,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "uniqueCategory": "carousel-swiper-slider"
   },
   {
     "githubUrl": "https://github.com/everdrone/react-native-super-ellipse-mask",
@@ -24370,7 +24377,8 @@
       "smooth-corners",
       "corners",
       "rounded-corners"
-    ]
+    ],
+    "uniqueCategory": "squircle"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-file-selector",
@@ -24433,7 +24441,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.509,
-    "category": []
+    "category": [],
+    "uniqueCategory": "image-video-file-picker"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-material-shadows",
@@ -24493,7 +24502,8 @@
       "Not updated recently"
     ],
     "popularity": -0.867,
-    "category": []
+    "category": [],
+    "uniqueCategory": "ui-toolkit"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-about-libraries",
@@ -24560,7 +24570,8 @@
       "Not updated recently"
     ],
     "popularity": -0.867,
-    "category": []
+    "category": [],
+    "uniqueCategory": "installed-lib-info"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-siri-wave-view",
@@ -24626,7 +24637,8 @@
       "Recently updated"
     ],
     "popularity": -0.815,
-    "category": []
+    "category": [],
+    "uniqueCategory": "siri-wave-view"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-lock-screen",
@@ -24691,7 +24703,8 @@
       "Recently updated"
     ],
     "popularity": -0.646,
-    "category": []
+    "category": [],
+    "uniqueCategory": "lock-screen"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-styled-dialogs",
@@ -24756,7 +24769,8 @@
       "Not updated recently"
     ],
     "popularity": -0.593,
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-morphing-text",
@@ -24822,7 +24836,8 @@
       "Recently updated"
     ],
     "popularity": -0.89,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   {
     "githubUrl": "https://github.com/prscX/react-native-chip-view",
@@ -24888,7 +24903,8 @@
       "Not updated recently"
     ],
     "popularity": -0.594,
-    "category": []
+    "category": [],
+    "uniqueCategory": "tag-chip-view"
   },
   {
     "githubUrl": "https://github.com/Instabug/instabug-reactnative",
@@ -24960,7 +24976,8 @@
       "instabug",
       "bug-reporting",
       "bug-reporter"
-    ]
+    ],
+    "uniqueCategory": "analytics"
   },
   {
     "githubUrl": "https://github.com/Purii/react-native-tableview-simple",
@@ -25040,7 +25057,8 @@
     "popularity": 0.019,
     "category": [
       "tableview"
-    ]
+    ],
+    "uniqueCategory": "table-view"
   },
   {
     "githubUrl": "https://github.com/facebook/react-native-fbsdk",
@@ -25104,7 +25122,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.285
+    "popularity": -0.285,
+    "uniqueCategory": "fbsdk"
   },
   {
     "githubUrl": "https://github.com/vonovak/react-native-simple-toast",
@@ -25164,7 +25183,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.007
+    "popularity": -0.007,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   {
     "githubUrl": "https://github.com/vonovak/react-navigation-header-buttons",
