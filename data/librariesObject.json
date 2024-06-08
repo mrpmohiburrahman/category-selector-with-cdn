@@ -32369,8 +32369,7 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.067,
-    "uniqueCategory": "carousel-swiper"
+    "popularity": 0.067
   },
   "https://github.com/evetstech/react-native-settings-list": {
     "githubUrl": "https://github.com/evetstech/react-native-settings-list",

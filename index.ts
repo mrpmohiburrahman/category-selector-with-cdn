@@ -1,5 +1,6 @@
 import { addUniqueCategory } from "./organizeJson/addUniqueCategory";
 import { categorizeLibraries } from "./organizeJson/categorizeLibraries";
+import { convertArrayToObject } from "./organizeJson/convertArrayToObject";
 import { splitJsonFileIntoChunks } from "./organizeJson/divideJson";
 import { mergeDuplicatesForASingleFile } from "./organizeJson/mergeDuplicatesForAsinglefile";
 import { removeDuplicates } from "./organizeJson/removeDuplicate";
@@ -19,3 +20,4 @@ import { updateLibraryData } from "./updateLibraryData/updateLibraryData";
 // updateLibraryData().catch(console.error);
 // splitJsonFileIntoChunks();
 addUniqueCategory().catch(console.error);
+// convertArrayToObject();

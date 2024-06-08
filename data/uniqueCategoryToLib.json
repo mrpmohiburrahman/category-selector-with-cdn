@@ -563,7 +563,8 @@
     "https://github.com/meteor-factory/react-native-tinder-swipe-cards",
     "https://github.com/leecade/react-native-swiper",
     "https://github.com/olivierlesnicki/react-native-switcher",
-    "https://github.com/appintheair/react-native-looped-carousel"
+    "https://github.com/appintheair/react-native-looped-carousel",
+    "https://github.com/machadogj/react-native-carousel-control"
   ],
   "reader-mode": [
     "https://github.com/A11yWatch/react-native-reader"

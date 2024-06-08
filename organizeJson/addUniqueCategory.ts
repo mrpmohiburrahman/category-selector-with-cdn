@@ -48,7 +48,7 @@ export const addUniqueCategory = async () => {
   const combinedFileName = "combinedFromChunks.json";
   const combinedFilePath = path.join(__dirname, "..", "data", combinedFileName);
   const rawData = fs.readFileSync(combinedFilePath, "utf-8");
-  const libraries: Library[] = JSON.parse(rawData);
+  const libraries: { [key: string]: Library } = JSON.parse(rawData);
 
   const uniqueCategoryFileName = "uniqueCategoryToLib.json";
   const uniqueCategoryFilePath = path.join(
@@ -66,17 +66,17 @@ export const addUniqueCategory = async () => {
     uniqueCategories = JSON.parse(uniqueCategoryData);
   }
 
-  for (let i = 0; i < libraries.length; i++) {
-    const library = libraries[i];
+  const libraryUrls = Object.keys(libraries);
+  for (let i = 0; i < libraryUrls.length; i++) {
+    const githubUrl = libraryUrls[i];
+    const library = libraries[githubUrl];
 
     // Skip if the library already has a uniqueCategory
     if (library.uniqueCategory) {
       console.log(
         `Skipping library ${underline}${i + 1}/${
-          libraries.length
-        }${reset} ${green}${underline}${
-          library.githubUrl
-        }${reset} as it already has a unique category: ${green}${underline}${
+          libraryUrls.length
+        }${reset} ${green}${underline}${githubUrl}${reset} as it already has a unique category: ${green}${underline}${
           library.uniqueCategory
         }${reset}`
       );
@@ -84,12 +84,12 @@ export const addUniqueCategory = async () => {
     }
 
     const existingCategories = Object.keys(uniqueCategories);
-    // Print existing categories in 6 columns
+    // Print existing categories in n columns
     console.log("Existing Categories:");
     printColumns(existingCategories, 5);
 
-    console.log(`Library ${underline}${i + 1}/${libraries.length}${reset}:`);
-    console.log(`GitHub URL: ${green}${underline}${library.githubUrl}${reset}`);
+    console.log(`Library ${underline}${i + 1}/${libraryUrls.length}${reset}:`);
+    console.log(`GitHub URL: ${green}${underline}${githubUrl}${reset}`);
     console.log(
       `Current Categories:${underline} ${
         library.category?.join(", ") || "None"
@@ -99,7 +99,6 @@ export const addUniqueCategory = async () => {
     const answer = await autocomplete({
       message:
         "Enter a unique category for this library (or type 'Skip' to skip):",
-      // pageSize: 100,
       source: async (input: string | undefined) => {
         input = input || "";
         const filteredCategories = existingCategories.filter((category) =>
@@ -128,8 +127,8 @@ export const addUniqueCategory = async () => {
     if (uniqueCategory === "Skip") {
       console.log(
         `Skipping library ${underline}${i + 1}/${
-          libraries.length
-        }${reset}: ${underline}${library.githubUrl}${reset}`
+          libraryUrls.length
+        }${reset}: ${underline}${githubUrl}${reset}`
       );
       continue;
     }
@@ -139,7 +138,7 @@ export const addUniqueCategory = async () => {
     if (!uniqueCategories[uniqueCategory]) {
       uniqueCategories[uniqueCategory] = [];
     }
-    uniqueCategories[uniqueCategory].push(library.githubUrl);
+    uniqueCategories[uniqueCategory].push(githubUrl);
 
     library["uniqueCategory"] = uniqueCategory;
 
@@ -149,7 +148,7 @@ export const addUniqueCategory = async () => {
       JSON.stringify(uniqueCategories, null, 2)
     );
 
-    // Write updated library to combinedFromChunks.json
+    // Write updated library object to combinedFromChunks.json
     fs.writeFileSync(combinedFilePath, JSON.stringify(libraries, null, 2));
 
     console.log(
