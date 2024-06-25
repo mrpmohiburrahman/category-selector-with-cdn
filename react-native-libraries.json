@@ -1193,15 +1193,6 @@
         "expoGo": true
     },
     {
-        "githubUrl": "https://github.com/expo/react-native-fade-in-image",
-        "examples": [
-            "https://exp.host/@community/fade-in-image-example"
-        ],
-        "ios": true,
-        "android": true,
-        "expoGo": true
-    },
-    {
         "githubUrl": "https://github.com/moschan/react-native-flip-card",
         "ios": true,
         "android": true,

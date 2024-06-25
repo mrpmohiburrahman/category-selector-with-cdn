@@ -31977,59 +31977,7 @@
     "popularity": -0.068,
     "uniqueCategory": "header"
   },
-  "https://github.com/expo/react-native-fade-in-image": {
-    "githubUrl": "https://github.com/expo/react-native-fade-in-image",
-    "examples": [
-      "https://exp.host/@community/fade-in-image-example"
-    ],
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "react-native-fade-in-image",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/expo/react-native-fade-in-image",
-        "clone": "https://github.com/expo/react-native-fade-in-image.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-14T14:25:11Z",
-        "createdAt": "2016-09-25T20:14:49Z",
-        "pushedAt": "2023-07-19T22:28:49Z",
-        "issues": 5,
-        "subscribers": 4,
-        "stars": 118,
-        "forks": 24
-      },
-      "name": "react-native-fade-in-image",
-      "fullName": "expo/react-native-fade-in-image",
-      "description": null,
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 22817,
-      "weekDownloads": 3683,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 44,
-    "matchingScoreModifiers": [
-      "No license",
-      "Recently updated"
-    ],
-    "popularity": -0.089
-  },
+  
   "https://github.com/moschan/react-native-flip-card": {
     "githubUrl": "https://github.com/moschan/react-native-flip-card",
     "ios": true,
