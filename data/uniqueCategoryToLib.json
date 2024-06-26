@@ -69,7 +69,8 @@
     "https://github.com/bietkul/react-reactive-form",
     "https://github.com/FaridSafi/react-native-gifted-form",
     "https://github.com/esbenp/react-native-clean-form",
-    "https://github.com/danielweinmann/react-native-stateless-form"
+    "https://github.com/danielweinmann/react-native-stateless-form",
+    "https://github.com/gcanti/tcomb-form-native"
   ],
   "map": [
     "https://github.com/huextrat/react-native-maps-routes",
@@ -210,7 +211,8 @@
   "header": [
     "https://github.com/codeherence/react-native-header",
     "https://github.com/bamlab/react-native-image-header-scroll-view",
-    "https://github.com/jaysoo/react-native-parallax-scroll-view"
+    "https://github.com/jaysoo/react-native-parallax-scroll-view",
+    "https://github.com/tuantle/react-native-search-header"
   ],
   "i18n": [
     "https://github.com/facebook/fbt",
@@ -505,7 +507,8 @@
     "https://github.com/joshswan/react-native-autolink",
     "https://github.com/obipawan/react-native-hyperlink",
     "https://github.com/expo/react-native-read-more-text",
-    "https://github.com/eyaleizenberg/react-native-floating-label-text-input"
+    "https://github.com/eyaleizenberg/react-native-floating-label-text-input",
+    "https://github.com/knowbody/react-native-text"
   ],
   "text-editor": [
     "https://github.com/imnapo/react-native-cn-quill"
@@ -527,7 +530,9 @@
     "https://github.com/maxjvh/react-native-simple-modal",
     "https://github.com/crazycodeboy/react-native-easy-toast",
     "https://github.com/lawnstarter/react-native-hotspot",
-    "https://github.com/KBLNY/react-native-message-bar"
+    "https://github.com/KBLNY/react-native-message-bar",
+    "https://github.com/magicismight/react-native-root-modal",
+    "https://github.com/gnestor/react-native-statusbar-alert"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -693,7 +698,10 @@
   "listview": [
     "https://github.com/deanmcpherson/react-native-sortable-listview",
     "https://github.com/gitim/react-native-sortable-list",
-    "https://github.com/rgovindji/react-native-atoz-list"
+    "https://github.com/rgovindji/react-native-atoz-list",
+    "https://github.com/expo/react-native-infinite-scroll-view",
+    "https://github.com/expo/react-native-invertible-scroll-view",
+    "https://github.com/cooperka/react-native-immutable-list-view"
   ],
   "fold-view": [
     "https://github.com/jmurzy/react-native-foldview"
@@ -743,5 +751,24 @@
   ],
   "circular-action-menu": [
     "https://github.com/geremih/react-native-circular-action-menu"
+  ],
+  "emoji-picker": [
+    "https://github.com/yonahforst/react-native-emoji-picker",
+    "https://github.com/jorilallo/react-native-emoji"
+  ],
+  "badge-component": [
+    "https://github.com/react-native-component/react-native-smart-badge"
+  ],
+  "markdown": [
+    "https://github.com/CharlesMangwa/react-native-simple-markdown"
+  ],
+  "device-monitor": [
+    "https://github.com/wildlifela/react-native-device-monitor"
+  ],
+  "fb-audience-sdk": [
+    "https://github.com/callstack/react-native-fbads"
+  ],
+  "deeplink": [
+    "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution"
   ]
 }

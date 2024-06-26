@@ -34054,6 +34054,62 @@
     "popularity": -0.116,
     "uniqueCategory": "image"
   },
+  "https://github.com/expo/react-native-link": {
+    "githubUrl": "https://github.com/expo/react-native-link",
+    "npmPkg": "@expo/react-native-link",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/react-native-link",
+        "clone": "https://github.com/expo/react-native-link.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2023-08-15T16:25:54Z",
+        "createdAt": "2015-05-20T08:52:13Z",
+        "pushedAt": "2018-01-31T18:02:31Z",
+        "issues": 0,
+        "subscribers": 18,
+        "stars": 14,
+        "forks": 3
+      },
+      "name": "react-native-link",
+      "fullName": "expo/react-native-link",
+      "description": "A <Link> element for React Native, analogous to the <A> tag in HTML",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6,
+      "weekDownloads": 0,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -1
+  },
   "https://github.com/yonahforst/react-native-emoji-picker": {
     "githubUrl": "https://github.com/yonahforst/react-native-emoji-picker",
     "ios": true,
@@ -34108,7 +34164,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.659
+    "popularity": -0.659,
+    "uniqueCategory": "emoji-picker"
   },
   "https://github.com/react-native-component/react-native-smart-badge": {
     "githubUrl": "https://github.com/react-native-component/react-native-smart-badge",
@@ -34164,7 +34221,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.819
+    "popularity": -0.819,
+    "uniqueCategory": "badge-component"
   },
   "https://github.com/gcanti/tcomb-form-native": {
     "githubUrl": "https://github.com/gcanti/tcomb-form-native",
@@ -34228,7 +34286,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.271
+    "popularity": -0.271,
+    "uniqueCategory": "form"
   },
   "https://github.com/expo/react-native-infinite-scroll-view": {
     "githubUrl": "https://github.com/expo/react-native-infinite-scroll-view",
@@ -34282,7 +34341,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.341
+    "popularity": -0.341,
+    "uniqueCategory": "listview"
   },
   "https://github.com/expo/react-native-invertible-scroll-view": {
     "githubUrl": "https://github.com/expo/react-native-invertible-scroll-view",
@@ -34341,7 +34401,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.05
+    "popularity": -0.05,
+    "uniqueCategory": "listview"
   },
   "https://github.com/magicismight/react-native-root-modal": {
     "githubUrl": "https://github.com/magicismight/react-native-root-modal",
@@ -34394,7 +34455,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/jorilallo/react-native-emoji": {
     "githubUrl": "https://github.com/jorilallo/react-native-emoji",
@@ -34450,7 +34512,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.342
+    "popularity": -0.342,
+    "uniqueCategory": "emoji-picker"
   },
   "https://github.com/CharlesMangwa/react-native-simple-markdown": {
     "githubUrl": "https://github.com/CharlesMangwa/react-native-simple-markdown",
@@ -34519,7 +34582,8 @@
     "popularity": -0.025,
     "category": [
       "markdown"
-    ]
+    ],
+    "uniqueCategory": "markdown"
   },
   "https://github.com/gnestor/react-native-statusbar-alert": {
     "githubUrl": "https://github.com/gnestor/react-native-statusbar-alert",
@@ -34584,7 +34648,8 @@
     "category": [
       "statusbar",
       "alert"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/knowbody/react-native-text": {
     "githubUrl": "https://github.com/knowbody/react-native-text",
@@ -34643,7 +34708,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.008
+    "popularity": -0.008,
+    "uniqueCategory": "text"
   },
   "https://github.com/cooperka/react-native-immutable-list-view": {
     "githubUrl": "https://github.com/cooperka/react-native-immutable-list-view",
@@ -34715,7 +34781,8 @@
       "listview",
       "flatlist",
       "virtualizedlist"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/tuantle/react-native-search-header": {
     "githubUrl": "https://github.com/tuantle/react-native-search-header",
@@ -34768,7 +34835,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.057
+    "popularity": -0.057,
+    "uniqueCategory": "header"
   },
   "https://github.com/wildlifela/react-native-device-monitor": {
     "githubUrl": "https://github.com/wildlifela/react-native-device-monitor",
@@ -34817,7 +34885,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.617
+    "popularity": -0.617,
+    "uniqueCategory": "device-monitor"
   },
   "https://github.com/callstack/react-native-fbads": {
     "githubUrl": "https://github.com/callstack/react-native-fbads",
@@ -34885,7 +34954,8 @@
     "popularity": -0.096,
     "category": [
       "facebook-sdk"
-    ]
+    ],
+    "uniqueCategory": "fb-audience-sdk"
   },
   "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution": {
     "githubUrl": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
@@ -34963,7 +35033,8 @@
       "branch",
       "metrics",
       "analytics"
-    ]
+    ],
+    "uniqueCategory": "deeplink"
   },
   "https://github.com/expo/expo/tree/main/packages/expo-branch": {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-branch",
