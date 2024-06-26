@@ -31977,7 +31977,6 @@
     "popularity": -0.068,
     "uniqueCategory": "header"
   },
-
   "https://github.com/moschan/react-native-flip-card": {
     "githubUrl": "https://github.com/moschan/react-native-flip-card",
     "ios": true,
@@ -32045,7 +32044,8 @@
     "popularity": -0.035,
     "category": [
       "card-component"
-    ]
+    ],
+    "uniqueCategory": "flip-card"
   },
   "https://github.com/evollu/react-native-fcm": {
     "githubUrl": "https://github.com/evollu/react-native-fcm",
@@ -32121,7 +32121,8 @@
       "fcm",
       "notifications",
       "local-notifications"
-    ]
+    ],
+    "uniqueCategory": "firebase"
   },
   "https://github.com/crazycodeboy/react-native-easy-toast": {
     "githubUrl": "https://github.com/crazycodeboy/react-native-easy-toast",
@@ -32193,7 +32194,8 @@
     "category": [
       "toast",
       "react-native-toast"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/harshq/react-native-mentions": {
     "githubUrl": "https://github.com/harshq/react-native-mentions",
@@ -32262,7 +32264,8 @@
       "mentions",
       "autocomplete",
       "hashtag"
-    ]
+    ],
+    "uniqueCategory": "autocomplete"
   },
   "https://github.com/machadogj/react-native-carousel-control": {
     "githubUrl": "https://github.com/machadogj/react-native-carousel-control",
@@ -32377,7 +32380,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.077
+    "popularity": -0.077,
+    "uniqueCategory": "settings-page"
   },
   "https://github.com/esbenp/react-native-clean-form": {
     "githubUrl": "https://github.com/esbenp/react-native-clean-form",
@@ -32446,7 +32450,8 @@
     "popularity": -0.439,
     "category": [
       "redux-form"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   "https://github.com/naoufal/react-native-accordion": {
     "githubUrl": "https://github.com/naoufal/react-native-accordion",
@@ -32503,7 +32508,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.277
+    "popularity": -0.277,
+    "uniqueCategory": "accordion"
   },
   "https://github.com/race604/react-native-viewpager": {
     "githubUrl": "https://github.com/race604/react-native-viewpager",

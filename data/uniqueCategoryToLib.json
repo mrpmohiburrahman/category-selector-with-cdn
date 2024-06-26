@@ -65,7 +65,8 @@
     "https://github.com/CareLuLu/react-native-web-jsonschema-form",
     "https://github.com/MAKARD/react-native-formawesome",
     "https://github.com/bietkul/react-reactive-form",
-    "https://github.com/FaridSafi/react-native-gifted-form"
+    "https://github.com/FaridSafi/react-native-gifted-form",
+    "https://github.com/esbenp/react-native-clean-form"
   ],
   "map": [
     "https://github.com/huextrat/react-native-maps-routes",
@@ -229,7 +230,8 @@
     "https://github.com/invertase/react-native-firebase/tree/main/packages/functions"
   ],
   "firebase": [
-    "https://github.com/invertase/react-native-firebase/tree/main/packages/app"
+    "https://github.com/invertase/react-native-firebase/tree/main/packages/app",
+    "https://github.com/evollu/react-native-fcm"
   ],
   "db": [
     "https://github.com/invertase/react-native-firebase/tree/main/packages/firestore",
@@ -505,7 +507,8 @@
     "https://github.com/react-native-modal/react-native-modal",
     "https://github.com/aakashns/react-native-dialogs",
     "https://github.com/testshallpass/react-native-dropdownalert",
-    "https://github.com/maxjvh/react-native-simple-modal"
+    "https://github.com/maxjvh/react-native-simple-modal",
+    "https://github.com/crazycodeboy/react-native-easy-toast"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -679,5 +682,17 @@
   ],
   "loader-spinner": [
     "https://github.com/mohebifar/react-native-loader"
+  ],
+  "flip-card": [
+    "https://github.com/moschan/react-native-flip-card"
+  ],
+  "autocomplete": [
+    "https://github.com/harshq/react-native-mentions"
+  ],
+  "settings-page": [
+    "https://github.com/evetstech/react-native-settings-list"
+  ],
+  "accordion": [
+    "https://github.com/naoufal/react-native-accordion"
   ]
 }
