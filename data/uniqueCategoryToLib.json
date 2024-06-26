@@ -29,7 +29,8 @@
     "https://github.com/expo/expo/tree/main/packages/expo-google-app-auth",
     "https://github.com/SectionTN/otp-input",
     "https://github.com/jodybrewster/react-native-linkedin-login",
-    "https://github.com/sbycrosz/react-native-credit-card-input"
+    "https://github.com/sbycrosz/react-native-credit-card-input",
+    "https://github.com/Forward-Software/react-auth"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -310,7 +311,8 @@
     "https://github.com/hirbod/expo-video-metadata",
     "https://github.com/imgly/vesdk-react-native",
     "https://github.com/wcisco17/react-native-animation-video",
-    "https://github.com/react-native-video/react-native-video"
+    "https://github.com/react-native-video/react-native-video",
+    "https://github.com/expo/expo/tree/main/packages/expo-video-thumbnails"
   ],
   "keep-awake": [
     "https://github.com/expo/expo/tree/main/packages/expo-keep-awake"
@@ -508,7 +510,8 @@
     "https://github.com/aakashns/react-native-dialogs",
     "https://github.com/testshallpass/react-native-dropdownalert",
     "https://github.com/maxjvh/react-native-simple-modal",
-    "https://github.com/crazycodeboy/react-native-easy-toast"
+    "https://github.com/crazycodeboy/react-native-easy-toast",
+    "https://github.com/lawnstarter/react-native-hotspot"
   ],
   "draftbit": [
     "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui"
@@ -694,5 +697,12 @@
   ],
   "accordion": [
     "https://github.com/naoufal/react-native-accordion"
+  ],
+  "assets": [
+    "https://github.com/Malaa-tech/expo-custom-assets",
+    "https://github.com/expo/expo/tree/main/packages/expo-asset"
+  ],
+  "accessibility-testing": [
+    "https://github.com/aryella-lacerda/react-native-accessibility-engine"
   ]
 }
