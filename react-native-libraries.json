@@ -3009,14 +3009,6 @@
         "dev": true
     },
     {
-        "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-enzyme",
-        "ios": true,
-        "android": true,
-        "web": true,
-        "expoGo": true,
-        "dev": true
-    },
-    {
         "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer",
         "web": true,
         "expoGo": true,
