@@ -32577,7 +32577,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.31
+    "popularity": -0.31,
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/gs-akhan/react-native-chooser": {
     "githubUrl": "https://github.com/gs-akhan/react-native-chooser",
@@ -32647,7 +32648,8 @@
     "category": [
       "select-tag",
       "chooser"
-    ]
+    ],
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/mrlaessig/react-native-autocomplete-input": {
     "githubUrl": "https://github.com/mrlaessig/react-native-autocomplete-input",
@@ -32724,7 +32726,8 @@
     "category": [
       "autocomplete",
       "input"
-    ]
+    ],
+    "uniqueCategory": "autocomplete"
   },
   "https://github.com/aksonov/react-native-tabs": {
     "githubUrl": "https://github.com/aksonov/react-native-tabs",
@@ -32783,7 +32786,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.076
+    "popularity": -0.076,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/GeekyAnts/react-native-easy-grid": {
     "githubUrl": "https://github.com/GeekyAnts/react-native-easy-grid",
@@ -32848,7 +32852,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "uniqueCategory": "flex-grid"
   },
   "https://github.com/ArnaudRinquin/react-native-radio-buttons": {
     "githubUrl": "https://github.com/ArnaudRinquin/react-native-radio-buttons",
@@ -32913,7 +32918,8 @@
     "popularity": -0.27,
     "category": [
       "radio-buttons"
-    ]
+    ],
+    "uniqueCategory": "radio-button"
   },
   "https://github.com/Spikef/react-native-gesture-password": {
     "githubUrl": "https://github.com/Spikef/react-native-gesture-password",
@@ -32981,7 +32987,8 @@
     "popularity": -0.44,
     "category": [
       "gesture-password"
-    ]
+    ],
+    "uniqueCategory": "gesture-password"
   },
   "https://github.com/christopherdro/react-native-calendar": {
     "githubUrl": "https://github.com/christopherdro/react-native-calendar",
@@ -33038,7 +33045,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.253
+    "popularity": -0.253,
+    "uniqueCategory": "calendar"
   },
   "https://github.com/joinspontaneous/react-native-loading-spinner-overlay": {
     "githubUrl": "https://github.com/joinspontaneous/react-native-loading-spinner-overlay",
@@ -33125,7 +33133,8 @@
       "activity-indicator",
       "progress-circle",
       "progress-indicator"
-    ]
+    ],
+    "uniqueCategory": "loader-spinner"
   },
   "https://github.com/jaysoo/react-native-parallax-scroll-view": {
     "githubUrl": "https://github.com/jaysoo/react-native-parallax-scroll-view",
@@ -33188,7 +33197,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "uniqueCategory": "header"
   },
   "https://github.com/alinz/react-native-tabbar": {
     "githubUrl": "https://github.com/alinz/react-native-tabbar",
@@ -33244,7 +33254,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.912
+    "popularity": -0.912,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/KBLNY/react-native-message-bar": {
     "githubUrl": "https://github.com/KBLNY/react-native-message-bar",
@@ -33306,7 +33317,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.337
+    "popularity": -0.337,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/eyaleizenberg/react-native-floating-label-text-input": {
     "githubUrl": "https://github.com/eyaleizenberg/react-native-floating-label-text-input",
@@ -33361,7 +33373,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.065
+    "popularity": -0.065,
+    "uniqueCategory": "text"
   },
   "https://github.com/naoufal/react-native-progress-hud": {
     "githubUrl": "https://github.com/naoufal/react-native-progress-hud",
@@ -33418,7 +33431,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.345
+    "popularity": -0.345,
+    "uniqueCategory": "loader-spinner"
   },
   "https://github.com/xcarpentier/react-native-country-picker-modal": {
     "githubUrl": "https://github.com/xcarpentier/react-native-country-picker-modal",
@@ -33494,7 +33508,8 @@
       "modal",
       "countries",
       "country-picker"
-    ]
+    ],
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/larsvinter/react-native-awesome-button": {
     "githubUrl": "https://github.com/larsvinter/react-native-awesome-button",
@@ -33553,7 +33568,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.61
+    "popularity": -0.61,
+    "uniqueCategory": "button"
   },
   "https://github.com/matc4/react-native-svg-uri": {
     "githubUrl": "https://github.com/matc4/react-native-svg-uri",
@@ -33611,7 +33627,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "uniqueCategory": "image"
   },
   "https://github.com/alexbrillant/react-native-deck-swiper": {
     "githubUrl": "https://github.com/alexbrillant/react-native-deck-swiper",
@@ -33683,7 +33700,8 @@
       "tinder",
       "card",
       "swipe"
-    ]
+    ],
+    "uniqueCategory": "tinder-like-deck-swiper"
   },
   "https://github.com/d-a-n/react-native-webbrowser": {
     "githubUrl": "https://github.com/d-a-n/react-native-webbrowser",
@@ -33739,7 +33757,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.731
+    "popularity": -0.731,
+    "uniqueCategory": "web-browser"
   },
   "https://github.com/geremih/react-native-circular-action-menu": {
     "githubUrl": "https://github.com/geremih/react-native-circular-action-menu",
@@ -33796,7 +33815,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.093,
-    "category": []
+    "category": [],
+    "uniqueCategory": "circular-action-menu"
   },
   "https://github.com/danielweinmann/react-native-stateless-form": {
     "githubUrl": "https://github.com/danielweinmann/react-native-stateless-form",
@@ -33856,7 +33876,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.829
+    "popularity": -0.829,
+    "uniqueCategory": "form"
   },
   "https://github.com/kirankalyan5/react-native-segmented-control-tab": {
     "githubUrl": "https://github.com/kirankalyan5/react-native-segmented-control-tab",
@@ -33918,7 +33939,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.054
+    "popularity": -0.054,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/rgovindji/react-native-atoz-list": {
     "githubUrl": "https://github.com/rgovindji/react-native-atoz-list",
@@ -33974,7 +33996,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.721
+    "popularity": -0.721,
+    "uniqueCategory": "listview"
   },
   "https://github.com/expo/react-native-responsive-image": {
     "githubUrl": "https://github.com/expo/react-native-responsive-image",
@@ -34028,7 +34051,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.116
+    "popularity": -0.116,
+    "uniqueCategory": "image"
   },
   "https://github.com/expo/react-native-link": {
     "githubUrl": "https://github.com/expo/react-native-link",

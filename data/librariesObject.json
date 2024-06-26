@@ -28121,54 +28121,7 @@
     "category": ["check-box", "checkbox-component", "react-native-checkbox"],
     "uniqueCategory": "checkbox"
   },
-  "https://github.com/expo/react-native-loading-container": {
-    "githubUrl": "https://github.com/expo/react-native-loading-container",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-loading-container",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/expo/react-native-loading-container",
-        "clone": "https://github.com/expo/react-native-loading-container.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-01-28T10:19:36Z",
-        "createdAt": "2015-12-12T04:09:08Z",
-        "pushedAt": "2017-05-03T18:27:22Z",
-        "issues": 3,
-        "subscribers": 5,
-        "stars": 156,
-        "forks": 19
-      },
-      "name": "react-native-loading-container",
-      "fullName": "expo/react-native-loading-container",
-      "description": "A container component that takes care of loading/catching timeouts/retrying",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 33,
-      "weekDownloads": 3,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 25,
-    "matchingScoreModifiers": ["No license", "Not updated recently"],
-    "popularity": -0.852
-  },
+  
   "https://github.com/meteor-factory/react-native-tinder-swipe-cards": {
     "githubUrl": "https://github.com/meteor-factory/react-native-tinder-swipe-cards",
     "ios": true,
