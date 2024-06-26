@@ -9670,74 +9670,7 @@
     "matchScore": 11,
     "category": ["test"]
   },
-  "https://github.com/RealOrangeOne/react-native-mock": {
-    "githubUrl": "https://github.com/RealOrangeOne/react-native-mock",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "github": {
-      "urls": {
-        "repo": "https://github.com/RealOrangeOne/react-native-mock",
-        "clone": "https://github.com/RealOrangeOne/react-native-mock.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2019-06-30T19:42:55Z",
-        "createdAt": "2016-01-30T22:27:14Z",
-        "pushedAt": "2019-06-30T19:42:55Z",
-        "forks": 133,
-        "issues": 33,
-        "subscribers": 22,
-        "stars": 568
-      },
-      "name": "react-native-mock",
-      "fullName": "RealOrangeOne/react-native-mock",
-      "description": "A fully mocked and test-friendly version of react native (maintainers wanted)",
-      "topics": [
-        "react",
-        "react-native",
-        "mock",
-        "testing",
-        "react-native-mock"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "http://choosealicense.com/licenses/mit/",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Version 0.3.1",
-        "tagName": "v0.3.1",
-        "createdAt": "2017-02-03T19:36:10Z",
-        "publishedAt": "2017-02-03T19:54:52Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "images": [],
-    "npmPkg": "react-native-mock",
-    "npm": {
-      "downloads": 5162,
-      "start": "2024-04-24",
-      "end": "2024-05-23",
-      "period": "month",
-      "weekDownloads": 1171
-    },
-    "score": 38,
-    "matchingScoreModifiers": ["Not updated recently"],
-    "popularity": -0.273,
-    "topicSearchString": "react react-native mock testing react-native-mock",
-    "matchScore": 0.011,
-    "category": ["test"]
-  },
+  
   "https://github.com/lwansbrough/react-native-ab": {
     "githubUrl": "https://github.com/lwansbrough/react-native-ab",
     "ios": true,

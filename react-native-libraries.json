@@ -5028,12 +5028,6 @@
         "expoGo": true
     },
     {
-        "githubUrl": "https://github.com/RealOrangeOne/react-native-mock",
-        "ios": true,
-        "android": true,
-        "unmaintained": true
-    },
-    {
         "githubUrl": "https://github.com/reactjs/react-timer-mixin",
         "ios": true,
         "android": true,

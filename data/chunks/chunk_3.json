@@ -30,11 +30,7 @@
       "name": "vision-camera-code-scanner",
       "fullName": "rodgomesc/vision-camera-code-scanner",
       "description": "VisionCamera Frame Processor Plugin to read barcodes  using MLKit Vision QrCode Scanning",
-      "topics": [
-        "react-native",
-        "ios",
-        "android"
-      ],
+      "topics": ["react-native", "ios", "android"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -62,16 +58,11 @@
       "weekDownloads": 6
     },
     "score": 25,
-    "matchingScoreModifiers": [
-      "Lots of open issues",
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Lots of open issues", "Not updated recently"],
     "popularity": -0.402,
     "topicSearchString": "react-native ios android",
     "matchScore": 110,
-    "category": [
-      "camera"
-    ]
+    "category": ["camera"]
   },
   {
     "githubUrl": "https://github.com/rodgomesc/vision-camera-code-scanner",
@@ -104,11 +95,7 @@
       "name": "vision-camera-code-scanner",
       "fullName": "rodgomesc/vision-camera-code-scanner",
       "description": "VisionCamera Frame Processor Plugin to read barcodes  using MLKit Vision QrCode Scanning",
-      "topics": [
-        "react-native",
-        "ios",
-        "android"
-      ],
+      "topics": ["react-native", "ios", "android"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -136,16 +123,11 @@
       "weekDownloads": 6706
     },
     "score": 25,
-    "matchingScoreModifiers": [
-      "Lots of open issues",
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Lots of open issues", "Not updated recently"],
     "popularity": -0.046,
     "topicSearchString": "react-native ios android",
     "matchScore": 110,
-    "category": [
-      "camera"
-    ]
+    "category": ["camera"]
   },
   {
     "githubUrl": "https://github.com/rodgomesc/vision-camera-face-detector",
@@ -177,11 +159,7 @@
       "name": "vision-camera-face-detector",
       "fullName": "rodgomesc/vision-camera-face-detector",
       "description": "VisionCamera Frame Processor Plugin to detect faces using MLKit Vision Face Detector",
-      "topics": [
-        "react-native",
-        "ios",
-        "android"
-      ],
+      "topics": ["react-native", "ios", "android"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -209,15 +187,11 @@
       "weekDownloads": 503
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": 0.044,
     "topicSearchString": "react-native ios android",
     "matchScore": 110,
-    "category": [
-      "camera"
-    ]
+    "category": ["camera"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-barcode-scanner",
@@ -247,12 +221,7 @@
       "name": "expo-barcode-scanner",
       "fullName": "expo/expo",
       "description": "Allows scanning variety of supported barcodes both as standalone module and as extension for expo-camera. It also allows scanning barcodes from existing images.",
-      "topics": [
-        "barcode",
-        "barcode-scanner",
-        "react-native",
-        "expo"
-      ],
+      "topics": ["barcode", "barcode-scanner", "react-native", "expo"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -283,9 +252,7 @@
     "popularity": -0.031,
     "topicSearchString": "barcode barcode-scanner react-native expo",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/RobertSasak/react-native-openalpr",
@@ -354,16 +321,11 @@
       "weekDownloads": 104
     },
     "score": 44,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Popular", "Not updated recently"],
     "popularity": -0.009,
     "topicSearchString": "react-native openalpr camera camera-component opencv",
     "matchScore": 1,
-    "category": [
-      "camera"
-    ]
+    "category": ["camera"]
   },
   {
     "githubUrl": "https://github.com/react-native-camera/react-native-camera",
@@ -421,9 +383,7 @@
     "popularity": -0.279,
     "topicSearchString": "",
     "matchScore": 0.11,
-    "category": [
-      "camera"
-    ]
+    "category": ["camera"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-video-thumbnails",
@@ -453,11 +413,7 @@
       "name": "expo-video-thumbnails",
       "fullName": "expo/expo",
       "description": "ExpoVideoThumbnails standalone module",
-      "topics": [
-        "react-native",
-        "expo",
-        "expo-video-thumbnails"
-      ],
+      "topics": ["react-native", "expo", "expo-video-thumbnails"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -487,9 +443,7 @@
     "popularity": -0.022,
     "topicSearchString": "react-native expo expo-video-thumbnails",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-task-manager",
@@ -519,13 +473,7 @@
       "name": "expo-task-manager",
       "fullName": "expo/expo",
       "description": "Expo module that provides support for tasks that can run in the background.",
-      "topics": [
-        "expo",
-        "react-native",
-        "task-manager",
-        "task",
-        "background"
-      ],
+      "topics": ["expo", "react-native", "task-manager", "task", "background"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -555,9 +503,7 @@
     "popularity": -0.04,
     "topicSearchString": "expo react-native task-manager task background",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-av",
@@ -588,12 +534,7 @@
       "name": "expo-av",
       "fullName": "expo/expo",
       "description": "Expo universal module for Audio and Video playback",
-      "topics": [
-        "expo",
-        "react-native",
-        "audio",
-        "video"
-      ],
+      "topics": ["expo", "react-native", "audio", "video"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -623,9 +564,7 @@
     "popularity": -0.02,
     "topicSearchString": "expo react-native audio video",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-keep-awake",
@@ -655,12 +594,7 @@
       "name": "expo-keep-awake",
       "fullName": "expo/expo",
       "description": "Provides a React component that prevents the screen sleeping when rendered. It also exposes static methods to control the behavior imperatively.",
-      "topics": [
-        "react-native",
-        "expo",
-        "awake",
-        "keep-awake"
-      ],
+      "topics": ["react-native", "expo", "awake", "keep-awake"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -692,9 +626,7 @@
     "popularity": -0.011,
     "topicSearchString": "react-native expo awake keep-awake",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation",
@@ -763,9 +695,7 @@
     "popularity": -0.023,
     "topicSearchString": "react-native expo expo-screen-orientation orientation screen",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-screen-capture",
@@ -796,11 +726,7 @@
       "name": "expo-screen-capture",
       "fullName": "expo/expo",
       "description": "ExpoScreenCapture standalone module",
-      "topics": [
-        "react-native",
-        "expo",
-        "expo-screen-capture"
-      ],
+      "topics": ["react-native", "expo", "expo-screen-capture"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -830,9 +756,7 @@
     "popularity": 0.013,
     "topicSearchString": "react-native expo expo-screen-capture",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-router",
@@ -868,10 +792,7 @@
       "name": "expo-router",
       "fullName": "expo/expo",
       "description": "Expo Router is a file-based router for React Native and web applications.",
-      "topics": [
-        "react-native",
-        "expo"
-      ],
+      "topics": ["react-native", "expo"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -901,9 +822,7 @@
     "popularity": -0.008,
     "topicSearchString": "react-native expo",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/vector-icons",
@@ -913,9 +832,7 @@
     "web": true,
     "expoGo": true,
     "goldstar": true,
-    "examples": [
-      "https://icons.expo.io"
-    ],
+    "examples": ["https://icons.expo.io"],
     "github": {
       "urls": {
         "repo": "https://github.com/expo/vector-icons",
@@ -939,12 +856,7 @@
       "name": "vector-icons",
       "fullName": "expo/vector-icons",
       "description": "Built-in support for popular icon fonts and the tooling to create your own Icon components from your font and glyph map. This is a wrapper around react-native-vector-icons to make it compatible with Expo.",
-      "topics": [
-        "expo",
-        "react-native",
-        "icons",
-        "icon-pack"
-      ],
+      "topics": ["expo", "react-native", "icons", "icon-pack"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -973,9 +885,7 @@
     "popularity": -0.018,
     "topicSearchString": "expo react-native icons icon-pack",
     "matchScore": 111,
-    "category": [
-      "icon"
-    ]
+    "category": ["icon"]
   },
   {
     "githubUrl": "https://github.com/Malaa-tech/expo-custom-assets",
@@ -1008,12 +918,7 @@
       "name": "expo-custom-assets",
       "fullName": "Malaa-tech/expo-custom-assets",
       "description": "Expo plugin to add custom assets to native codebase",
-      "topics": [
-        "react",
-        "expo",
-        "config-plugins",
-        "prebuild"
-      ],
+      "topics": ["react", "expo", "config-plugins", "prebuild"],
       "license": null,
       "lastRelease": {
         "name": "1.3.1",
@@ -1035,15 +940,11 @@
       "weekDownloads": 203
     },
     "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
+    "matchingScoreModifiers": ["Recently updated"],
     "popularity": -0.151,
     "topicSearchString": "react expo config-plugins prebuild",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-asset",
@@ -1074,11 +975,7 @@
       "name": "expo-asset",
       "fullName": "expo/expo",
       "description": "An Expo universal module to download assets and pass them into other APIs",
-      "topics": [
-        "react-native",
-        "expo",
-        "asset"
-      ],
+      "topics": ["react-native", "expo", "asset"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -1108,9 +1005,7 @@
     "popularity": -0.017,
     "topicSearchString": "react-native expo asset",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-store-review",
@@ -1140,11 +1035,7 @@
       "name": "expo-store-review",
       "fullName": "expo/expo",
       "description": "ExpoStoreReview standalone module",
-      "topics": [
-        "react-native",
-        "expo",
-        "expo-store-review"
-      ],
+      "topics": ["react-native", "expo", "expo-store-review"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -1176,9 +1067,7 @@
     "popularity": -0.021,
     "topicSearchString": "react-native expo expo-store-review",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo-three",
@@ -1247,16 +1136,11 @@
       "weekDownloads": 3708
     },
     "score": 44,
-    "matchingScoreModifiers": [
-      "Lots of open issues",
-      "Recently updated"
-    ],
+    "matchingScoreModifiers": ["Lots of open issues", "Recently updated"],
     "popularity": -0.061,
     "topicSearchString": "three.js three gaming graphics opengl gl expo arkit expo-web react react-native react-native-web threejs ar-session javascript javascript-game",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-processing",
@@ -1287,13 +1171,7 @@
       "name": "expo-processing",
       "fullName": "expo/expo",
       "description": "Utilities for using Processing.js on Expo",
-      "topics": [
-        "expo",
-        "processing.js",
-        "graphics",
-        "opengl",
-        "gl"
-      ],
+      "topics": ["expo", "processing.js", "graphics", "opengl", "gl"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -1323,9 +1201,7 @@
     "popularity": -0.188,
     "topicSearchString": "expo processing.js graphics opengl gl",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-crypto",
@@ -1396,9 +1272,7 @@
     "popularity": -0.023,
     "topicSearchString": "react-native react-native-web expo crypto ios android web native",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-background-fetch",
@@ -1463,9 +1337,7 @@
     "popularity": -0.042,
     "topicSearchString": "expo react-native fetch background background-fetch",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sharing",
@@ -1496,11 +1368,7 @@
       "name": "expo-sharing",
       "fullName": "expo/expo",
       "description": "ExpoSharing standalone module",
-      "topics": [
-        "react-native",
-        "expo",
-        "expo-sharing"
-      ],
+      "topics": ["react-native", "expo", "expo-sharing"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -1529,9 +1397,7 @@
     "popularity": -0.022,
     "topicSearchString": "react-native expo expo-sharing",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-status-bar",
@@ -1561,11 +1427,7 @@
       "name": "expo-status-bar",
       "fullName": "expo/expo",
       "description": "Provides the same interface as the React Native StatusBar API, but with slightly different defaults to work great in Expo environments.",
-      "topics": [
-        "react-native",
-        "expo",
-        "expo-status-bar"
-      ],
+      "topics": ["react-native", "expo", "expo-status-bar"],
       "license": {
         "name": "MIT License",
         "url": "http://choosealicense.com/licenses/mit/",
@@ -1594,9 +1456,7 @@
     "popularity": -0.016,
     "topicSearchString": "react-native expo expo-status-bar",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/hirbod/expo-video-metadata",
@@ -1671,9 +1531,7 @@
     "popularity": -0.083,
     "topicSearchString": "react-native expo expo-video-metadata expovideometadata video-module video-metadata video metadata",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/Malaa-tech/expo-squircle-view",
@@ -1742,18 +1600,14 @@
     "popularity": -0.584,
     "topicSearchString": "react-native expo expo-squircle-view exposquircleview",
     "matchScore": 111,
-    "category": [
-      "ui"
-    ]
+    "category": ["ui"]
   },
   {
     "githubUrl": "https://github.com/andrei-zgirvaci/expo-stable-diffusion",
     "examples": [
       "https://github.com/andrei-zgirvaci/expo-stable-diffusion/tree/main/example"
     ],
-    "images": [
-      "https://i.imgur.com/1KaxBff.jpg"
-    ],
+    "images": ["https://i.imgur.com/1KaxBff.jpg"],
     "ios": true,
     "github": {
       "urls": {
@@ -1818,15 +1672,11 @@
       "weekDownloads": 1
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.65,
     "topicSearchString": "react-native expo expo-stable-diffusion expostablediffusion ai ane coreml ios ipad ipados iphone stable-diffusion",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/outsung/expo-dynamic-app-icon",
@@ -1891,15 +1741,11 @@
       "weekDownloads": 691
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.008,
     "topicSearchString": "react-native expo expo-dynamic-app-icon expodynamicappicon",
     "matchScore": 111,
-    "category": [
-      "icon"
-    ]
+    "category": ["icon"]
   },
   {
     "githubUrl": "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check-expo",
@@ -1960,16 +1806,11 @@
       "weekDownloads": 2039
     },
     "score": 44,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Popular", "Not updated recently"],
     "popularity": 0.039,
     "topicSearchString": "react-native expo android ios version-check version app-version market-version app-store-version",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/nikochan2k/expo-split-pane",
@@ -2031,15 +1872,11 @@
       "weekDownloads": 1
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.717,
     "topicSearchString": "react expo react-native react-native-web split divider movable",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/brunon80/expo-image-crop",
@@ -2075,13 +1912,7 @@
       "name": "expo-image-crop",
       "fullName": "brunon80/expo-image-crop",
       "description": "Crop and rotate image without detach your expo project!",
-      "topics": [
-        "expo",
-        "react-native",
-        "crop",
-        "image",
-        "rotate"
-      ],
+      "topics": ["expo", "react-native", "crop", "image", "rotate"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -2101,15 +1932,11 @@
       "weekDownloads": 311
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.025,
     "topicSearchString": "expo react-native crop image rotate",
     "matchScore": 111,
-    "category": [
-      "image"
-    ]
+    "category": ["image"]
   },
   {
     "githubUrl": "https://github.com/expo/match-media",
@@ -2172,15 +1999,11 @@
       "period": "month"
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.072,
     "topicSearchString": "css css-in-js match-media expo expo-web react react-native react-native-web responsive breakpoint polyfill",
     "matchScore": 111,
-    "category": [
-      "expo"
-    ]
+    "category": ["expo"]
   },
   {
     "githubUrl": "https://github.com/wix/Detox",
@@ -2189,9 +2012,7 @@
     "examples": [
       "https://github.com/wix/Detox/tree/master/examples/demo-react-native"
     ],
-    "images": [
-      "https://github.com/wix/Detox/raw/master/docs/img/Detox.gif"
-    ],
+    "images": ["https://github.com/wix/Detox/raw/master/docs/img/Detox.gif"],
     "ios": true,
     "android": true,
     "dev": true,
@@ -2263,9 +2084,7 @@
     "popularity": -0.022,
     "topicSearchString": "e2e-tests ios react-native android testing javascript automation testing-tools test-automation",
     "matchScore": 10,
-    "category": [
-      "framework"
-    ]
+    "category": ["framework"]
   },
   {
     "githubUrl": "https://github.com/callstack/reassure",
@@ -2336,16 +2155,11 @@
       "weekDownloads": 26992
     },
     "score": 63,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Recently updated"
-    ],
+    "matchingScoreModifiers": ["Popular", "Recently updated"],
     "popularity": -0.026,
     "topicSearchString": "react-native ios android performance performance-testing react regression testing hacktoberfest",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/FormidableLabs/react-native-owl",
@@ -2417,15 +2231,11 @@
       "weekDownloads": 429
     },
     "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
+    "matchingScoreModifiers": ["Recently updated"],
     "popularity": 0.012,
     "topicSearchString": "react-native ios android mobile visual-regression testing tooling react javscript typescript",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/rumax/react-native-PixelsCatcher",
@@ -2490,9 +2300,7 @@
     "popularity": -0.039,
     "topicSearchString": "react-native-view-android-ios-ui-screenshot-snapshot-testing react-native testing ui view screenshot",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/iamolegga/react-native-launch-arguments",
@@ -2552,15 +2360,11 @@
       "weekDownloads": 22923
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.051,
     "topicSearchString": "react native react-native launch arguments detox testing appium",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/mutualmobile/react-native-barricade",
@@ -2643,9 +2447,7 @@
     "popularity": -1,
     "topicSearchString": "react-native react mobile ios android http interceptor mock-api mock network pretender prototype server testing mockapi typescipt",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/aryella-lacerda/react-native-accessibility-engine",
@@ -2714,87 +2516,11 @@
       "weekDownloads": 6392
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.064,
     "topicSearchString": "react-native jest testing testing-library a11y accessibility ios android",
     "matchScore": 11,
-    "category": [
-      "test"
-    ]
-  },
-  {
-    "githubUrl": "https://github.com/RealOrangeOne/react-native-mock",
-    "ios": true,
-    "android": true,
-    "unmaintained": true,
-    "github": {
-      "urls": {
-        "repo": "https://github.com/RealOrangeOne/react-native-mock",
-        "clone": "https://github.com/RealOrangeOne/react-native-mock.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2019-06-30T19:42:55Z",
-        "createdAt": "2016-01-30T22:27:14Z",
-        "pushedAt": "2019-06-30T19:42:55Z",
-        "forks": 133,
-        "issues": 33,
-        "subscribers": 22,
-        "stars": 568
-      },
-      "name": "react-native-mock",
-      "fullName": "RealOrangeOne/react-native-mock",
-      "description": "A fully mocked and test-friendly version of react native (maintainers wanted)",
-      "topics": [
-        "react",
-        "react-native",
-        "mock",
-        "testing",
-        "react-native-mock"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "http://choosealicense.com/licenses/mit/",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Version 0.3.1",
-        "tagName": "v0.3.1",
-        "createdAt": "2017-02-03T19:36:10Z",
-        "publishedAt": "2017-02-03T19:54:52Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "images": [],
-    "npmPkg": "react-native-mock",
-    "npm": {
-      "downloads": 5162,
-      "start": "2024-04-24",
-      "end": "2024-05-23",
-      "period": "month",
-      "weekDownloads": 1171
-    },
-    "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
-    "popularity": -0.273,
-    "topicSearchString": "react react-native mock testing react-native-mock",
-    "matchScore": 0.011,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/lwansbrough/react-native-ab",
@@ -2848,15 +2574,11 @@
       "weekDownloads": 0
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -1,
     "topicSearchString": "react native ab test testing experiment variant",
     "matchScore": 0.011,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo",
@@ -2918,9 +2640,7 @@
     "popularity": -0.009,
     "topicSearchString": "",
     "matchScore": 10,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-enzyme",
@@ -2979,9 +2699,7 @@
     "popularity": -0.019,
     "topicSearchString": "",
     "matchScore": 100,
-    "category": [
-      "jest"
-    ]
+    "category": ["jest"]
   },
   {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer",
@@ -3038,9 +2756,7 @@
     "popularity": -0.617,
     "topicSearchString": "",
     "matchScore": 100,
-    "category": [
-      "jest"
-    ]
+    "category": ["jest"]
   },
   {
     "githubUrl": "https://github.com/testfairy/react-native-testfairy",
@@ -3111,9 +2827,7 @@
     "popularity": -0.083,
     "topicSearchString": "react-component testfairy react-native ios android",
     "matchScore": 111,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/jpudysz/react-native-is-maestro",
@@ -3146,11 +2860,7 @@
       "name": "react-native-is-maestro",
       "fullName": "jpudysz/react-native-is-maestro",
       "description": "Detect synchronously if your app is currently running in an E2E test environment with Maestro",
-      "topics": [
-        "react-native",
-        "ios",
-        "android"
-      ],
+      "topics": ["react-native", "ios", "android"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -3178,15 +2888,11 @@
       "weekDownloads": 2125
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.04,
     "topicSearchString": "react-native ios android",
     "matchScore": 10,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/ximxim/react-native-feedback-reporter",
@@ -3221,13 +2927,7 @@
       "name": "react-native-feedback-reporter",
       "fullName": "ximxim/react-native-feedback-reporter",
       "description": "RNFR is on a mission to help developers get useful information from testers to help debug issues by automatically gathering information and integrating it with popular tools.",
-      "topics": [
-        "react-native",
-        "ios",
-        "android",
-        "feedback",
-        "reporter"
-      ],
+      "topics": ["react-native", "ios", "android", "feedback", "reporter"],
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -3254,15 +2954,11 @@
       "weekDownloads": 16
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": -0.638,
     "topicSearchString": "react-native ios android feedback reporter",
     "matchScore": 10,
-    "category": [
-      "test"
-    ]
+    "category": ["test"]
   },
   {
     "githubUrl": "https://github.com/thomas-coldwell/expo-image-editor",
@@ -3338,15 +3034,11 @@
       "weekDownloads": 552
     },
     "score": 38,
-    "matchingScoreModifiers": [
-      "Not updated recently"
-    ],
+    "matchingScoreModifiers": ["Not updated recently"],
     "popularity": 0.079,
     "topicSearchString": "react react-native image image-editor image-cropping blur expo react-native-web",
     "matchScore": 111,
-    "category": [
-      "image"
-    ]
+    "category": ["image"]
   },
   {
     "githubUrl": "https://github.com/guhungry/react-native-photo-manipulator",
@@ -3425,17 +3117,13 @@
     "popularity": 0.005,
     "topicSearchString": "react-native image-editor image-processing photo-editor photo-manipulator image-manipulation",
     "matchScore": 1,
-    "category": [
-      "image-editor"
-    ]
+    "category": ["image-editor"]
   },
   {
     "githubUrl": "https://github.com/imgly/pesdk-react-native",
     "ios": true,
     "android": true,
-    "examples": [
-      "https://github.com/imgly/pesdk-react-native-demo"
-    ],
+    "examples": ["https://github.com/imgly/pesdk-react-native-demo"],
     "npmPkg": "react-native-photoeditorsdk",
     "github": {
       "urls": {
@@ -3507,9 +3195,7 @@
     "popularity": -0.022,
     "topicSearchString": "react-native image image-editor imageeditor photo photo-editor photoeditor photoeditorsdk photoeditor-sdk sdk ios android photo-editing image-editing image-manipulation",
     "matchScore": 1,
-    "category": [
-      "imageeditor"
-    ]
+    "category": ["imageeditor"]
   },
   {
     "githubUrl": "https://github.com/baronha/react-native-photo-editor",
@@ -3579,14 +3265,10 @@
       "period": "month"
     },
     "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
+    "matchingScoreModifiers": ["Recently updated"],
     "popularity": -0.034,
     "topicSearchString": "react-native ios android photo photoeditor imageeditor photoedit",
     "matchScore": 11,
-    "category": [
-      "imageeditor"
-    ]
+    "category": ["imageeditor"]
   }
 ]
