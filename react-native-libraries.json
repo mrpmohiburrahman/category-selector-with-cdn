@@ -1365,14 +1365,6 @@
     "unmaintained": true
   },
   {
-    "githubUrl": "https://github.com/expo/react-native-link",
-    "npmPkg": "@expo/react-native-link",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true
-  },
-  {
     "githubUrl": "https://github.com/yonahforst/react-native-emoji-picker",
     "ios": true,
     "android": true,

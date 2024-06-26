@@ -31681,60 +31681,6 @@
     "popularity": -0.116
   },
   {
-    "githubUrl": "https://github.com/expo/react-native-link",
-    "npmPkg": "@expo/react-native-link",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "github": {
-      "urls": {
-        "repo": "https://github.com/expo/react-native-link",
-        "clone": "https://github.com/expo/react-native-link.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-08-15T16:25:54Z",
-        "createdAt": "2015-05-20T08:52:13Z",
-        "pushedAt": "2018-01-31T18:02:31Z",
-        "issues": 0,
-        "subscribers": 18,
-        "stars": 14,
-        "forks": 3
-      },
-      "name": "react-native-link",
-      "fullName": "expo/react-native-link",
-      "description": "A <Link> element for React Native, analogous to the <A> tag in HTML",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 6,
-      "weekDownloads": 0,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 38,
-    "matchingScoreModifiers": ["Not updated recently"],
-    "popularity": -1
-  },
-  {
     "githubUrl": "https://github.com/yonahforst/react-native-emoji-picker",
     "ios": true,
     "android": true,
