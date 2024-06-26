@@ -313,7 +313,8 @@
   ],
   "background-task": [
     "https://github.com/expo/expo/tree/main/packages/expo-task-manager",
-    "https://github.com/expo/expo/tree/main/packages/expo-background-fetch"
+    "https://github.com/expo/expo/tree/main/packages/expo-background-fetch",
+    "https://github.com/vikeri/react-native-background-job"
   ],
   "audio": [
     "https://github.com/expo/expo/tree/main/packages/expo-av"
@@ -332,7 +333,9 @@
   ],
   "screen-orientation": [
     "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation",
-    "https://github.com/wonday/react-native-orientation-locker"
+    "https://github.com/wonday/react-native-orientation-locker",
+    "https://github.com/walmartlabs/react-native-orientation-listener",
+    "https://github.com/kkjdaniel/react-native-device-display"
   ],
   "sceen-capture": [
     "https://github.com/expo/expo/tree/main/packages/expo-screen-capture"
@@ -574,7 +577,8 @@
     "https://github.com/alexfoxy/react-native-units"
   ],
   "sensor": [
-    "https://github.com/SudoPlz/react-native-shake-event"
+    "https://github.com/SudoPlz/react-native-shake-event",
+    "https://github.com/pwmckenna/react-native-motion-manager"
   ],
   "slash-screen": [
     "https://github.com/crazycodeboy/react-native-splash-screen"
@@ -748,7 +752,8 @@
     "https://github.com/alexbrillant/react-native-deck-swiper"
   ],
   "web-browser": [
-    "https://github.com/d-a-n/react-native-webbrowser"
+    "https://github.com/d-a-n/react-native-webbrowser",
+    "https://github.com/naoufal/react-native-safari-view"
   ],
   "circular-action-menu": [
     "https://github.com/geremih/react-native-circular-action-menu"
@@ -774,5 +779,25 @@
   ],
   "android-statusbar": [
     "https://github.com/NishanthShankar/react-native-android-statusbar"
+  ],
+  "splash-screen": [
+    "https://github.com/react-native-component/react-native-smart-splash-screen",
+    "https://github.com/mehcode/rn-splash-screen"
+  ],
+  "blurview": [
+    "https://github.com/voronianski/react-native-effects-view"
+  ],
+  "location": [
+    "https://github.com/timfpark/react-native-location",
+    "https://github.com/devfd/react-native-geocoder"
+  ],
+  "permission": [
+    "https://github.com/yonahforst/react-native-permissions"
+  ],
+  "snapshot-of-a-react-native-view": [
+    "https://github.com/gre/react-native-view-shot"
+  ],
+  "healthkit": [
+    "https://github.com/terrillo/rn-apple-healthkit"
   ]
 }
