@@ -327,7 +327,8 @@
     "https://github.com/expo/expo/tree/main/packages/expo-video-thumbnails"
   ],
   "keep-awake": [
-    "https://github.com/expo/expo/tree/main/packages/expo-keep-awake"
+    "https://github.com/expo/expo/tree/main/packages/expo-keep-awake",
+    "https://github.com/corbt/react-native-keep-awake"
   ],
   "screen-orientation": [
     "https://github.com/expo/expo/tree/main/packages/expo-screen-orientation",
@@ -770,5 +771,8 @@
   ],
   "deeplink": [
     "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution"
+  ],
+  "android-statusbar": [
+    "https://github.com/NishanthShankar/react-native-android-statusbar"
   ]
 }
