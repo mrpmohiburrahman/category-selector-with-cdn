@@ -1458,13 +1458,7 @@
     "android": true,
     "npmPkg": "react-native-branch"
   },
-  {
-    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-branch",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true
-  },
+  
   {
     "githubUrl": "https://github.com/xxsnakerxx/react-native-social-auth",
     "ios": true,
