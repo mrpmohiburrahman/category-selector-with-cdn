@@ -30,7 +30,8 @@
     "https://github.com/SectionTN/otp-input",
     "https://github.com/jodybrewster/react-native-linkedin-login",
     "https://github.com/sbycrosz/react-native-credit-card-input",
-    "https://github.com/Forward-Software/react-auth"
+    "https://github.com/Forward-Software/react-auth",
+    "https://github.com/expo/expo/tree/main/packages/expo-google-sign-in"
   ],
   "parse-js": [
     "https://github.com/parse-community/Parse-SDK-JS"
@@ -177,7 +178,8 @@
     "https://github.com/uxxman/react-native-fa-icons",
     "https://github.com/aykutkardas/react-icomoon",
     "https://github.com/birkir/react-native-sfsymbols",
-    "https://github.com/prscX/react-native-iconic"
+    "https://github.com/prscX/react-native-iconic",
+    "https://github.com/svgr-iconkit/svgr-iconkit"
   ],
   "drag-and-drop": [
     "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view"
@@ -223,7 +225,8 @@
     "https://github.com/dominicstop/react-native-ios-context-menu",
     "https://github.com/prscX/react-native-popover-menu",
     "https://github.com/mastermoo/react-native-action-button",
-    "https://github.com/instea/react-native-popup-menu"
+    "https://github.com/instea/react-native-popup-menu",
+    "https://github.com/jaysoo/react-native-menu"
   ],
   "cloud": [
     "https://github.com/XHMM/react-native-cloud-store",
@@ -616,7 +619,8 @@
     "https://github.com/Noitidart/react-native-buttonex",
     "https://github.com/jacklam718/react-native-button-component",
     "https://github.com/dancormier/react-native-swipeout",
-    "https://github.com/APSL/react-native-button"
+    "https://github.com/APSL/react-native-button",
+    "https://github.com/pettiboy/react-native-ui-buttons"
   ],
   "spruce": [
     "https://github.com/prscX/react-native-spruce"
@@ -704,5 +708,8 @@
   ],
   "accessibility-testing": [
     "https://github.com/aryella-lacerda/react-native-accessibility-engine"
+  ],
+  "mirror-react-native-component": [
+    "https://github.com/meinto/react-native-mirror"
   ]
 }

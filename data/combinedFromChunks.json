@@ -10363,7 +10363,78 @@
     ],
     "uniqueCategory": "accessibility-testing"
   },
-  
+  "https://github.com/RealOrangeOne/react-native-mock": {
+    "githubUrl": "https://github.com/RealOrangeOne/react-native-mock",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RealOrangeOne/react-native-mock",
+        "clone": "https://github.com/RealOrangeOne/react-native-mock.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-06-30T19:42:55Z",
+        "createdAt": "2016-01-30T22:27:14Z",
+        "pushedAt": "2019-06-30T19:42:55Z",
+        "forks": 133,
+        "issues": 33,
+        "subscribers": 22,
+        "stars": 568
+      },
+      "name": "react-native-mock",
+      "fullName": "RealOrangeOne/react-native-mock",
+      "description": "A fully mocked and test-friendly version of react native (maintainers wanted)",
+      "topics": [
+        "react",
+        "react-native",
+        "mock",
+        "testing",
+        "react-native-mock"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 0.3.1",
+        "tagName": "v0.3.1",
+        "createdAt": "2017-02-03T19:36:10Z",
+        "publishedAt": "2017-02-03T19:54:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-mock",
+    "npm": {
+      "downloads": 5162,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1171
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.273,
+    "topicSearchString": "react react-native mock testing react-native-mock",
+    "matchScore": 0.011,
+    "category": [
+      "test"
+    ]
+  },
   "https://github.com/lwansbrough/react-native-ab": {
     "githubUrl": "https://github.com/lwansbrough/react-native-ab",
     "ios": true,
@@ -10492,7 +10563,67 @@
     ],
     "uniqueCategory": "testing"
   },
-  
+  "https://github.com/expo/expo/tree/main/packages/jest-expo-enzyme": {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-enzyme",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2023-01-17T17:28:20Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2023-01-17T17:28:20Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "jest-expo-enzyme",
+    "npm": {
+      "downloads": 7172,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1659
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.019,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "jest"
+    ]
+  },
   "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer": {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer",
     "web": true,
@@ -11165,7 +11296,8 @@
     "matchScore": 0.1,
     "category": [
       "google-sign-in"
-    ]
+    ],
+    "uniqueCategory": "auth"
   },
   "https://github.com/dcangulo/react-native-pkce-challenge": {
     "githubUrl": "https://github.com/dcangulo/react-native-pkce-challenge",
@@ -17666,7 +17798,8 @@
     "matchScore": 111,
     "category": [
       "ui"
-    ]
+    ],
+    "uniqueCategory": "button"
   },
   "https://github.com/nidorx/react-native-ui-blueprint": {
     "githubUrl": "https://github.com/nidorx/react-native-ui-blueprint",
@@ -20366,7 +20499,8 @@
     "matchScore": 111,
     "category": [
       "icon"
-    ]
+    ],
+    "uniqueCategory": "icon"
   },
   "https://github.com/ecklf/react-native-heroicons": {
     "githubUrl": "https://github.com/ecklf/react-native-heroicons",
@@ -26152,7 +26286,8 @@
     "popularity": -0.695,
     "category": [
       "mirror"
-    ]
+    ],
+    "uniqueCategory": "mirror-react-native-component"
   },
   "https://github.com/meinto/react-native-viewpager-carousel": {
     "githubUrl": "https://github.com/meinto/react-native-viewpager-carousel",
@@ -29663,7 +29798,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/jacklam718/react-native-button-component": {
     "githubUrl": "https://github.com/jacklam718/react-native-button-component",
