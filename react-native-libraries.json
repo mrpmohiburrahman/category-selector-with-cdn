@@ -1242,13 +1242,6 @@
         "unmaintained": true
     },
     {
-        "githubUrl": "https://github.com/race604/react-native-viewpager",
-        "ios": true,
-        "android": true,
-        "expoGo": true,
-        "unmaintained": true
-    },
-    {
         "githubUrl": "https://github.com/alinz/react-native-dropdown",
         "ios": true,
         "android": true,

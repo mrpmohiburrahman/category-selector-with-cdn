@@ -30426,59 +30426,6 @@
     "popularity": -0.277
   },
   {
-    "githubUrl": "https://github.com/race604/react-native-viewpager",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "unmaintained": true,
-    "npmPkg": "react-native-viewpager",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/race604/react-native-viewpager",
-        "clone": "https://github.com/race604/react-native-viewpager.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-30T07:40:48Z",
-        "createdAt": "2015-10-10T09:10:39Z",
-        "pushedAt": "2022-07-19T07:20:18Z",
-        "issues": 107,
-        "subscribers": 48,
-        "stars": 1410,
-        "forks": 376
-      },
-      "name": "react-native-viewpager",
-      "fullName": "race604/react-native-viewpager",
-      "description": "[Deprecated] ViewPager component for React Native",
-      "topics": [],
-      "license": null,
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 3214,
-      "weekDownloads": 536,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 38,
-    "matchingScoreModifiers": [
-      "Popular",
-      "Lots of open issues",
-      "No license",
-      "Recently updated"
-    ],
-    "popularity": -0.333
-  },
-  {
     "githubUrl": "https://github.com/alinz/react-native-dropdown",
     "ios": true,
     "android": true,
